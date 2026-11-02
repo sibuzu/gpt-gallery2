@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <title>GPT Gallery — modern portrait</title>
+  <rect x="8" y="8" width="240" height="240" rx="52" fill="#0f766e"/>
+  <path d="M48 88V48h40m80 160h40v-40" stroke="#a7d8cf" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="128" cy="91" r="27" fill="#fff9f0"/>
+  <path d="M68 204v-16c0-34 26-56 60-56s60 22 60 56v16H68Z" fill="#d98b9b"/>
+</svg>
