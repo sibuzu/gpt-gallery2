@@ -24,6 +24,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "動漫",
+    "src": "images/動漫/Saber-02.png",
+    "hasDescription": true,
+    "title": "Saber-02",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "性感",
     "src": "images/性感/V領腰側鏤空無袖連身裙-01.png",
     "hasDescription": true,
@@ -54,6 +62,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "細肩帶短洋裝-10",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "動漫",
+    "src": "images/動漫/Aerith-03.png",
+    "hasDescription": true,
+    "title": "Aerith-03",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "性感",
@@ -180,6 +196,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/動漫/早乙女らんま（女）-02.png",
     "hasDescription": true,
     "title": "早乙女らんま（女）-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "動漫",
+    "src": "images/動漫/ヤマト-02.png",
+    "hasDescription": true,
+    "title": "ヤマト-02",
     "width": 941,
     "height": 1672
   },
@@ -326,6 +350,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "櫻花和服-01",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "動漫",
+    "src": "images/動漫/初音ミク-02.png",
+    "hasDescription": true,
+    "title": "初音ミク-02",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "性感",
@@ -502,6 +534,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Nico Robin-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "動漫",
+    "src": "images/動漫/峰不二子-02.png",
+    "hasDescription": true,
+    "title": "峰不二子-02",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "性感",
@@ -721,6 +761,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "動漫",
+    "src": "images/動漫/Sophitia-02.png",
+    "hasDescription": true,
+    "title": "Sophitia-02",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "動漫",
     "src": "images/動漫/ルールー-01.png",
     "hasDescription": true,
     "title": "ルールー-01",
@@ -864,6 +912,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "動漫",
+    "src": "images/動漫/弁天-02.png",
+    "hasDescription": true,
+    "title": "弁天-02",
+    "width": 941,
+    "height": 1671
+  },
+  {
     "category": "清新",
     "src": "images/清新/奇幻長袍-01.png",
     "hasDescription": true,
@@ -934,6 +990,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "單肩上衣+高腰A字短裙-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "動漫",
+    "src": "images/動漫/タキ-03.png",
+    "hasDescription": true,
+    "title": "タキ-03",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "性感",
@@ -1102,6 +1166,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "ナミ-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "動漫",
+    "src": "images/動漫/神楽_銀魂-03.png",
+    "hasDescription": true,
+    "title": "神楽_銀魂-03",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "清新",
@@ -1280,6 +1352,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
+    "category": "動漫",
+    "src": "images/動漫/春麗-02.png",
+    "hasDescription": true,
+    "title": "春麗-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "性感",
     "src": "images/性感/深V短上衣+迷你裙-01.png",
     "hasDescription": true,
@@ -1344,6 +1424,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "動漫",
+    "src": "images/動漫/猿飛あやめ-02.png",
+    "hasDescription": true,
+    "title": "猿飛あやめ-02",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "性感",
     "src": "images/性感/雪紡海灘短洋裝-03.png",
     "hasDescription": true,
@@ -1382,6 +1470,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "露肩短上衣+迷你裙-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "動漫",
+    "src": "images/動漫/ペローナ-02.png",
+    "hasDescription": true,
+    "title": "ペローナ-02",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "性感",
@@ -1472,6 +1568,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "動漫",
+    "src": "images/動漫/アンヘル-02.png",
+    "hasDescription": true,
+    "title": "アンヘル-02",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "清新",
     "src": "images/清新/長洋裝+針織外套-01.png",
     "hasDescription": true,
@@ -1486,6 +1590,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "及膝連身裙+針織外套-01",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "動漫",
+    "src": "images/動漫/綱手-02.png",
+    "hasDescription": true,
+    "title": "綱手-02",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "動漫",
@@ -1648,6 +1760,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "動漫",
+    "src": "images/動漫/アイヴィー-02.png",
+    "hasDescription": true,
+    "title": "アイヴィー-02",
+    "width": 941,
+    "height": 1671
+  },
+  {
     "category": "性感",
     "src": "images/性感/細肩帶短洋裝-09.png",
     "hasDescription": true,
@@ -1664,12 +1784,28 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "動漫",
+    "src": "images/動漫/Cassandra-03.png",
+    "hasDescription": true,
+    "title": "Cassandra-03",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "性感",
     "src": "images/性感/露肩上衣+高腰A字短裙-01.png",
     "hasDescription": true,
     "title": "露肩上衣+高腰A字短裙-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "動漫",
+    "src": "images/動漫/九能小太刀-04.png",
+    "hasDescription": true,
+    "title": "九能小太刀-04",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "性感",
@@ -1710,6 +1846,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "深V短上衣+牛仔迷你裙-02",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "動漫",
+    "src": "images/動漫/Tifa-03.png",
+    "hasDescription": true,
+    "title": "Tifa-03",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "性感",
@@ -1832,6 +1976,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "動漫",
+    "src": "images/動漫/ラム-02.png",
+    "hasDescription": true,
+    "title": "ラム-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "性感",
     "src": "images/性感/細肩帶短洋裝-04.png",
     "hasDescription": true,
@@ -1942,6 +2094,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "あやね-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "動漫",
+    "src": "images/動漫/不知火舞-03.png",
+    "hasDescription": true,
+    "title": "不知火舞-03",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "清新",
@@ -2064,6 +2224,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "動漫",
+    "src": "images/動漫/桔梗-03.png",
+    "hasDescription": true,
+    "title": "桔梗-03",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "性感",
     "src": "images/性感/細肩帶短洋裝-08.png",
     "hasDescription": true,
@@ -2132,6 +2300,22 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/性感/細肩帶背心+迷你裙-02.png",
     "hasDescription": true,
     "title": "細肩帶背心+迷你裙-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "動漫",
+    "src": "images/動漫/美樹さやか-02.png",
+    "hasDescription": true,
+    "title": "美樹さやか-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "動漫",
+    "src": "images/動漫/孔雀舞-02.png",
+    "hasDescription": true,
+    "title": "孔雀舞-02",
     "width": 941,
     "height": 1672
   },
