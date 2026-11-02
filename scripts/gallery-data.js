@@ -856,6 +856,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "清新",
+    "src": "images/清新/條紋上衣+長褲-01.png",
+    "hasDescription": true,
+    "title": "條紋上衣+長褲-01",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "動漫",
     "src": "images/動漫/レム-01.png",
     "hasDescription": true,
@@ -1668,14 +1676,6 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/性感/細肩帶背心+迷你裙-02.png",
     "hasDescription": true,
     "title": "細肩帶背心+迷你裙-02",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "性感",
-    "src": "images/性感/條紋上衣+長褲-01.png",
-    "hasDescription": true,
-    "title": "條紋上衣+長褲-01",
     "width": 941,
     "height": 1672
   }
