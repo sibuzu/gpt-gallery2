@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-03",
+  "category": "故事",
+  "source_share": "https://chatgpt.com/share/6ae8cdf8-a904-83e8-b416-d6c0996ca9bb",
+  "image_handling": "Original source PNG bytes preserved; no resizing, recompression, or mirroring.",
+  "prompt_handling": "Full original user prompt including the numbered headline is preserved. Filenames use the first headline number and title; additional images with the same headline receive -02, -03, etc.",
+  "deduplication": "Compared SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, against all existing gallery categories and this import.",
+  "summary": {
+    "unique_generated_source_images": 1,
+    "unique_story_headlines": 1,
+    "added": 1,
+    "skipped_existing_duplicates": 0
+  },
+  "images": [
+    {
+      "image": "images/故事/085_老溫室的紫色光.png",
+      "prompt_file": "images/故事/085_老溫室的紫色光.md",
+      "headline": "085 / 129｜老溫室的紫色光",
+      "source_share": "https://chatgpt.com/share/6ae8cdf8-a904-83e8-b416-d6c0996ca9bb",
+      "source_file_id": "file_000000007f848206ace9cda7615b7af0",
+      "source_message_id": "3d93447b-6fc1-455c-9736-887780c05709",
+      "source_role": "tool",
+      "source_image_title": "薰衣草溫室漫步",
+      "horizontal_mirror": false,
+      "original_sha256": "850b8a4c98559451a40a4b3f757c440d05ed2ad7465e6b928b922c600b34410a",
+      "output_sha256": "850b8a4c98559451a40a4b3f757c440d05ed2ad7465e6b928b922c600b34410a",
+      "size_bytes": 3187299,
+      "width": 941,
+      "height": 1672
+    }
+  ],
+  "skipped": []
+}

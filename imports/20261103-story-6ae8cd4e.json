@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-03",
+  "category": "故事",
+  "source_share": "https://chatgpt.com/share/6ae8cd4e-12a4-83ee-97f1-fcfd967b20f3",
+  "image_handling": "Original source PNG bytes preserved; no resizing, recompression, or mirroring.",
+  "prompt_handling": "Full original user prompt including the numbered headline is preserved. Filenames use the first headline number and title; additional images with the same headline receive -02, -03, etc.",
+  "deduplication": "Compared SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, against all existing gallery categories and this import.",
+  "summary": {
+    "unique_generated_source_images": 4,
+    "unique_story_headlines": 4,
+    "added": 4,
+    "skipped_existing_duplicates": 0
+  },
+  "images": [
+    {
+      "image": "images/故事/071_攝影藝廊的片刻.png",
+      "prompt_file": "images/故事/071_攝影藝廊的片刻.md",
+      "headline": "071 / 021｜攝影藝廊的片刻",
+      "source_share": "https://chatgpt.com/share/6ae8cd4e-12a4-83ee-97f1-fcfd967b20f3",
+      "source_file_id": "file_00000000a23c8206bcd6b3d545fc780c",
+      "source_message_id": "0a3cfcdc-a0d7-4d91-a1a7-57f2d59d9118",
+      "source_role": "tool",
+      "source_image_title": "藝廊中的紫色時尚女子",
+      "horizontal_mirror": false,
+      "original_sha256": "fa69ecb3f35c267ca52dab2e63273d385c02fbd24ee4ecb573162622d8843034",
+      "output_sha256": "fa69ecb3f35c267ca52dab2e63273d385c02fbd24ee4ecb573162622d8843034",
+      "size_bytes": 2168836,
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "image": "images/故事/078_運河窗邊的花盆.png",
+      "prompt_file": "images/故事/078_運河窗邊的花盆.md",
+      "headline": "078 / 071｜運河窗邊的花盆",
+      "source_share": "https://chatgpt.com/share/6ae8cd4e-12a4-83ee-97f1-fcfd967b20f3",
+      "source_file_id": "file_000000005e108206a58e421b6cb1651a",
+      "source_message_id": "97019cf9-9622-4ac2-b44e-8923fb792b83",
+      "source_role": "tool",
+      "source_image_title": "運河畔的白花邂逅",
+      "horizontal_mirror": false,
+      "original_sha256": "8949478b999e3081ace94012fc178808d936074e3e855db6663069ec68daec16",
+      "output_sha256": "8949478b999e3081ace94012fc178808d936074e3e855db6663069ec68daec16",
+      "size_bytes": 3174572,
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "image": "images/故事/085_老溫室的紫色光.png",
+      "prompt_file": "images/故事/085_老溫室的紫色光.md",
+      "headline": "085 / 129｜老溫室的紫色光",
+      "source_share": "https://chatgpt.com/share/6ae8cd4e-12a4-83ee-97f1-fcfd967b20f3",
+      "source_file_id": "file_000000005f3c82069c7b525179dbdcc7",
+      "source_message_id": "5dbcfdce-543f-4d45-8400-706a127553d7",
+      "source_role": "tool",
+      "source_image_title": "三景花影時尚人像 triptych",
+      "horizontal_mirror": false,
+      "original_sha256": "cfe2d177ccc40827d50f6bc82411974405258e4d6e67a81c2304bc2368c2c132",
+      "output_sha256": "cfe2d177ccc40827d50f6bc82411974405258e4d6e67a81c2304bc2368c2c132",
+      "size_bytes": 2894351,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "image": "images/故事/142_植物版畫的小展間.png",
+      "prompt_file": "images/故事/142_植物版畫的小展間.md",
+      "headline": "142 / 044｜植物版畫的小展間",
+      "source_share": "https://chatgpt.com/share/6ae8cd4e-12a4-83ee-97f1-fcfd967b20f3",
+      "source_file_id": "file_00000000708c820698fea81e729d8eee",
+      "source_message_id": "a5fd9861-fddb-4543-815b-57262fa7f558",
+      "source_role": "tool",
+      "source_image_title": "紫藤花藝工作室的午後時光",
+      "horizontal_mirror": false,
+      "original_sha256": "6db75ec928ee57983457ff081d05d2cca5eab7170f3951aa2c399f8fb1512290",
+      "output_sha256": "6db75ec928ee57983457ff081d05d2cca5eab7170f3951aa2c399f8fb1512290",
+      "size_bytes": 2458034,
+      "width": 941,
+      "height": 1672
+    }
+  ],
+  "skipped": []
+}
