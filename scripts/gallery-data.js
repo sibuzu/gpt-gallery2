@@ -128,6 +128,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/042_香氛蠟燭的小店.png",
+    "hasDescription": true,
+    "title": "042_香氛蠟燭的小店",
+    "width": 941,
+    "height": 1671
+  },
+  {
     "category": "動漫",
     "src": "images/動漫/Yuna-03.png",
     "hasDescription": true,
@@ -214,6 +222,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "學院風制服-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/043_檸檬花房的小禮物.png",
+    "hasDescription": true,
+    "title": "043_檸檬花房的小禮物",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "性感",
@@ -680,6 +696,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
+    "category": "故事",
+    "src": "images/故事/049_藍色玻璃的倒影.png",
+    "hasDescription": true,
+    "title": "049_藍色玻璃的倒影",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "性感",
     "src": "images/性感/馬甲式短上衣+高腰A字短裙-01.png",
     "hasDescription": true,
@@ -692,6 +716,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/動漫/松本乱菊-01.png",
     "hasDescription": true,
     "title": "松本乱菊-01",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/041_盆景設計室的綠意.png",
+    "hasDescription": true,
+    "title": "041_盆景設計室的綠意",
     "width": 941,
     "height": 1672
   },
@@ -798,6 +830,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "星辰長袍-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/044_城市玻璃廊道.png",
+    "hasDescription": true,
+    "title": "044_城市玻璃廊道",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "動漫",
@@ -1409,6 +1449,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
+    "src": "images/故事/046_濱海藝廊的曲線.png",
+    "hasDescription": true,
+    "title": "046_濱海藝廊的曲線",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "故事",
     "src": "images/故事/021_藍白牛奶吧的早晨.png",
     "hasDescription": true,
     "title": "021_藍白牛奶吧的早晨",
@@ -1518,6 +1566,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "033_刺繡藝廊的花紋",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/040_花藝旅店的壁爐廳.png",
+    "hasDescription": true,
+    "title": "040_花藝旅店的壁爐廳",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "動漫",
@@ -1680,6 +1736,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/047_可可庭院的咖啡香.png",
+    "hasDescription": true,
+    "title": "047_可可庭院的咖啡香",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "清新",
     "src": "images/清新/針織上衣+百褶長裙-02.png",
     "hasDescription": true,
@@ -1702,6 +1766,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "ラム-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/050_花草手帳的頁面.png",
+    "hasDescription": true,
+    "title": "050_花草手帳的頁面",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "動漫",
@@ -1758,6 +1830,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "露肩短上衣+迷你裙-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/048_單車咖啡店的休息.png",
+    "hasDescription": true,
+    "title": "048_單車咖啡店的休息",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "故事",
@@ -2334,6 +2414,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "掛脖上衣+高腰短裙-02",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/045_電車站的輕快日常.png",
+    "hasDescription": true,
+    "title": "045_電車站的輕快日常",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "故事",
