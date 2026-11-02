@@ -1,19 +1,27 @@
 window.__GALLERY_IMAGES__ = [
   {
     "category": "故事",
-    "src": "images/故事/012_巧克力店的禮物.png",
+    "src": "images/故事/044A_城市玻璃廊道.png",
     "hasDescription": true,
-    "title": "012_巧克力店的禮物",
-    "width": 942,
-    "height": 1669
+    "title": "044A_城市玻璃廊道",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "故事",
-    "src": "images/故事/055_海邊明信片攤.png",
+    "src": "images/故事/141A_港灣音樂露台的夕光.png",
     "hasDescription": true,
-    "title": "055_海邊明信片攤",
-    "width": 942,
-    "height": 1670
+    "title": "141A_港灣音樂露台的夕光",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/038A_唱片角落的粉色.png",
+    "hasDescription": true,
+    "title": "038A_唱片角落的粉色",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "性感",
@@ -48,10 +56,26 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "故事",
+    "src": "images/故事/005A_石庭藝廊的綠意.png",
+    "hasDescription": true,
+    "title": "005A_石庭藝廊的綠意",
+    "width": 941,
+    "height": 1671
+  },
+  {
     "category": "性感",
     "src": "images/性感/V領腰側鏤空無袖連身裙-01.png",
     "hasDescription": true,
     "title": "V領腰側鏤空無袖連身裙-01",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/051A_鏡面設計展的留白.png",
+    "hasDescription": true,
+    "title": "051A_鏡面設計展的留白",
     "width": 941,
     "height": 1672
   },
@@ -73,11 +97,19 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/142_植物版畫的小展間.png",
+    "src": "images/故事/073A_老劇院的花束櫃.png",
     "hasDescription": true,
-    "title": "142_植物版畫的小展間",
+    "title": "073A_老劇院的花束櫃",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/110A_馬賽克廣場的橘光.png",
+    "hasDescription": true,
+    "title": "110A_馬賽克廣場的橘光",
     "width": 941,
-    "height": 1672
+    "height": 1671
   },
   {
     "category": "性感",
@@ -89,11 +121,35 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/066_水族館長廊的藍.png",
+    "src": "images/故事/092A_鋼筆店的紫色筆記.png",
     "hasDescription": true,
-    "title": "066_水族館長廊的藍",
+    "title": "092A_鋼筆店的紫色筆記",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/105A_設計書展的線條.png",
+    "hasDescription": true,
+    "title": "105A_設計書展的線條",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/050A_花草手帳的頁面.png",
+    "hasDescription": true,
+    "title": "050A_花草手帳的頁面",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/041A_盆景設計室的綠意.png",
+    "hasDescription": true,
+    "title": "041A_盆景設計室的綠意",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "動漫",
@@ -113,11 +169,19 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/014_乾燥花的小收藏.png",
+    "src": "images/故事/042A_香氛蠟燭的小店.png",
     "hasDescription": true,
-    "title": "014_乾燥花的小收藏",
-    "width": 942,
-    "height": 1670
+    "title": "042A_香氛蠟燭的小店",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/132A_夜間光影庭院.png",
+    "hasDescription": true,
+    "title": "132A_夜間光影庭院",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "性感",
@@ -152,14 +216,6 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
-    "category": "故事",
-    "src": "images/故事/042_香氛蠟燭的小店.png",
-    "hasDescription": true,
-    "title": "042_香氛蠟燭的小店",
-    "width": 941,
-    "height": 1671
-  },
-  {
     "category": "動漫",
     "src": "images/動漫/Yuna-03.png",
     "hasDescription": true,
@@ -184,28 +240,28 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "故事",
+    "src": "images/故事/007A_紫色雕塑庭院.png",
+    "hasDescription": true,
+    "title": "007A_紫色雕塑庭院",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/019A_春日花店的包花台.png",
+    "hasDescription": true,
+    "title": "019A_春日花店的包花台",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "清新",
     "src": "images/清新/厚針織上衣+羊毛長裙-01.png",
     "hasDescription": true,
     "title": "厚針織上衣+羊毛長裙-01",
     "width": 941,
     "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/150_織錦展的深紫色.png",
-    "hasDescription": true,
-    "title": "150_織錦展的深紫色",
-    "width": 941,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/006_莓果甜點的選單.png",
-    "hasDescription": true,
-    "title": "006_莓果甜點的選單",
-    "width": 941,
-    "height": 1670
   },
   {
     "category": "性感",
@@ -221,14 +277,6 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "深V領襯衫+百褶短裙-01",
     "width": 941,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/022_週末植栽市集.png",
-    "hasDescription": true,
-    "title": "022_週末植栽市集",
-    "width": 942,
     "height": 1670
   },
   {
@@ -248,6 +296,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
+    "category": "故事",
+    "src": "images/故事/122A_歷史郵局的書信.png",
+    "hasDescription": true,
+    "title": "122A_歷史郵局的書信",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "清新",
     "src": "images/清新/學院風制服-01.png",
     "hasDescription": true,
@@ -257,19 +313,19 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/125_水庭展廊的停步.png",
+    "src": "images/故事/003A_唱片行的橘色節拍.png",
     "hasDescription": true,
-    "title": "125_水庭展廊的停步",
+    "title": "003A_唱片行的橘色節拍",
     "width": 941,
-    "height": 1672
+    "height": 1671
   },
   {
     "category": "故事",
-    "src": "images/故事/043_檸檬花房的小禮物.png",
+    "src": "images/故事/145A_紫藤棚下的午休.png",
     "hasDescription": true,
-    "title": "043_檸檬花房的小禮物",
-    "width": 941,
-    "height": 1671
+    "title": "145A_紫藤棚下的午休",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "性感",
@@ -280,6 +336,22 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/139A_亞麻選物店的光.png",
+    "hasDescription": true,
+    "title": "139A_亞麻選物店的光",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/096A_版畫選物店的週末.png",
+    "hasDescription": true,
+    "title": "096A_版畫選物店的週末",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "清新",
     "src": "images/清新/西裝外套+針織上衣+長褲-01.png",
     "hasDescription": true,
@@ -288,28 +360,28 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
-    "category": "故事",
-    "src": "images/故事/102_珍珠工坊的展示窗.png",
-    "hasDescription": true,
-    "title": "102_珍珠工坊的展示窗",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/092_鋼筆店的紫色筆記.png",
-    "hasDescription": true,
-    "title": "092_鋼筆店的紫色筆記",
-    "width": 942,
-    "height": 1670
-  },
-  {
     "category": "動漫",
     "src": "images/動漫/早乙女らんま（女）-02.png",
     "hasDescription": true,
     "title": "早乙女らんま（女）-02",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/135A_藍色劇場的入口.png",
+    "hasDescription": true,
+    "title": "135A_藍色劇場的入口",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/098A_旅店休憩廳的翻閱.png",
+    "hasDescription": true,
+    "title": "098A_旅店休憩廳的翻閱",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "動漫",
@@ -326,6 +398,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "掛脖上衣+高腰短裙-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/062A_皮革工藝店的亮點.png",
+    "hasDescription": true,
+    "title": "062A_皮革工藝店的亮點",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "性感",
@@ -360,20 +440,20 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/106A_設計廣場的綠色步伐.png",
+    "hasDescription": true,
+    "title": "106A_設計廣場的綠色步伐",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "性感",
     "src": "images/性感/短版和服-08.png",
     "hasDescription": true,
     "title": "短版和服-08",
     "width": 941,
     "height": 1671
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/114_紫色花紙店的小選擇.png",
-    "hasDescription": true,
-    "title": "114_紫色花紙店的小選擇",
-    "width": 942,
-    "height": 1670
   },
   {
     "category": "動漫",
@@ -392,18 +472,18 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "故事",
+    "src": "images/故事/079A_蘭花店的綠色層次.png",
+    "hasDescription": true,
+    "title": "079A_蘭花店的綠色層次",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "性感",
     "src": "images/性感/短版上衣+百褶短裙-01.png",
     "hasDescription": true,
     "title": "短版上衣+百褶短裙-01",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/159_纖維藝術館的光.png",
-    "hasDescription": true,
-    "title": "159_纖維藝術館的光",
     "width": 942,
     "height": 1670
   },
@@ -465,19 +545,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/147_玻璃花房的白花.png",
+    "src": "images/故事/126A_陶土咖啡館的暖色.png",
     "hasDescription": true,
-    "title": "147_玻璃花房的白花",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/079_蘭花店的綠色層次.png",
-    "hasDescription": true,
-    "title": "079_蘭花店的綠色層次",
+    "title": "126A_陶土咖啡館的暖色",
     "width": 941,
-    "height": 1670
+    "height": 1672
   },
   {
     "category": "動漫",
@@ -488,36 +560,12 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
-    "category": "故事",
-    "src": "images/故事/068_星象館的藍色序曲.png",
-    "hasDescription": true,
-    "title": "068_星象館的藍色序曲",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/011_海邊詩句庭院.png",
-    "hasDescription": true,
-    "title": "011_海邊詩句庭院",
-    "width": 942,
-    "height": 1670
-  },
-  {
     "category": "性感",
     "src": "images/性感/深V領長袖短上衣+高腰短褲-01.png",
     "hasDescription": true,
     "title": "深V領長袖短上衣+高腰短褲-01",
     "width": 941,
     "height": 1671
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/080_藍調音樂廳的等待.png",
-    "hasDescription": true,
-    "title": "080_藍調音樂廳的等待",
-    "width": 942,
-    "height": 1670
   },
   {
     "category": "清新",
@@ -552,12 +600,28 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/018A_香草花圃的片刻.png",
+    "hasDescription": true,
+    "title": "018A_香草花圃的片刻",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "清新",
     "src": "images/清新/蝴蝶結襯衫+百褶長裙-01.png",
     "hasDescription": true,
     "title": "蝴蝶結襯衫+百褶長裙-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/032A_藝術影院的候場.png",
+    "hasDescription": true,
+    "title": "032A_藝術影院的候場",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "動漫",
@@ -568,27 +632,19 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/024A_河岸玻璃花店.png",
+    "hasDescription": true,
+    "title": "024A_河岸玻璃花店",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "清新",
     "src": "images/清新/長版風衣+針織洋裝-01.png",
     "hasDescription": true,
     "title": "長版風衣+針織洋裝-01",
     "width": 941,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/064_街頭書市的紅色.png",
-    "hasDescription": true,
-    "title": "064_街頭書市的紅色",
-    "width": 941,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/018_香草花圃的片刻.png",
-    "hasDescription": true,
-    "title": "018_香草花圃的片刻",
-    "width": 942,
     "height": 1670
   },
   {
@@ -609,9 +665,9 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/138_紅色雕塑的對話.png",
+    "src": "images/故事/061A_屋頂香草花園.png",
     "hasDescription": true,
-    "title": "138_紅色雕塑的對話",
+    "title": "061A_屋頂香草花園",
     "width": 942,
     "height": 1670
   },
@@ -640,6 +696,22 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/159A_纖維藝術館的光.png",
+    "hasDescription": true,
+    "title": "159A_纖維藝術館的光",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/095A_柑橘農園的午後.png",
+    "hasDescription": true,
+    "title": "095A_柑橘農園的午後",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "性感",
     "src": "images/性感/V領腰側鏤空無袖連身裙-04.png",
     "hasDescription": true,
@@ -665,11 +737,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/103_小誌市集的翻頁.png",
+    "src": "images/故事/020A_紅框咖啡窗的回眸.png",
     "hasDescription": true,
-    "title": "103_小誌市集的翻頁",
-    "width": 941,
-    "height": 1672
+    "title": "020A_紅框咖啡窗的回眸",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "性感",
@@ -689,25 +761,9 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/058_香氛博物館的小瓶.png",
+    "src": "images/故事/099A_河岸木平台的風.png",
     "hasDescription": true,
-    "title": "058_香氛博物館的小瓶",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/155_蜜桃花展的午後.png",
-    "hasDescription": true,
-    "title": "155_蜜桃花展的午後",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/121_繡球花廊的歇腳.png",
-    "hasDescription": true,
-    "title": "121_繡球花廊的歇腳",
+    "title": "099A_河岸木平台的風",
     "width": 942,
     "height": 1670
   },
@@ -720,20 +776,20 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "故事",
+    "src": "images/故事/053A_彩磚展間的橘色.png",
+    "hasDescription": true,
+    "title": "053A_彩磚展間的橘色",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "動漫",
     "src": "images/動漫/ヨーコ・リットナー-01.png",
     "hasDescription": true,
     "title": "ヨーコ・リットナー-01",
     "width": 941,
     "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/082_花草午茶的桌邊.png",
-    "hasDescription": true,
-    "title": "082_花草午茶的桌邊",
-    "width": 942,
-    "height": 1670
   },
   {
     "category": "性感",
@@ -745,9 +801,9 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/139_亞麻選物店的光.png",
+    "src": "images/故事/091A_陶瓷色票的午後.png",
     "hasDescription": true,
-    "title": "139_亞麻選物店的光",
+    "title": "091A_陶瓷色票的午後",
     "width": 942,
     "height": 1670
   },
@@ -784,6 +840,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/035A_屋頂攝影展的城市.png",
+    "hasDescription": true,
+    "title": "035A_屋頂攝影展的城市",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "動漫",
     "src": "images/動漫/Nico Robin-01.png",
     "hasDescription": true,
@@ -805,14 +869,6 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "露肩短上衣+側開衩短裙-01",
     "width": 940,
-    "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/105_設計書展的線條.png",
-    "hasDescription": true,
-    "title": "105_設計書展的線條",
-    "width": 941,
     "height": 1672
   },
   {
@@ -849,9 +905,9 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/062_皮革工藝店的亮點.png",
+    "src": "images/故事/157A_紙燈設計展的霧紫.png",
     "hasDescription": true,
-    "title": "062_皮革工藝店的亮點",
+    "title": "157A_紙燈設計展的霧紫",
     "width": 942,
     "height": 1670
   },
@@ -889,25 +945,17 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/098_旅店休憩廳的翻閱.png",
+    "src": "images/故事/058A_香氛博物館的小瓶.png",
     "hasDescription": true,
-    "title": "098_旅店休憩廳的翻閱",
+    "title": "058A_香氛博物館的小瓶",
     "width": 942,
     "height": 1670
   },
   {
     "category": "故事",
-    "src": "images/故事/049_藍色玻璃的倒影.png",
+    "src": "images/故事/008A_檸檬冰淇淋小店.png",
     "hasDescription": true,
-    "title": "049_藍色玻璃的倒影",
-    "width": 941,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/074_溫室裡的新葉.png",
-    "hasDescription": true,
-    "title": "074_溫室裡的新葉",
+    "title": "008A_檸檬冰淇淋小店",
     "width": 942,
     "height": 1670
   },
@@ -920,26 +968,10 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
-    "category": "故事",
-    "src": "images/故事/137_紙花裝置的長廊.png",
-    "hasDescription": true,
-    "title": "137_紙花裝置的長廊",
-    "width": 942,
-    "height": 1670
-  },
-  {
     "category": "動漫",
     "src": "images/動漫/松本乱菊-01.png",
     "hasDescription": true,
     "title": "松本乱菊-01",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/041_盆景設計室的綠意.png",
-    "hasDescription": true,
-    "title": "041_盆景設計室的綠意",
     "width": 941,
     "height": 1672
   },
@@ -960,6 +992,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "故事",
+    "src": "images/故事/015A_奶油色甜點櫥窗.png",
+    "hasDescription": true,
+    "title": "015A_奶油色甜點櫥窗",
+    "width": 942,
+    "height": 1669
+  },
+  {
     "category": "動漫",
     "src": "images/動漫/志村妙-02.png",
     "hasDescription": true,
@@ -969,11 +1009,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/119_海風花園的散步.png",
+    "src": "images/故事/001A_香草餐館的小午休.png",
     "hasDescription": true,
-    "title": "119_海風花園的散步",
-    "width": 942,
-    "height": 1670
+    "title": "001A_香草餐館的小午休",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "動漫",
@@ -982,6 +1022,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "ランチ-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/131A_玫瑰露台的午後.png",
+    "hasDescription": true,
+    "title": "131A_玫瑰露台的午後",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "清新",
@@ -1000,20 +1048,20 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
-    "category": "故事",
-    "src": "images/故事/151_木質琴房的暖意.png",
-    "hasDescription": true,
-    "title": "151_木質琴房的暖意",
-    "width": 942,
-    "height": 1670
-  },
-  {
     "category": "性感",
     "src": "images/性感/薄紗襯衫+皮質迷你裙-01.png",
     "hasDescription": true,
     "title": "薄紗襯衫+皮質迷你裙-01",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/154A_暖黃色茶室的日光.png",
+    "hasDescription": true,
+    "title": "154A_暖黃色茶室的日光",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "性感",
@@ -1056,6 +1104,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/065A_老照相館的柔焦.png",
+    "hasDescription": true,
+    "title": "065A_老照相館的柔焦",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "清新",
     "src": "images/清新/星辰長袍-01.png",
     "hasDescription": true,
@@ -1065,9 +1121,33 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/044_城市玻璃廊道.png",
+    "src": "images/故事/087A_暖燈圖書室的晚讀.png",
     "hasDescription": true,
-    "title": "044_城市玻璃廊道",
+    "title": "087A_暖燈圖書室的晚讀",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/137A_紙花裝置的長廊.png",
+    "hasDescription": true,
+    "title": "137A_紙花裝置的長廊",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/127A_運河博物館的窗景.png",
+    "hasDescription": true,
+    "title": "127A_運河博物館的窗景",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/130A_溫室咖啡的午後.png",
+    "hasDescription": true,
+    "title": "130A_溫室咖啡的午後",
     "width": 941,
     "height": 1671
   },
@@ -1081,17 +1161,17 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/122_歷史郵局的書信.png",
+    "src": "images/故事/129A_白色藝術中心的早晨.png",
     "hasDescription": true,
-    "title": "122_歷史郵局的書信",
-    "width": 942,
-    "height": 1670
+    "title": "129A_白色藝術中心的早晨",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "故事",
-    "src": "images/故事/081_禮物包裝店的緞帶.png",
+    "src": "images/故事/075A_玻璃植栽的微型世界.png",
     "hasDescription": true,
-    "title": "081_禮物包裝店的緞帶",
+    "title": "075A_玻璃植栽的微型世界",
     "width": 942,
     "height": 1670
   },
@@ -1105,9 +1185,17 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/087_暖燈圖書室的晚讀.png",
+    "src": "images/故事/063A_糖霜櫥窗的甜意.png",
     "hasDescription": true,
-    "title": "087_暖燈圖書室的晚讀",
+    "title": "063A_糖霜櫥窗的甜意",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/034A_水色展廳的回眸.png",
+    "hasDescription": true,
+    "title": "034A_水色展廳的回眸",
     "width": 942,
     "height": 1670
   },
@@ -1118,6 +1206,22 @@ window.__GALLERY_IMAGES__ = [
     "title": "天道あかね-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/009A_科學影像展的藍光.png",
+    "hasDescription": true,
+    "title": "009A_科學影像展的藍光",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/120A_古籍書庫的靜謐.png",
+    "hasDescription": true,
+    "title": "120A_古籍書庫的靜謐",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "清新",
@@ -1137,27 +1241,19 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/067_瓶中花園的粉色.png",
+    "src": "images/故事/074A_溫室裡的新葉.png",
     "hasDescription": true,
-    "title": "067_瓶中花園的粉色",
+    "title": "074A_溫室裡的新葉",
     "width": 942,
     "height": 1670
   },
   {
     "category": "故事",
-    "src": "images/故事/100_海景白花棚架.png",
+    "src": "images/故事/152A_石造植物館的影子.png",
     "hasDescription": true,
-    "title": "100_海景白花棚架",
+    "title": "152A_石造植物館的影子",
     "width": 942,
-    "height": 1669
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/126_陶土咖啡館的暖色.png",
-    "hasDescription": true,
-    "title": "126_陶土咖啡館的暖色",
-    "width": 941,
-    "height": 1672
+    "height": 1670
   },
   {
     "category": "動漫",
@@ -1166,14 +1262,6 @@ window.__GALLERY_IMAGES__ = [
     "title": "Aerith-02",
     "width": 941,
     "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/059_綠磚咖啡館的角落.png",
-    "hasDescription": true,
-    "title": "059_綠磚咖啡館的角落",
-    "width": 942,
-    "height": 1670
   },
   {
     "category": "動漫",
@@ -1224,6 +1312,22 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/149A_港邊明信片小站.png",
+    "hasDescription": true,
+    "title": "149A_港邊明信片小站",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/089A_茶器小店的春日.png",
+    "hasDescription": true,
+    "title": "089A_茶器小店的春日",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "性感",
     "src": "images/性感/掛脖上衣+比基尼泳褲-01.png",
     "hasDescription": true,
@@ -1264,18 +1368,18 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/082A_花草午茶的桌邊.png",
+    "hasDescription": true,
+    "title": "082A_花草午茶的桌邊",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "動漫",
     "src": "images/動漫/猿飛あやめ-01.png",
     "hasDescription": true,
     "title": "猿飛あやめ-01",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/002_巧克力書屋的角落.png",
-    "hasDescription": true,
-    "title": "002_巧克力書屋的角落",
     "width": 941,
     "height": 1672
   },
@@ -1288,14 +1392,6 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
-    "category": "故事",
-    "src": "images/故事/140_杏桃磁磚的早午餐.png",
-    "hasDescription": true,
-    "title": "140_杏桃磁磚的早午餐",
-    "width": 942,
-    "height": 1670
-  },
-  {
     "category": "性感",
     "src": "images/性感/短上衣+高腰短裙-02.png",
     "hasDescription": true,
@@ -1305,26 +1401,10 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/116_水鏡露台的傍晚.png",
+    "src": "images/故事/067A_瓶中花園的粉色.png",
     "hasDescription": true,
-    "title": "116_水鏡露台的傍晚",
+    "title": "067A_瓶中花園的粉色",
     "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/013_木質香氛室的試香.png",
-    "hasDescription": true,
-    "title": "013_木質香氛室的試香",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/133_海灣露台的夕照.png",
-    "hasDescription": true,
-    "title": "133_海灣露台的夕照",
-    "width": 941,
     "height": 1670
   },
   {
@@ -1342,22 +1422,6 @@ window.__GALLERY_IMAGES__ = [
     "title": "ヨルハ二号B型（2B）-02",
     "width": 941,
     "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/028_石牆藝廊的亮色椅.png",
-    "hasDescription": true,
-    "title": "028_石牆藝廊的亮色椅",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/131_玫瑰露台的午後.png",
-    "hasDescription": true,
-    "title": "131_玫瑰露台的午後",
-    "width": 941,
-    "height": 1671
   },
   {
     "category": "性感",
@@ -1392,6 +1456,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
+    "category": "故事",
+    "src": "images/故事/080A_藍調音樂廳的等待.png",
+    "hasDescription": true,
+    "title": "080A_藍調音樂廳的等待",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "性感",
     "src": "images/性感/V領腰側鏤空無袖連身裙-03.png",
     "hasDescription": true,
@@ -1400,12 +1472,60 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/049A_藍色玻璃的倒影.png",
+    "hasDescription": true,
+    "title": "049A_藍色玻璃的倒影",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/102A_珍珠工坊的展示窗.png",
+    "hasDescription": true,
+    "title": "102A_珍珠工坊的展示窗",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/097A_花藝展台的清綠.png",
+    "hasDescription": true,
+    "title": "097A_花藝展台的清綠",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/146A_老紙品店的插畫.png",
+    "hasDescription": true,
+    "title": "146A_老紙品店的插畫",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/066A_水族館長廊的藍.png",
+    "hasDescription": true,
+    "title": "066A_水族館長廊的藍",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "動漫",
     "src": "images/動漫/Morrigan-01.png",
     "hasDescription": true,
     "title": "Morrigan-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/118A_當代水墨展的停留.png",
+    "hasDescription": true,
+    "title": "118A_當代水墨展的停留",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "動漫",
@@ -1424,12 +1544,28 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/090A_竹影下的紙藝廊.png",
+    "hasDescription": true,
+    "title": "090A_竹影下的紙藝廊",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "清新",
     "src": "images/清新/針織上衣+長裙-02.png",
     "hasDescription": true,
     "title": "針織上衣+長裙-02",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/036A_工業藝廊的銀色.png",
+    "hasDescription": true,
+    "title": "036A_工業藝廊的銀色",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "性感",
@@ -1473,9 +1609,33 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/025_淡紫麵包店的早晨.png",
+    "src": "images/故事/113A_曲面家飾店的淡黃.png",
     "hasDescription": true,
-    "title": "025_淡紫麵包店的早晨",
+    "title": "113A_曲面家飾店的淡黃",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/010A_深綠書房的信紙.png",
+    "hasDescription": true,
+    "title": "010A_深綠書房的信紙",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/112A_雛菊庭院的小桌.png",
+    "hasDescription": true,
+    "title": "112A_雛菊庭院的小桌",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/156A_社區圖書館的窗邊.png",
+    "hasDescription": true,
+    "title": "156A_社區圖書館的窗邊",
     "width": 942,
     "height": 1670
   },
@@ -1496,6 +1656,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/138A_紅色雕塑的對話.png",
+    "hasDescription": true,
+    "title": "138A_紅色雕塑的對話",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "性感",
     "src": "images/性感/單肩上衣+高腰A字短裙-01.png",
     "hasDescription": true,
@@ -1505,27 +1673,19 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/115_社區植栽交換日.png",
+    "src": "images/故事/047A_可可庭院的咖啡香.png",
     "hasDescription": true,
-    "title": "115_社區植栽交換日",
+    "title": "047A_可可庭院的咖啡香",
     "width": 942,
     "height": 1670
   },
   {
     "category": "故事",
-    "src": "images/故事/061_屋頂香草花園.png",
+    "src": "images/故事/004A_黑膠音樂的暖夜.png",
     "hasDescription": true,
-    "title": "061_屋頂香草花園",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/091_陶瓷色票的午後.png",
-    "hasDescription": true,
-    "title": "091_陶瓷色票的午後",
-    "width": 942,
-    "height": 1670
+    "title": "004A_黑膠音樂的暖夜",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "動漫",
@@ -1552,28 +1712,28 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
+    "category": "故事",
+    "src": "images/故事/025A_淡紫麵包店的早晨.png",
+    "hasDescription": true,
+    "title": "025A_淡紫麵包店的早晨",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/017A_玻璃茶亭的晴日.png",
+    "hasDescription": true,
+    "title": "017A_玻璃茶亭的晴日",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "動漫",
     "src": "images/動漫/エルザ・スカーレット-01.png",
     "hasDescription": true,
     "title": "エルザ・スカーレット-01",
     "width": 941,
     "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/135_藍色劇場的入口.png",
-    "hasDescription": true,
-    "title": "135_藍色劇場的入口",
-    "width": 941,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/077_復古遊戲館的笑意.png",
-    "hasDescription": true,
-    "title": "077_復古遊戲館的笑意",
-    "width": 942,
-    "height": 1670
   },
   {
     "category": "動漫",
@@ -1601,11 +1761,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/109_地圖藝廊的遠方.png",
+    "src": "images/故事/056A_皮革封面書店.png",
     "hasDescription": true,
-    "title": "109_地圖藝廊的遠方",
+    "title": "056A_皮革封面書店",
     "width": 941,
-    "height": 1672
+    "height": 1670
   },
   {
     "category": "動漫",
@@ -1614,14 +1774,6 @@ window.__GALLERY_IMAGES__ = [
     "title": "明日香-03",
     "width": 941,
     "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/078_運河窗邊的花盆.png",
-    "hasDescription": true,
-    "title": "078_運河窗邊的花盆",
-    "width": 941,
-    "height": 1672
   },
   {
     "category": "性感",
@@ -1673,33 +1825,25 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/083_玫瑰紙品店的小卡.png",
+    "src": "images/故事/134A_織物設計室的樣本.png",
     "hasDescription": true,
-    "title": "083_玫瑰紙品店的小卡",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/130_溫室咖啡的午後.png",
-    "hasDescription": true,
-    "title": "130_溫室咖啡的午後",
+    "title": "134A_織物設計室的樣本",
     "width": 941,
-    "height": 1671
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/030_城市雕塑街區.png",
-    "hasDescription": true,
-    "title": "030_城市雕塑街區",
-    "width": 942,
     "height": 1670
   },
   {
     "category": "故事",
-    "src": "images/故事/144_鄉間麵包店的庭院.png",
+    "src": "images/故事/064A_街頭書市的紅色.png",
     "hasDescription": true,
-    "title": "144_鄉間麵包店的庭院",
+    "title": "064A_街頭書市的紅色",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/083A_玫瑰紙品店的小卡.png",
+    "hasDescription": true,
+    "title": "083A_玫瑰紙品店的小卡",
     "width": 942,
     "height": 1670
   },
@@ -1721,18 +1865,10 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/037_果乾茶室的香氣.png",
+    "src": "images/故事/031A_老書店裡的藝術書.png",
     "hasDescription": true,
-    "title": "037_果乾茶室的香氣",
+    "title": "031A_老書店裡的藝術書",
     "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/111_陶藝庭院的留白.png",
-    "hasDescription": true,
-    "title": "111_陶藝庭院的留白",
-    "width": 941,
     "height": 1670
   },
   {
@@ -1742,22 +1878,6 @@ window.__GALLERY_IMAGES__ = [
     "title": "Yuna-01",
     "width": 941,
     "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/017_玻璃茶亭的晴日.png",
-    "hasDescription": true,
-    "title": "017_玻璃茶亭的晴日",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/016_曲面咖啡館的亮色.png",
-    "hasDescription": true,
-    "title": "016_曲面咖啡館的亮色",
-    "width": 942,
-    "height": 1670
   },
   {
     "category": "性感",
@@ -1777,11 +1897,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/072_壁畫街區的漫遊.png",
+    "src": "images/故事/013A_木質香氛室的試香.png",
     "hasDescription": true,
-    "title": "072_壁畫街區的漫遊",
-    "width": 941,
-    "height": 1672
+    "title": "013A_木質香氛室的試香",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "性感",
@@ -1801,9 +1921,17 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/023_彩色港灣的散步.png",
+    "src": "images/故事/054A_紫花書展的晴天.png",
     "hasDescription": true,
-    "title": "023_彩色港灣的散步",
+    "title": "054A_紫花書展的晴天",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/151A_木質琴房的暖意.png",
+    "hasDescription": true,
+    "title": "151A_木質琴房的暖意",
     "width": 942,
     "height": 1670
   },
@@ -1832,18 +1960,18 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
-    "category": "性感",
-    "src": "images/性感/深V短上衣+百褶迷你裙-01.png",
+    "category": "故事",
+    "src": "images/故事/070A_海邊書屋的風.png",
     "hasDescription": true,
-    "title": "深V短上衣+百褶迷你裙-01",
+    "title": "070A_海邊書屋的風",
     "width": 942,
     "height": 1670
   },
   {
-    "category": "故事",
-    "src": "images/故事/031_老書店裡的藝術書.png",
+    "category": "性感",
+    "src": "images/性感/深V短上衣+百褶迷你裙-01.png",
     "hasDescription": true,
-    "title": "031_老書店裡的藝術書",
+    "title": "深V短上衣+百褶迷你裙-01",
     "width": 942,
     "height": 1670
   },
@@ -1854,14 +1982,6 @@ window.__GALLERY_IMAGES__ = [
     "title": "Cammy-01",
     "width": 941,
     "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/052_香氛沙龍的紫色.png",
-    "hasDescription": true,
-    "title": "052_香氛沙龍的紫色",
-    "width": 941,
-    "height": 1671
   },
   {
     "category": "動漫",
@@ -1880,22 +2000,6 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
-    "category": "故事",
-    "src": "images/故事/046_濱海藝廊的曲線.png",
-    "hasDescription": true,
-    "title": "046_濱海藝廊的曲線",
-    "width": 941,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/021_藍白牛奶吧的早晨.png",
-    "hasDescription": true,
-    "title": "021_藍白牛奶吧的早晨",
-    "width": 942,
-    "height": 1670
-  },
-  {
     "category": "清新",
     "src": "images/清新/針織上衣+牛仔長裙-01.png",
     "hasDescription": true,
@@ -1905,9 +2009,17 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/160_裝飾藝術門廳.png",
+    "src": "images/故事/037A_果乾茶室的香氣.png",
     "hasDescription": true,
-    "title": "160_裝飾藝術門廳",
+    "title": "037A_果乾茶室的香氣",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/121A_繡球花廊的歇腳.png",
+    "hasDescription": true,
+    "title": "121A_繡球花廊的歇腳",
     "width": 942,
     "height": 1670
   },
@@ -1960,14 +2072,6 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
-    "category": "故事",
-    "src": "images/故事/118_當代水墨展的停留.png",
-    "hasDescription": true,
-    "title": "118_當代水墨展的停留",
-    "width": 942,
-    "height": 1670
-  },
-  {
     "category": "性感",
     "src": "images/性感/無袖短版連身裙-01.png",
     "hasDescription": true,
@@ -2009,19 +2113,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/033_刺繡藝廊的花紋.png",
+    "src": "images/故事/143A_植物展園的寫生板.png",
     "hasDescription": true,
-    "title": "033_刺繡藝廊的花紋",
+    "title": "143A_植物展園的寫生板",
     "width": 942,
     "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/040_花藝旅店的壁爐廳.png",
-    "hasDescription": true,
-    "title": "040_花藝旅店的壁爐廳",
-    "width": 941,
-    "height": 1672
   },
   {
     "category": "動漫",
@@ -2029,6 +2125,14 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "佐倉杏子-02",
     "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/028A_石牆藝廊的亮色椅.png",
+    "hasDescription": true,
+    "title": "028A_石牆藝廊的亮色椅",
+    "width": 942,
     "height": 1670
   },
   {
@@ -2041,11 +2145,19 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/003_唱片行的橘色節拍.png",
+    "src": "images/故事/148A_歌劇院門廳的等待.png",
     "hasDescription": true,
-    "title": "003_唱片行的橘色節拍",
-    "width": 941,
-    "height": 1671
+    "title": "148A_歌劇院門廳的等待",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/114A_紫色花紙店的小選擇.png",
+    "hasDescription": true,
+    "title": "114A_紫色花紙店的小選擇",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "性感",
@@ -2088,10 +2200,26 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/115A_社區植栽交換日.png",
+    "hasDescription": true,
+    "title": "115A_社區植栽交換日",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "性感",
     "src": "images/性感/側腰鏤空短洋裝-05.png",
     "hasDescription": true,
     "title": "側腰鏤空短洋裝-05",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/142A_植物版畫的小展間.png",
+    "hasDescription": true,
+    "title": "142A_植物版畫的小展間",
     "width": 941,
     "height": 1672
   },
@@ -2102,14 +2230,6 @@ window.__GALLERY_IMAGES__ = [
     "title": "珊瑚-01",
     "width": 941,
     "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/112_雛菊庭院的小桌.png",
-    "hasDescription": true,
-    "title": "112_雛菊庭院的小桌",
-    "width": 941,
-    "height": 1670
   },
   {
     "category": "清新",
@@ -2136,18 +2256,18 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/040A_花藝旅店的壁爐廳.png",
+    "hasDescription": true,
+    "title": "040A_花藝旅店的壁爐廳",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "性感",
     "src": "images/性感/露肩上衣+比基尼泳褲-01.png",
     "hasDescription": true,
     "title": "露肩上衣+比基尼泳褲-01",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/158_木造茶屋的花影.png",
-    "hasDescription": true,
-    "title": "158_木造茶屋的花影",
     "width": 942,
     "height": 1670
   },
@@ -2161,11 +2281,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/156_社區圖書館的窗邊.png",
+    "src": "images/故事/100A_海景白花棚架.png",
     "hasDescription": true,
-    "title": "156_社區圖書館的窗邊",
+    "title": "100A_海景白花棚架",
     "width": 942,
-    "height": 1670
+    "height": 1669
   },
   {
     "category": "動漫",
@@ -2176,6 +2296,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/023A_彩色港灣的散步.png",
+    "hasDescription": true,
+    "title": "023A_彩色港灣的散步",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "性感",
     "src": "images/性感/深V短上衣+迷你裙-01.png",
     "hasDescription": true,
@@ -2184,28 +2312,20 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
-    "category": "故事",
-    "src": "images/故事/071_攝影藝廊的片刻.png",
-    "hasDescription": true,
-    "title": "071_攝影藝廊的片刻",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/148_歌劇院門廳的等待.png",
-    "hasDescription": true,
-    "title": "148_歌劇院門廳的等待",
-    "width": 942,
-    "height": 1670
-  },
-  {
     "category": "動漫",
     "src": "images/動漫/美樹さやか-01.png",
     "hasDescription": true,
     "title": "美樹さやか-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/055A_海邊明信片攤.png",
+    "hasDescription": true,
+    "title": "055A_海邊明信片攤",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "性感",
@@ -2224,14 +2344,6 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
-    "category": "故事",
-    "src": "images/故事/047_可可庭院的咖啡香.png",
-    "hasDescription": true,
-    "title": "047_可可庭院的咖啡香",
-    "width": 942,
-    "height": 1670
-  },
-  {
     "category": "清新",
     "src": "images/清新/針織上衣+百褶長裙-02.png",
     "hasDescription": true,
@@ -2240,18 +2352,18 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/160A_裝飾藝術門廳.png",
+    "hasDescription": true,
+    "title": "160A_裝飾藝術門廳",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "動漫",
     "src": "images/動漫/日向ヒナタ-01.png",
     "hasDescription": true,
     "title": "日向ヒナタ-01",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/069_劇院開演前.png",
-    "hasDescription": true,
-    "title": "069_劇院開演前",
     "width": 941,
     "height": 1672
   },
@@ -2264,20 +2376,20 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
-    "category": "故事",
-    "src": "images/故事/050_花草手帳的頁面.png",
-    "hasDescription": true,
-    "title": "050_花草手帳的頁面",
-    "width": 941,
-    "height": 1670
-  },
-  {
     "category": "動漫",
     "src": "images/動漫/神楽_犬夜叉-03.png",
     "hasDescription": true,
     "title": "神楽_犬夜叉-03",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/069A_劇院開演前.png",
+    "hasDescription": true,
+    "title": "069A_劇院開演前",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "動漫",
@@ -2289,11 +2401,19 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/141_港灣音樂露台的夕光.png",
+    "src": "images/故事/119A_海風花園的散步.png",
     "hasDescription": true,
-    "title": "141_港灣音樂露台的夕光",
-    "width": 941,
-    "height": 1672
+    "title": "119A_海風花園的散步",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/012A_巧克力店的禮物.png",
+    "hasDescription": true,
+    "title": "012A_巧克力店的禮物",
+    "width": 942,
+    "height": 1669
   },
   {
     "category": "性感",
@@ -2313,11 +2433,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/090_竹影下的紙藝廊.png",
+    "src": "images/故事/104A_古董燈具店的光澤.png",
     "hasDescription": true,
-    "title": "090_竹影下的紙藝廊",
-    "width": 942,
-    "height": 1670
+    "title": "104A_古董燈具店的光澤",
+    "width": 1024,
+    "height": 1536
   },
   {
     "category": "性感",
@@ -2336,6 +2456,22 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/086A_花園聚會的花卡.png",
+    "hasDescription": true,
+    "title": "086A_花園聚會的花卡",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/107A_甜點工作室的選擇.png",
+    "hasDescription": true,
+    "title": "107A_甜點工作室的選擇",
+    "width": 941,
+    "height": 1671
+  },
+  {
     "category": "性感",
     "src": "images/性感/露肩短上衣+迷你裙-01.png",
     "hasDescription": true,
@@ -2345,43 +2481,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/054_紫花書展的晴天.png",
+    "src": "images/故事/123A_透明工藝館的輕盈.png",
     "hasDescription": true,
-    "title": "054_紫花書展的晴天",
-    "width": 941,
-    "height": 1671
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/085_老溫室的紫色光.png",
-    "hasDescription": true,
-    "title": "085_老溫室的紫色光",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/094_色紙文具店的靈感.png",
-    "hasDescription": true,
-    "title": "094_色紙文具店的靈感",
+    "title": "123A_透明工藝館的輕盈",
     "width": 942,
     "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/048_單車咖啡店的休息.png",
-    "hasDescription": true,
-    "title": "048_單車咖啡店的休息",
-    "width": 941,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/001_香草餐館的小午休.png",
-    "hasDescription": true,
-    "title": "001_香草餐館的小午休",
-    "width": 941,
-    "height": 1672
   },
   {
     "category": "動漫",
@@ -2393,9 +2497,9 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/127_運河博物館的窗景.png",
+    "src": "images/故事/128A_爵士演出前的走廊.png",
     "hasDescription": true,
-    "title": "127_運河博物館的窗景",
+    "title": "128A_爵士演出前的走廊",
     "width": 941,
     "height": 1672
   },
@@ -2406,6 +2510,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "短上衣+高腰迷你裙-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/027A_屋頂玻璃亭的午後.png",
+    "hasDescription": true,
+    "title": "027A_屋頂玻璃亭的午後",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "動漫",
@@ -2440,14 +2552,6 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
-    "category": "故事",
-    "src": "images/故事/065_老照相館的柔焦.png",
-    "hasDescription": true,
-    "title": "065_老照相館的柔焦",
-    "width": 941,
-    "height": 1670
-  },
-  {
     "category": "性感",
     "src": "images/性感/細肩帶上衣+皮質迷你裙-01.png",
     "hasDescription": true,
@@ -2457,9 +2561,9 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/076_琴房門口的樂譜.png",
+    "src": "images/故事/052A_香氛沙龍的紫色.png",
     "hasDescription": true,
-    "title": "076_琴房門口的樂譜",
+    "title": "052A_香氛沙龍的紫色",
     "width": 941,
     "height": 1671
   },
@@ -2480,22 +2584,6 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
-    "category": "故事",
-    "src": "images/故事/057_海風閱讀長廊.png",
-    "hasDescription": true,
-    "title": "057_海風閱讀長廊",
-    "width": 941,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/128_爵士演出前的走廊.png",
-    "hasDescription": true,
-    "title": "128_爵士演出前的走廊",
-    "width": 941,
-    "height": 1672
-  },
-  {
     "category": "性感",
     "src": "images/性感/上衣+迷你裙-01.png",
     "hasDescription": true,
@@ -2505,11 +2593,19 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/063_糖霜櫥窗的甜意.png",
+    "src": "images/故事/084A_庭院餐桌的午休.png",
     "hasDescription": true,
-    "title": "063_糖霜櫥窗的甜意",
-    "width": 941,
-    "height": 1671
+    "title": "084A_庭院餐桌的午休",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/060A_手織布店的柔光.png",
+    "hasDescription": true,
+    "title": "060A_手織布店的柔光",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "動漫",
@@ -2517,6 +2613,14 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "ヨル-02",
     "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/133A_海灣露台的夕照.png",
+    "hasDescription": true,
+    "title": "133A_海灣露台的夕照",
+    "width": 941,
     "height": 1670
   },
   {
@@ -2561,9 +2665,9 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/154_暖黃色茶室的日光.png",
+    "src": "images/故事/022A_週末植栽市集.png",
     "hasDescription": true,
-    "title": "154_暖黃色茶室的日光",
+    "title": "022A_週末植栽市集",
     "width": 942,
     "height": 1670
   },
@@ -2616,6 +2720,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/081A_禮物包裝店的緞帶.png",
+    "hasDescription": true,
+    "title": "081A_禮物包裝店的緞帶",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "性感",
     "src": "images/性感/細肩帶短上衣+高腰短褲-01.png",
     "hasDescription": true,
@@ -2649,11 +2761,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/132_夜間光影庭院.png",
+    "src": "images/故事/109A_地圖藝廊的遠方.png",
     "hasDescription": true,
-    "title": "132_夜間光影庭院",
+    "title": "109A_地圖藝廊的遠方",
     "width": 941,
-    "height": 1671
+    "height": 1672
   },
   {
     "category": "清新",
@@ -2673,9 +2785,17 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/005_石庭藝廊的綠意.png",
+    "src": "images/故事/108A_果汁小店的午後.png",
     "hasDescription": true,
-    "title": "005_石庭藝廊的綠意",
+    "title": "108A_果汁小店的午後",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/045A_電車站的輕快日常.png",
+    "hasDescription": true,
+    "title": "045A_電車站的輕快日常",
     "width": 941,
     "height": 1671
   },
@@ -2704,14 +2824,6 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
-    "category": "故事",
-    "src": "images/故事/146_老紙品店的插畫.png",
-    "hasDescription": true,
-    "title": "146_老紙品店的插畫",
-    "width": 942,
-    "height": 1670
-  },
-  {
     "category": "清新",
     "src": "images/清新/洋裝-01.png",
     "hasDescription": true,
@@ -2736,18 +2848,18 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
-    "category": "故事",
-    "src": "images/故事/032_藝術影院的候場.png",
-    "hasDescription": true,
-    "title": "032_藝術影院的候場",
-    "width": 942,
-    "height": 1670
-  },
-  {
     "category": "動漫",
     "src": "images/動漫/初音ミク-01.png",
     "hasDescription": true,
     "title": "初音ミク-01",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/125A_水庭展廊的停步.png",
+    "hasDescription": true,
+    "title": "125A_水庭展廊的停步",
     "width": 941,
     "height": 1672
   },
@@ -2769,27 +2881,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/056_皮革封面書店.png",
+    "src": "images/故事/078A_運河窗邊的花盆.png",
     "hasDescription": true,
-    "title": "056_皮革封面書店",
+    "title": "078A_運河窗邊的花盆",
     "width": 941,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/086_花園聚會的花卡.png",
-    "hasDescription": true,
-    "title": "086_花園聚會的花卡",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/097_花藝展台的清綠.png",
-    "hasDescription": true,
-    "title": "097_花藝展台的清綠",
-    "width": 942,
-    "height": 1670
+    "height": 1672
   },
   {
     "category": "動漫",
@@ -2800,36 +2896,12 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
-    "category": "故事",
-    "src": "images/故事/029_海邊花草咖啡館.png",
-    "hasDescription": true,
-    "title": "029_海邊花草咖啡館",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/084_庭院餐桌的午休.png",
-    "hasDescription": true,
-    "title": "084_庭院餐桌的午休",
-    "width": 942,
-    "height": 1670
-  },
-  {
     "category": "性感",
     "src": "images/性感/細肩帶短洋裝-09.png",
     "hasDescription": true,
     "title": "細肩帶短洋裝-09",
     "width": 941,
     "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/113_曲面家飾店的淡黃.png",
-    "hasDescription": true,
-    "title": "113_曲面家飾店的淡黃",
-    "width": 942,
-    "height": 1670
   },
   {
     "category": "動漫",
@@ -2841,27 +2913,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/157_紙燈設計展的霧紫.png",
+    "src": "images/故事/071A_攝影藝廊的片刻.png",
     "hasDescription": true,
-    "title": "157_紙燈設計展的霧紫",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/136_家居選物店的午光.png",
-    "hasDescription": true,
-    "title": "136_家居選物店的午光",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/034_水色展廳的回眸.png",
-    "hasDescription": true,
-    "title": "034_水色展廳的回眸",
-    "width": 942,
-    "height": 1670
+    "title": "071A_攝影藝廊的片刻",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "性感",
@@ -2889,9 +2945,25 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/073_老劇院的花束櫃.png",
+    "src": "images/故事/093A_週末花市的紅色.png",
     "hasDescription": true,
-    "title": "073_老劇院的花束櫃",
+    "title": "093A_週末花市的紅色",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/030A_城市雕塑街區.png",
+    "hasDescription": true,
+    "title": "030A_城市雕塑街區",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/155A_蜜桃花展的午後.png",
+    "hasDescription": true,
+    "title": "155A_蜜桃花展的午後",
     "width": 942,
     "height": 1670
   },
@@ -2905,9 +2977,9 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/095_柑橘農園的午後.png",
+    "src": "images/故事/021A_藍白牛奶吧的早晨.png",
     "hasDescription": true,
-    "title": "095_柑橘農園的午後",
+    "title": "021A_藍白牛奶吧的早晨",
     "width": 942,
     "height": 1670
   },
@@ -2921,10 +2993,18 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/009_科學影像展的藍光.png",
+    "src": "images/故事/046A_濱海藝廊的曲線.png",
     "hasDescription": true,
-    "title": "009_科學影像展的藍光",
+    "title": "046A_濱海藝廊的曲線",
     "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/147A_玻璃花房的白花.png",
+    "hasDescription": true,
+    "title": "147A_玻璃花房的白花",
+    "width": 942,
     "height": 1670
   },
   {
@@ -2993,10 +3073,10 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/019_春日花店的包花台.png",
+    "src": "images/故事/150A_織錦展的深紫色.png",
     "hasDescription": true,
-    "title": "019_春日花店的包花台",
-    "width": 942,
+    "title": "150A_織錦展的深紫色",
+    "width": 941,
     "height": 1670
   },
   {
@@ -3017,9 +3097,9 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/070_海邊書屋的風.png",
+    "src": "images/故事/059A_綠磚咖啡館的角落.png",
     "hasDescription": true,
-    "title": "070_海邊書屋的風",
+    "title": "059A_綠磚咖啡館的角落",
     "width": 942,
     "height": 1670
   },
@@ -3036,14 +3116,6 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/動漫/珊瑚-02.png",
     "hasDescription": true,
     "title": "珊瑚-02",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/051_鏡面設計展的留白.png",
-    "hasDescription": true,
-    "title": "051_鏡面設計展的留白",
     "width": 941,
     "height": 1672
   },
@@ -3072,14 +3144,6 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
-    "category": "故事",
-    "src": "images/故事/152_石造植物館的影子.png",
-    "hasDescription": true,
-    "title": "152_石造植物館的影子",
-    "width": 942,
-    "height": 1670
-  },
-  {
     "category": "動漫",
     "src": "images/動漫/桔梗-01.png",
     "hasDescription": true,
@@ -3105,11 +3169,19 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/010_深綠書房的信紙.png",
+    "src": "images/故事/158A_木造茶屋的花影.png",
     "hasDescription": true,
-    "title": "010_深綠書房的信紙",
+    "title": "158A_木造茶屋的花影",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/039A_微型花園展的小景.png",
+    "hasDescription": true,
+    "title": "039A_微型花園展的小景",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "性感",
@@ -3120,42 +3192,18 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
-    "category": "故事",
-    "src": "images/故事/075_玻璃植栽的微型世界.png",
-    "hasDescription": true,
-    "title": "075_玻璃植栽的微型世界",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/045_電車站的輕快日常.png",
-    "hasDescription": true,
-    "title": "045_電車站的輕快日常",
-    "width": 941,
-    "height": 1671
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/035_屋頂攝影展的城市.png",
-    "hasDescription": true,
-    "title": "035_屋頂攝影展的城市",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/053_彩磚展間的橘色.png",
-    "hasDescription": true,
-    "title": "053_彩磚展間的橘色",
-    "width": 941,
-    "height": 1672
-  },
-  {
     "category": "性感",
     "src": "images/性感/側腰鏤空短洋裝-01.png",
     "hasDescription": true,
     "title": "側腰鏤空短洋裝-01",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/002A_巧克力書屋的角落.png",
+    "hasDescription": true,
+    "title": "002A_巧克力書屋的角落",
     "width": 941,
     "height": 1672
   },
@@ -3169,9 +3217,9 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/060_手織布店的柔光.png",
+    "src": "images/故事/140A_杏桃磁磚的早午餐.png",
     "hasDescription": true,
-    "title": "060_手織布店的柔光",
+    "title": "140A_杏桃磁磚的早午餐",
     "width": 942,
     "height": 1670
   },
@@ -3185,19 +3233,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/124_老旅店的鑰匙櫃.png",
+    "src": "images/故事/072A_壁畫街區的漫遊.png",
     "hasDescription": true,
-    "title": "124_老旅店的鑰匙櫃",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/093_週末花市的紅色.png",
-    "hasDescription": true,
-    "title": "093_週末花市的紅色",
-    "width": 942,
-    "height": 1670
+    "title": "072A_壁畫街區的漫遊",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "動漫",
@@ -3225,19 +3265,19 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/036_工業藝廊的銀色.png",
+    "src": "images/故事/144A_鄉間麵包店的庭院.png",
     "hasDescription": true,
-    "title": "036_工業藝廊的銀色",
+    "title": "144A_鄉間麵包店的庭院",
     "width": 942,
     "height": 1670
   },
   {
     "category": "故事",
-    "src": "images/故事/038_唱片角落的粉色.png",
+    "src": "images/故事/111A_陶藝庭院的留白.png",
     "hasDescription": true,
-    "title": "038_唱片角落的粉色",
+    "title": "111A_陶藝庭院的留白",
     "width": 941,
-    "height": 1672
+    "height": 1670
   },
   {
     "category": "動漫",
@@ -3265,25 +3305,17 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/020_紅框咖啡窗的回眸.png",
+    "src": "images/故事/101A_紅色拱門的咖啡香.png",
     "hasDescription": true,
-    "title": "020_紅框咖啡窗的回眸",
+    "title": "101A_紅色拱門的咖啡香",
     "width": 942,
-    "height": 1670
+    "height": 1669
   },
   {
     "category": "故事",
-    "src": "images/故事/143_植物展園的寫生板.png",
+    "src": "images/故事/124A_老旅店的鑰匙櫃.png",
     "hasDescription": true,
-    "title": "143_植物展園的寫生板",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/088_河畔花店的清晨.png",
-    "hasDescription": true,
-    "title": "088_河畔花店的清晨",
+    "title": "124A_老旅店的鑰匙櫃",
     "width": 942,
     "height": 1670
   },
@@ -3296,14 +3328,6 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
-    "category": "故事",
-    "src": "images/故事/026_玻璃長廊的花影.png",
-    "hasDescription": true,
-    "title": "026_玻璃長廊的花影",
-    "width": 942,
-    "height": 1670
-  },
-  {
     "category": "性感",
     "src": "images/性感/短版和服-06.png",
     "hasDescription": true,
@@ -3313,10 +3337,10 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/117_柑橘庭院的微風.png",
+    "src": "images/故事/006A_莓果甜點的選單.png",
     "hasDescription": true,
-    "title": "117_柑橘庭院的微風",
-    "width": 942,
+    "title": "006A_莓果甜點的選單",
+    "width": 941,
     "height": 1670
   },
   {
@@ -3344,6 +3368,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/043A_檸檬花房的小禮物.png",
+    "hasDescription": true,
+    "title": "043A_檸檬花房的小禮物",
+    "width": 941,
+    "height": 1671
+  },
+  {
     "category": "性感",
     "src": "images/性感/掛脖上衣+百褶短裙-02.png",
     "hasDescription": true,
@@ -3368,6 +3400,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "故事",
+    "src": "images/故事/057A_海風閱讀長廊.png",
+    "hasDescription": true,
+    "title": "057A_海風閱讀長廊",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "性感",
     "src": "images/性感/無袖短版連身裙-02.png",
     "hasDescription": true,
@@ -3377,41 +3417,9 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/149_港邊明信片小站.png",
+    "src": "images/故事/088A_河畔花店的清晨.png",
     "hasDescription": true,
-    "title": "149_港邊明信片小站",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/039_微型花園展的小景.png",
-    "hasDescription": true,
-    "title": "039_微型花園展的小景",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/099_河岸木平台的風.png",
-    "hasDescription": true,
-    "title": "099_河岸木平台的風",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/024_河岸玻璃花店.png",
-    "hasDescription": true,
-    "title": "024_河岸玻璃花店",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/089_茶器小店的春日.png",
-    "hasDescription": true,
-    "title": "089_茶器小店的春日",
+    "title": "088A_河畔花店的清晨",
     "width": 942,
     "height": 1670
   },
@@ -3422,14 +3430,6 @@ window.__GALLERY_IMAGES__ = [
     "title": "交叉繫帶短上衣+不對稱迷你裙-01",
     "width": 941,
     "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/153_樂譜書店的安靜角落.png",
-    "hasDescription": true,
-    "title": "153_樂譜書店的安靜角落",
-    "width": 942,
-    "height": 1670
   },
   {
     "category": "動漫",
@@ -3456,27 +3456,27 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
-    "category": "故事",
-    "src": "images/故事/004_黑膠音樂的暖夜.png",
-    "hasDescription": true,
-    "title": "004_黑膠音樂的暖夜",
-    "width": 941,
-    "height": 1671
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/129_白色藝術中心的早晨.png",
-    "hasDescription": true,
-    "title": "129_白色藝術中心的早晨",
-    "width": 941,
-    "height": 1671
-  },
-  {
     "category": "清新",
     "src": "images/清新/襯衫+牛仔褲-01.png",
     "hasDescription": true,
     "title": "襯衫+牛仔褲-01",
     "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/094A_色紙文具店的靈感.png",
+    "hasDescription": true,
+    "title": "094A_色紙文具店的靈感",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/026A_玻璃長廊的花影.png",
+    "hasDescription": true,
+    "title": "026A_玻璃長廊的花影",
+    "width": 942,
     "height": 1670
   },
   {
@@ -3496,6 +3496,22 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/016A_曲面咖啡館的亮色.png",
+    "hasDescription": true,
+    "title": "016A_曲面咖啡館的亮色",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/014A_乾燥花的小收藏.png",
+    "hasDescription": true,
+    "title": "014A_乾燥花的小收藏",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "清新",
     "src": "images/清新/棉質長洋裝+薄外套-01.png",
     "hasDescription": true,
@@ -3513,11 +3529,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/107_甜點工作室的選擇.png",
+    "src": "images/故事/068A_星象館的藍色序曲.png",
     "hasDescription": true,
-    "title": "107_甜點工作室的選擇",
-    "width": 941,
-    "height": 1671
+    "title": "068A_星象館的藍色序曲",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "動漫",
@@ -3526,6 +3542,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "ブルマ-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/153A_樂譜書店的安靜角落.png",
+    "hasDescription": true,
+    "title": "153A_樂譜書店的安靜角落",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "動漫",
@@ -3537,19 +3561,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/101_紅色拱門的咖啡香.png",
+    "src": "images/故事/011A_海邊詩句庭院.png",
     "hasDescription": true,
-    "title": "101_紅色拱門的咖啡香",
+    "title": "011A_海邊詩句庭院",
     "width": 942,
-    "height": 1669
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/106_設計廣場的綠色步伐.png",
-    "hasDescription": true,
-    "title": "106_設計廣場的綠色步伐",
-    "width": 941,
-    "height": 1672
+    "height": 1670
   },
   {
     "category": "性感",
@@ -3577,11 +3593,19 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/108_果汁小店的午後.png",
+    "src": "images/故事/117A_柑橘庭院的微風.png",
     "hasDescription": true,
-    "title": "108_果汁小店的午後",
-    "width": 941,
-    "height": 1672
+    "title": "117A_柑橘庭院的微風",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/033A_刺繡藝廊的花紋.png",
+    "hasDescription": true,
+    "title": "033A_刺繡藝廊的花紋",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "清新",
@@ -3641,11 +3665,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/120_古籍書庫的靜謐.png",
+    "src": "images/故事/076A_琴房門口的樂譜.png",
     "hasDescription": true,
-    "title": "120_古籍書庫的靜謐",
-    "width": 942,
-    "height": 1670
+    "title": "076A_琴房門口的樂譜",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "性感",
@@ -3680,28 +3704,12 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
-    "category": "故事",
-    "src": "images/故事/027_屋頂玻璃亭的午後.png",
-    "hasDescription": true,
-    "title": "027_屋頂玻璃亭的午後",
-    "width": 942,
-    "height": 1670
-  },
-  {
     "category": "動漫",
     "src": "images/動漫/アイヴィー-01.png",
     "hasDescription": true,
     "title": "アイヴィー-01",
     "width": 941,
     "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/096_版畫選物店的週末.png",
-    "hasDescription": true,
-    "title": "096_版畫選物店的週末",
-    "width": 942,
-    "height": 1670
   },
   {
     "category": "動漫",
@@ -3718,6 +3726,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "長洋裝+棉麻披肩-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "故事",
+    "src": "images/故事/048A_單車咖啡店的休息.png",
+    "hasDescription": true,
+    "title": "048A_單車咖啡店的休息",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "性感",
@@ -3737,11 +3753,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/015_奶油色甜點櫥窗.png",
+    "src": "images/故事/103A_小誌市集的翻頁.png",
     "hasDescription": true,
-    "title": "015_奶油色甜點櫥窗",
-    "width": 942,
-    "height": 1669
+    "title": "103A_小誌市集的翻頁",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "性感",
@@ -3753,19 +3769,19 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/008_檸檬冰淇淋小店.png",
+    "src": "images/故事/136A_家居選物店的午光.png",
     "hasDescription": true,
-    "title": "008_檸檬冰淇淋小店",
+    "title": "136A_家居選物店的午光",
     "width": 942,
     "height": 1670
   },
   {
     "category": "故事",
-    "src": "images/故事/104_古董燈具店的光澤.png",
+    "src": "images/故事/085A_老溫室的紫色光.png",
     "hasDescription": true,
-    "title": "104_古董燈具店的光澤",
-    "width": 1024,
-    "height": 1536
+    "title": "085A_老溫室的紫色光",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "性感",
@@ -3774,14 +3790,6 @@ window.__GALLERY_IMAGES__ = [
     "title": "腰側鏤空無袖連身短褲-02",
     "width": 941,
     "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/134_織物設計室的樣本.png",
-    "hasDescription": true,
-    "title": "134_織物設計室的樣本",
-    "width": 941,
-    "height": 1670
   },
   {
     "category": "性感",
@@ -3800,6 +3808,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "故事",
+    "src": "images/故事/116A_水鏡露台的傍晚.png",
+    "hasDescription": true,
+    "title": "116A_水鏡露台的傍晚",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "動漫",
     "src": "images/動漫/美樹さやか-02.png",
     "hasDescription": true,
@@ -3809,17 +3825,17 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "故事",
-    "src": "images/故事/145_紫藤棚下的午休.png",
+    "src": "images/故事/029A_海邊花草咖啡館.png",
     "hasDescription": true,
-    "title": "145_紫藤棚下的午休",
+    "title": "029A_海邊花草咖啡館",
     "width": 942,
     "height": 1670
   },
   {
     "category": "故事",
-    "src": "images/故事/123_透明工藝館的輕盈.png",
+    "src": "images/故事/077A_復古遊戲館的笑意.png",
     "hasDescription": true,
-    "title": "123_透明工藝館的輕盈",
+    "title": "077A_復古遊戲館的笑意",
     "width": 942,
     "height": 1670
   },
@@ -3832,28 +3848,12 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
-    "category": "故事",
-    "src": "images/故事/007_紫色雕塑庭院.png",
-    "hasDescription": true,
-    "title": "007_紫色雕塑庭院",
-    "width": 941,
-    "height": 1670
-  },
-  {
     "category": "性感",
     "src": "images/性感/深V短上衣+牛仔迷你裙-01.png",
     "hasDescription": true,
     "title": "深V短上衣+牛仔迷你裙-01",
     "width": 941,
     "height": 1672
-  },
-  {
-    "category": "故事",
-    "src": "images/故事/110_馬賽克廣場的橘光.png",
-    "hasDescription": true,
-    "title": "110_馬賽克廣場的橘光",
-    "width": 941,
-    "height": 1671
   }
 ];
 

@@ -13,8 +13,8 @@
   },
   "images": [
     {
-      "image": "images/故事/001_香草餐館的小午休.png",
-      "prompt_file": "images/故事/001_香草餐館的小午休.md",
+      "image": "images/故事/001A_香草餐館的小午休.png",
+      "prompt_file": "images/故事/001A_香草餐館的小午休.md",
       "headline": "001 / 020｜香草餐館的小午休",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000280081fa957c66e7b0d1fe14",
@@ -29,8 +29,8 @@
       "height": 1672
     },
     {
-      "image": "images/故事/002_巧克力書屋的角落.png",
-      "prompt_file": "images/故事/002_巧克力書屋的角落.md",
+      "image": "images/故事/002A_巧克力書屋的角落.png",
+      "prompt_file": "images/故事/002A_巧克力書屋的角落.md",
       "headline": "002 / 062｜巧克力書屋的角落",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000806881f584547e0926752c27",
@@ -45,8 +45,8 @@
       "height": 1672
     },
     {
-      "image": "images/故事/003_唱片行的橘色節拍.png",
-      "prompt_file": "images/故事/003_唱片行的橘色節拍.md",
+      "image": "images/故事/003A_唱片行的橘色節拍.png",
+      "prompt_file": "images/故事/003A_唱片行的橘色節拍.md",
       "headline": "003 / 007｜唱片行的橘色節拍",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_000000004c0081fa8062116847aa0df0",
@@ -61,8 +61,8 @@
       "height": 1671
     },
     {
-      "image": "images/故事/004_黑膠音樂的暖夜.png",
-      "prompt_file": "images/故事/004_黑膠音樂的暖夜.md",
+      "image": "images/故事/004A_黑膠音樂的暖夜.png",
+      "prompt_file": "images/故事/004A_黑膠音樂的暖夜.md",
       "headline": "004 / 024｜黑膠音樂的暖夜",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_000000008e4c81fa9f3b700d9747e1e6",
@@ -77,8 +77,8 @@
       "height": 1671
     },
     {
-      "image": "images/故事/005_石庭藝廊的綠意.png",
-      "prompt_file": "images/故事/005_石庭藝廊的綠意.md",
+      "image": "images/故事/005A_石庭藝廊的綠意.png",
+      "prompt_file": "images/故事/005A_石庭藝廊的綠意.md",
       "headline": "005 / 034｜石庭藝廊的綠意",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_000000003b488211954f6e0f4d0281b8",
@@ -93,8 +93,8 @@
       "height": 1671
     },
     {
-      "image": "images/故事/006_莓果甜點的選單.png",
-      "prompt_file": "images/故事/006_莓果甜點的選單.md",
+      "image": "images/故事/006A_莓果甜點的選單.png",
+      "prompt_file": "images/故事/006A_莓果甜點的選單.md",
       "headline": "006 / 073｜莓果甜點的選單",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000e8588211a3f1ab7c95a57009",
@@ -109,8 +109,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/007_紫色雕塑庭院.png",
-      "prompt_file": "images/故事/007_紫色雕塑庭院.md",
+      "image": "images/故事/007A_紫色雕塑庭院.png",
+      "prompt_file": "images/故事/007A_紫色雕塑庭院.md",
       "headline": "007 / 077｜紫色雕塑庭院",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000c0f48211a75a84c3e9d4a776",
@@ -125,8 +125,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/008_檸檬冰淇淋小店.png",
-      "prompt_file": "images/故事/008_檸檬冰淇淋小店.md",
+      "image": "images/故事/008A_檸檬冰淇淋小店.png",
+      "prompt_file": "images/故事/008A_檸檬冰淇淋小店.md",
       "headline": "008 / 083｜檸檬冰淇淋小店",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_000000009c3081faad390026e3687b6b",
@@ -141,8 +141,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/009_科學影像展的藍光.png",
-      "prompt_file": "images/故事/009_科學影像展的藍光.md",
+      "image": "images/故事/009A_科學影像展的藍光.png",
+      "prompt_file": "images/故事/009A_科學影像展的藍光.md",
       "headline": "009 / 084｜科學影像展的藍光",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000620082118b7caa5211f1dfa0",
@@ -157,8 +157,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/010_深綠書房的信紙.png",
-      "prompt_file": "images/故事/010_深綠書房的信紙.md",
+      "image": "images/故事/010A_深綠書房的信紙.png",
+      "prompt_file": "images/故事/010A_深綠書房的信紙.md",
       "headline": "010 / 146｜深綠書房的信紙",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000039481f89ccedd6503a77b5e",
@@ -173,8 +173,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/011_海邊詩句庭院.png",
-      "prompt_file": "images/故事/011_海邊詩句庭院.md",
+      "image": "images/故事/011A_海邊詩句庭院.png",
+      "prompt_file": "images/故事/011A_海邊詩句庭院.md",
       "headline": "011 / 156｜海邊詩句庭院",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000756881fa8ef366f2ff6f50a5",
@@ -189,8 +189,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/012_巧克力店的禮物.png",
-      "prompt_file": "images/故事/012_巧克力店的禮物.md",
+      "image": "images/故事/012A_巧克力店的禮物.png",
+      "prompt_file": "images/故事/012A_巧克力店的禮物.md",
       "headline": "012 / 011｜巧克力店的禮物",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000ccb081fa822a2797a99308ac",
@@ -205,8 +205,8 @@
       "height": 1669
     },
     {
-      "image": "images/故事/013_木質香氛室的試香.png",
-      "prompt_file": "images/故事/013_木質香氛室的試香.md",
+      "image": "images/故事/013A_木質香氛室的試香.png",
+      "prompt_file": "images/故事/013A_木質香氛室的試香.md",
       "headline": "013 / 012｜木質香氛室的試香",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000091481fabbec3a0eb8a81295",
@@ -221,8 +221,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/014_乾燥花的小收藏.png",
-      "prompt_file": "images/故事/014_乾燥花的小收藏.md",
+      "image": "images/故事/014A_乾燥花的小收藏.png",
+      "prompt_file": "images/故事/014A_乾燥花的小收藏.md",
       "headline": "014 / 013｜乾燥花的小收藏",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000d13081faa04016f6e48d8c1f",
@@ -237,8 +237,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/015_奶油色甜點櫥窗.png",
-      "prompt_file": "images/故事/015_奶油色甜點櫥窗.md",
+      "image": "images/故事/015A_奶油色甜點櫥窗.png",
+      "prompt_file": "images/故事/015A_奶油色甜點櫥窗.md",
       "headline": "015 / 017｜奶油色甜點櫥窗",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000ba70821185414be2f1b0d64f",
@@ -253,8 +253,8 @@
       "height": 1669
     },
     {
-      "image": "images/故事/015_奶油色甜點櫥窗-02.png",
-      "prompt_file": "images/故事/015_奶油色甜點櫥窗-02.md",
+      "image": "images/故事/015A_奶油色甜點櫥窗-02.png",
+      "prompt_file": "images/故事/015A_奶油色甜點櫥窗-02.md",
       "headline": "015 / 017｜奶油色甜點櫥窗",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_0000000039508211a9f34660e5e27bcd",
@@ -269,8 +269,8 @@
       "height": 1669
     },
     {
-      "image": "images/故事/016_曲面咖啡館的亮色.png",
-      "prompt_file": "images/故事/016_曲面咖啡館的亮色.md",
+      "image": "images/故事/016A_曲面咖啡館的亮色.png",
+      "prompt_file": "images/故事/016A_曲面咖啡館的亮色.md",
       "headline": "016 / 038｜曲面咖啡館的亮色",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000656c821183d0a813224a8156",
@@ -285,8 +285,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/017_玻璃茶亭的晴日.png",
-      "prompt_file": "images/故事/017_玻璃茶亭的晴日.md",
+      "image": "images/故事/017A_玻璃茶亭的晴日.png",
+      "prompt_file": "images/故事/017A_玻璃茶亭的晴日.md",
       "headline": "017 / 054｜玻璃茶亭的晴日",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_000000005444821196521586bdc0fe81",
@@ -301,8 +301,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/019_春日花店的包花台.png",
-      "prompt_file": "images/故事/019_春日花店的包花台.md",
+      "image": "images/故事/019A_春日花店的包花台.png",
+      "prompt_file": "images/故事/019A_春日花店的包花台.md",
       "headline": "019 / 086｜春日花店的包花台",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000fb1481fab618b30247b4590b",
@@ -317,8 +317,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/020_紅框咖啡窗的回眸.png",
-      "prompt_file": "images/故事/020_紅框咖啡窗的回眸.md",
+      "image": "images/故事/020A_紅框咖啡窗的回眸.png",
+      "prompt_file": "images/故事/020A_紅框咖啡窗的回眸.md",
       "headline": "020 / 087｜紅框咖啡窗的回眸",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000c6c481fab0917d0f166d1679",
@@ -333,8 +333,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/021_藍白牛奶吧的早晨.png",
-      "prompt_file": "images/故事/021_藍白牛奶吧的早晨.md",
+      "image": "images/故事/021A_藍白牛奶吧的早晨.png",
+      "prompt_file": "images/故事/021A_藍白牛奶吧的早晨.md",
       "headline": "021 / 099｜藍白牛奶吧的早晨",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000766481fabb7fc661041d9461",
@@ -349,8 +349,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/022_週末植栽市集.png",
-      "prompt_file": "images/故事/022_週末植栽市集.md",
+      "image": "images/故事/022A_週末植栽市集.png",
+      "prompt_file": "images/故事/022A_週末植栽市集.md",
       "headline": "022 / 100｜週末植栽市集",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000b06081fabc395bb07b0b1d7d",
@@ -365,8 +365,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/023_彩色港灣的散步.png",
-      "prompt_file": "images/故事/023_彩色港灣的散步.md",
+      "image": "images/故事/023A_彩色港灣的散步.png",
+      "prompt_file": "images/故事/023A_彩色港灣的散步.md",
       "headline": "023 / 111｜彩色港灣的散步",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_000000009ff482309ca568182ad973c8",
@@ -381,8 +381,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/024_河岸玻璃花店.png",
-      "prompt_file": "images/故事/024_河岸玻璃花店.md",
+      "image": "images/故事/024A_河岸玻璃花店.png",
+      "prompt_file": "images/故事/024A_河岸玻璃花店.md",
       "headline": "024 / 117｜河岸玻璃花店",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_000000009efc8230b3c7a7e9db8a0da4",
@@ -397,8 +397,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/025_淡紫麵包店的早晨.png",
-      "prompt_file": "images/故事/025_淡紫麵包店的早晨.md",
+      "image": "images/故事/025A_淡紫麵包店的早晨.png",
+      "prompt_file": "images/故事/025A_淡紫麵包店的早晨.md",
       "headline": "025 / 121｜淡紫麵包店的早晨",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000f84481fa9020cfd91a08e3b6",
@@ -413,8 +413,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/026_玻璃長廊的花影.png",
-      "prompt_file": "images/故事/026_玻璃長廊的花影.md",
+      "image": "images/故事/026A_玻璃長廊的花影.png",
+      "prompt_file": "images/故事/026A_玻璃長廊的花影.md",
       "headline": "026 / 131｜玻璃長廊的花影",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000cc2c82118f15e85454012c39",
@@ -429,8 +429,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/027_屋頂玻璃亭的午後.png",
-      "prompt_file": "images/故事/027_屋頂玻璃亭的午後.md",
+      "image": "images/故事/027A_屋頂玻璃亭的午後.png",
+      "prompt_file": "images/故事/027A_屋頂玻璃亭的午後.md",
       "headline": "027 / 139｜屋頂玻璃亭的午後",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000a814820688fd05932b092c30",
@@ -445,8 +445,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/028_石牆藝廊的亮色椅.png",
-      "prompt_file": "images/故事/028_石牆藝廊的亮色椅.md",
+      "image": "images/故事/028A_石牆藝廊的亮色椅.png",
+      "prompt_file": "images/故事/028A_石牆藝廊的亮色椅.md",
       "headline": "028 / 141｜石牆藝廊的亮色椅",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000ef908206b93bc448c60c2863",
@@ -461,8 +461,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/029_海邊花草咖啡館.png",
-      "prompt_file": "images/故事/029_海邊花草咖啡館.md",
+      "image": "images/故事/029A_海邊花草咖啡館.png",
+      "prompt_file": "images/故事/029A_海邊花草咖啡館.md",
       "headline": "029 / 149｜海邊花草咖啡館",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_0000000002e0820689753317174b63c7",
@@ -477,8 +477,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/030_城市雕塑街區.png",
-      "prompt_file": "images/故事/030_城市雕塑街區.md",
+      "image": "images/故事/030A_城市雕塑街區.png",
+      "prompt_file": "images/故事/030A_城市雕塑街區.md",
       "headline": "030 / 158｜城市雕塑街區",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_000000000c24820698bad191e2a54bc5",
@@ -493,8 +493,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/031_老書店裡的藝術書.png",
-      "prompt_file": "images/故事/031_老書店裡的藝術書.md",
+      "image": "images/故事/031A_老書店裡的藝術書.png",
+      "prompt_file": "images/故事/031A_老書店裡的藝術書.md",
       "headline": "031 / 003｜老書店裡的藝術書",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_000000003404820681fec70d583b172a",
@@ -509,8 +509,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/032_藝術影院的候場.png",
-      "prompt_file": "images/故事/032_藝術影院的候場.md",
+      "image": "images/故事/032A_藝術影院的候場.png",
+      "prompt_file": "images/故事/032A_藝術影院的候場.md",
       "headline": "032 / 029｜藝術影院的候場",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000a44c8206a381b5505b52be6a",
@@ -525,8 +525,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/033_刺繡藝廊的花紋.png",
-      "prompt_file": "images/故事/033_刺繡藝廊的花紋.md",
+      "image": "images/故事/033A_刺繡藝廊的花紋.png",
+      "prompt_file": "images/故事/033A_刺繡藝廊的花紋.md",
       "headline": "033 / 053｜刺繡藝廊的花紋",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000b4b08206a9183127406a4ea5",
@@ -541,8 +541,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/034_水色展廳的回眸.png",
-      "prompt_file": "images/故事/034_水色展廳的回眸.md",
+      "image": "images/故事/034A_水色展廳的回眸.png",
+      "prompt_file": "images/故事/034A_水色展廳的回眸.md",
       "headline": "034 / 072｜水色展廳的回眸",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_000000002ce482068421fef97e8b1bea",
@@ -557,8 +557,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/035_屋頂攝影展的城市.png",
-      "prompt_file": "images/故事/035_屋頂攝影展的城市.md",
+      "image": "images/故事/035A_屋頂攝影展的城市.png",
+      "prompt_file": "images/故事/035A_屋頂攝影展的城市.md",
       "headline": "035 / 074｜屋頂攝影展的城市",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_0000000069048206a9a678d03af971f5",
@@ -573,8 +573,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/036_工業藝廊的銀色.png",
-      "prompt_file": "images/故事/036_工業藝廊的銀色.md",
+      "image": "images/故事/036A_工業藝廊的銀色.png",
+      "prompt_file": "images/故事/036A_工業藝廊的銀色.md",
       "headline": "036 / 098｜工業藝廊的銀色",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_000000000c6c8206b7199dc1804ca7c4",
@@ -589,8 +589,8 @@
       "height": 1670
     },
     {
-      "image": "images/故事/038_唱片角落的粉色.png",
-      "prompt_file": "images/故事/038_唱片角落的粉色.md",
+      "image": "images/故事/038A_唱片角落的粉色.png",
+      "prompt_file": "images/故事/038A_唱片角落的粉色.md",
       "headline": "038 / 116｜唱片角落的粉色",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000b71c820680516531e89e5daa",
@@ -605,8 +605,8 @@
       "height": 1672
     },
     {
-      "image": "images/故事/039_微型花園展的小景.png",
-      "prompt_file": "images/故事/039_微型花園展的小景.md",
+      "image": "images/故事/039A_微型花園展的小景.png",
+      "prompt_file": "images/故事/039A_微型花園展的小景.md",
       "headline": "039 / 118｜微型花園展的小景",
       "source_share": "https://chatgpt.com/share/6ae8ace2-49e0-83e8-8785-494aab077021",
       "source_file_id": "file_00000000f93082068b639dd98b471626",
