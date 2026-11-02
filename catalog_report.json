@@ -1,10 +1,11 @@
 {
-  "total_categorized": 482,
+  "total_categorized": 509,
   "category_counts": {
     "清新": 39,
     "性感": 149,
     "動漫": 134,
-    "故事": 160
+    "故事": 160,
+    "故事2": 27
   },
   "skipped": []
 }
