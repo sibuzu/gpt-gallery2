@@ -1,0 +1,294 @@
+{
+  "date": "2026-11-03",
+  "category": "漫服",
+  "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
+  "image_handling": "Original source PNG bytes preserved; no resizing, recompression, or mirroring.",
+  "prompt_handling": "Full original user prompt including the numbered headline is preserved. Filenames use the original number_variant_title; additional images with the same headline receive -02, -03, etc.",
+  "deduplication": "Compared SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, against all existing gallery categories and this import.",
+  "summary": {
+    "unique_generated_source_images": 26,
+    "unique_story_headlines": 26,
+    "added": 12,
+    "skipped_existing_duplicates": 14
+  },
+  "images": [
+    {
+      "image": "images/漫服/58_1_和式庭院的插花.png",
+      "prompt_file": "images/漫服/58_1_和式庭院的插花.md",
+      "headline": "58#1｜和式庭院的插花",
+      "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
+      "source_file_id": "file_0000000094e481faa3e845bb10c4690e",
+      "source_message_id": "35bcec04-7938-4c96-b299-96bcfe6f961e",
+      "source_role": "tool",
+      "source_image_title": "晨光茶庭插花雅韻",
+      "horizontal_mirror": false,
+      "original_sha256": "9baac079dec5669c5d7324aaa45b7598b9a52b79f47400c93bb59a3373475f37",
+      "output_sha256": "9baac079dec5669c5d7324aaa45b7598b9a52b79f47400c93bb59a3373475f37",
+      "size_bytes": 3104505,
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "image": "images/漫服/45_2_海島古物市集.png",
+      "prompt_file": "images/漫服/45_2_海島古物市集.md",
+      "headline": "45#2｜海島古物市集",
+      "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
+      "source_file_id": "file_000000000b0881fa946e7a70af307f51",
+      "source_message_id": "13d8bac2-715d-4efc-a830-f463f977990a",
+      "source_role": "tool",
+      "source_image_title": "海島古玩市集的考古學者",
+      "horizontal_mirror": false,
+      "original_sha256": "5df0fa27c974a21a67c460cbeea9c5c8a154f27f64dcf2a4ede1c6fd0dffa60a",
+      "output_sha256": "5df0fa27c974a21a67c460cbeea9c5c8a154f27f64dcf2a4ede1c6fd0dffa60a",
+      "size_bytes": 3112321,
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "image": "images/漫服/39_2_武術館的伸展.png",
+      "prompt_file": "images/漫服/39_2_武術館的伸展.md",
+      "headline": "39#2｜武術館的伸展",
+      "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
+      "source_file_id": "file_00000000f45881faadf0bd09f2c4e216",
+      "source_message_id": "cd72b503-e1f8-4ff7-8e6c-23060d9938bd",
+      "source_role": "tool",
+      "source_image_title": "陽光武道館中的肩部伸展",
+      "horizontal_mirror": false,
+      "original_sha256": "7a1f0511d3a3d213abcc1032d36f59f05f2ca91d848adfa7a5471d6317d5756b",
+      "output_sha256": "7a1f0511d3a3d213abcc1032d36f59f05f2ca91d848adfa7a5471d6317d5756b",
+      "size_bytes": 2392924,
+      "width": 942,
+      "height": 1670
+    },
+    {
+      "image": "images/漫服/49_3_玻璃花房的白山茶.png",
+      "prompt_file": "images/漫服/49_3_玻璃花房的白山茶.md",
+      "headline": "49#3｜玻璃花房的白山茶",
+      "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
+      "source_file_id": "file_0000000091cc81faad8ec3d200c6b5b6",
+      "source_message_id": "6c6258a1-e6b2-4c16-b2b0-7c50ed378fec",
+      "source_role": "tool",
+      "source_image_title": "溫室白花珍珠時尚肖像",
+      "horizontal_mirror": false,
+      "original_sha256": "8872e3b44e97536832df099a2b7d57045725f6ee8ee626bec18f8cbffa267e2a",
+      "output_sha256": "8872e3b44e97536832df099a2b7d57045725f6ee8ee626bec18f8cbffa267e2a",
+      "size_bytes": 2717836,
+      "width": 942,
+      "height": 1670
+    },
+    {
+      "image": "images/漫服/28_1_醫療研究室的晨會.png",
+      "prompt_file": "images/漫服/28_1_醫療研究室的晨會.md",
+      "headline": "28#1｜醫療研究室的晨會",
+      "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
+      "source_file_id": "file_00000000575c81fab2ef85c2516bcb0f",
+      "source_message_id": "dfa35a42-0d85-4a33-af7e-f58913b54e38",
+      "source_role": "tool",
+      "source_image_title": "陽光藥草工坊的植物學家",
+      "horizontal_mirror": false,
+      "original_sha256": "ea0d20b3916a00d6680e88872a20ae7686312f11d95de9cb11a6d67821480c08",
+      "output_sha256": "ea0d20b3916a00d6680e88872a20ae7686312f11d95de9cb11a6d67821480c08",
+      "size_bytes": 2898026,
+      "width": 942,
+      "height": 1670
+    },
+    {
+      "image": "images/漫服/60_2_鐘錶工坊的圓盤.png",
+      "prompt_file": "images/漫服/60_2_鐘錶工坊的圓盤.md",
+      "headline": "60#2｜鐘錶工坊的圓盤",
+      "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
+      "source_file_id": "file_00000000167c81fab41c716d008e1e42",
+      "source_message_id": "190ffb1f-689e-4896-889d-131b0a0f81b4",
+      "source_role": "tool",
+      "source_image_title": "蒸汽鐘表工坊中的專注工匠",
+      "horizontal_mirror": false,
+      "original_sha256": "87ae189a4a115c0faaf719d7452b9aee57ade790e044633983b043623bfbed6f",
+      "output_sha256": "87ae189a4a115c0faaf719d7452b9aee57ade790e044633983b043623bfbed6f",
+      "size_bytes": 2628849,
+      "width": 942,
+      "height": 1670
+    },
+    {
+      "image": "images/漫服/42_4_港灣天橋的夜風.png",
+      "prompt_file": "images/漫服/42_4_港灣天橋的夜風.md",
+      "headline": "42#4｜港灣天橋的夜風",
+      "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
+      "source_file_id": "file_00000000f75881fabcce87eab6ad6b5b",
+      "source_message_id": "01a709f3-a751-49ba-ba06-0f9b0bfd13ed",
+      "source_role": "tool",
+      "source_image_title": "夜港紅衣金鏈女郎",
+      "horizontal_mirror": false,
+      "original_sha256": "3eb8fd2da768aecb281b65e42ca80eb03b1cb942d2b04aa5e332617853115085",
+      "output_sha256": "3eb8fd2da768aecb281b65e42ca80eb03b1cb942d2b04aa5e332617853115085",
+      "size_bytes": 2696645,
+      "width": 942,
+      "height": 1670
+    },
+    {
+      "image": "images/漫服/24_3_古街香料茶舖.png",
+      "prompt_file": "images/漫服/24_3_古街香料茶舖.md",
+      "headline": "24#3｜古街香料茶舖",
+      "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
+      "source_file_id": "file_00000000847081fa90c9fefb14013f1e",
+      "source_message_id": "656e8721-e1c9-4a8a-aa85-2335fa4725ba",
+      "source_role": "tool",
+      "source_image_title": "花茶店中的玫瑰茶少女",
+      "horizontal_mirror": false,
+      "original_sha256": "1718da441b892c051e7aa399e0f38008e78d36c06cdb1a2ba8350c107cacd745",
+      "output_sha256": "1718da441b892c051e7aa399e0f38008e78d36c06cdb1a2ba8350c107cacd745",
+      "size_bytes": 2735470,
+      "width": 942,
+      "height": 1670
+    },
+    {
+      "image": "images/漫服/58_3_劍道館外的休息.png",
+      "prompt_file": "images/漫服/58_3_劍道館外的休息.md",
+      "headline": "58#3｜劍道館外的休息",
+      "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
+      "source_file_id": "file_00000000c87c81fa809970dcb0ea0b6e",
+      "source_message_id": "64e584b2-b9c4-4c96-95c1-0cc436792af8",
+      "source_role": "tool",
+      "source_image_title": "劍道館櫻花旗袍佳人",
+      "horizontal_mirror": false,
+      "original_sha256": "04f57270946de9c5b105bee81c9f1d399da434f2694d908c649e22e72d6d2cb6",
+      "output_sha256": "04f57270946de9c5b105bee81c9f1d399da434f2694d908c649e22e72d6d2cb6",
+      "size_bytes": 2499597,
+      "width": 942,
+      "height": 1670
+    },
+    {
+      "image": "images/漫服/31_2_水族館的藍色星點.png",
+      "prompt_file": "images/漫服/31_2_水族館的藍色星點.md",
+      "headline": "31#2｜水族館的藍色星點",
+      "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
+      "source_file_id": "file_00000000b6f481fa99d6aca6a6debb5e",
+      "source_message_id": "54431b32-1519-4dda-b0d4-7b202c67469b",
+      "source_role": "tool",
+      "source_image_title": "藍光水族館的月影少女",
+      "horizontal_mirror": false,
+      "original_sha256": "76dd51e7d565e13451765caaa91f695fa3b5f8a433eeffa468e5a06868d5c46b",
+      "output_sha256": "76dd51e7d565e13451765caaa91f695fa3b5f8a433eeffa468e5a06868d5c46b",
+      "size_bytes": 2653058,
+      "width": 942,
+      "height": 1670
+    },
+    {
+      "image": "images/漫服/19_2_光學展館的稜鏡.png",
+      "prompt_file": "images/漫服/19_2_光學展館的稜鏡.md",
+      "headline": "19#2｜光學展館的稜鏡",
+      "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
+      "source_file_id": "file_0000000003c881fa92839c363559c05d",
+      "source_message_id": "e4c6d8e8-f059-4817-884a-abae4aba4e00",
+      "source_role": "tool",
+      "source_image_title": "翡翠彩虹光學展館",
+      "horizontal_mirror": false,
+      "original_sha256": "46e3e8b4c2ab7dc9d332efd1b28ba22530ebffdb0fc56e3c6495c00544af379b",
+      "output_sha256": "46e3e8b4c2ab7dc9d332efd1b28ba22530ebffdb0fc56e3c6495c00544af379b",
+      "size_bytes": 2508456,
+      "width": 942,
+      "height": 1670
+    },
+    {
+      "image": "images/漫服/27_3_草莓甜點店的櫥窗.png",
+      "prompt_file": "images/漫服/27_3_草莓甜點店的櫥窗.md",
+      "headline": "27#3｜草莓甜點店的櫥窗",
+      "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
+      "source_file_id": "file_000000007db081faa5e30f133a47235f",
+      "source_message_id": "9c74a177-73b8-406c-bdb7-a639d4b5c6d6",
+      "source_role": "tool",
+      "source_image_title": "草莓甜點櫥窗前的銀甲少女",
+      "horizontal_mirror": false,
+      "original_sha256": "bd8dcec96fce31abc747944ff23c452409ebca3b126b51bdc37103e22f579b59",
+      "output_sha256": "bd8dcec96fce31abc747944ff23c452409ebca3b126b51bdc37103e22f579b59",
+      "size_bytes": 2810774,
+      "width": 942,
+      "height": 1670
+    }
+  ],
+  "skipped": [
+    {
+      "source_file_id": "file_0000000017c481fa917a6d1c838754be",
+      "headline": "30#4｜賽車維修區的夕照",
+      "duplicate_of": "images/漫服/30_4_賽車維修區的夕照.png",
+      "reason": "already imported source file and original bytes verified"
+    },
+    {
+      "source_file_id": "file_0000000024d481faa53b55a199880c3a",
+      "headline": "61#3｜博物館的古典槍工藝",
+      "duplicate_of": "images/漫服/61_3_博物館的古典槍工藝.png",
+      "reason": "already imported source file and original bytes verified"
+    },
+    {
+      "source_file_id": "file_0000000025a481fa86d6d8acc8eeded8",
+      "headline": "12#2｜都會花店的紫丁香",
+      "duplicate_of": "images/漫服/12_2_都會花店的紫丁香.png",
+      "reason": "already imported source file and original bytes verified"
+    },
+    {
+      "source_file_id": "file_000000002b4081fa984a44fb208e3dd5",
+      "headline": "62#4｜夜色橋邊的旋律",
+      "duplicate_of": "images/漫服/62_4_夜色橋邊的旋律.png",
+      "reason": "already imported source file and original bytes verified"
+    },
+    {
+      "source_file_id": "file_00000000483081fa9fa3ca9bf5def256",
+      "headline": "51#4｜螢火溪畔的晚風",
+      "duplicate_of": "images/漫服/51_4_螢火溪畔的晚風.png",
+      "reason": "already imported source file and original bytes verified"
+    },
+    {
+      "source_file_id": "file_00000000a4e881fabe8e00a3d61ce26a",
+      "headline": "07#4｜海灣露台的琴聲",
+      "duplicate_of": "images/漫服/07_4_海灣露台的琴聲.png",
+      "reason": "already imported source file and original bytes verified"
+    },
+    {
+      "source_file_id": "file_00000000e66881faa9fa39b25fef737a",
+      "headline": "08#4｜兵器藝廊的銀影",
+      "duplicate_of": "images/漫服/08_4_兵器藝廊的銀影.png",
+      "reason": "already imported source file and original bytes verified"
+    },
+    {
+      "source_file_id": "file_0000000098b481f48a7a40f0d70fc1a6",
+      "headline": "15#2｜染布工坊的紫花",
+      "duplicate_of": "images/漫服/15_2_染布工坊的紫花.png",
+      "reason": "already imported source file and original bytes verified"
+    },
+    {
+      "source_file_id": "file_00000000226c81fabd3828fa48196614",
+      "headline": "09#3｜海風展望台",
+      "duplicate_of": "images/漫服/09_3_海風展望台.png",
+      "reason": "already imported source file and original bytes verified"
+    },
+    {
+      "source_file_id": "file_0000000029a081fa9a02562c9f75a72f",
+      "headline": "40#1｜黑薔薇花房的晨露",
+      "duplicate_of": "images/漫服/40_1_黑薔薇花房的晨露.png",
+      "reason": "already imported source file and original bytes verified"
+    },
+    {
+      "source_file_id": "file_000000002a8481fab38ccde835c4d5c9",
+      "headline": "34#2｜電子樂展的發光琴鍵",
+      "duplicate_of": "images/漫服/34_2_電子樂展的發光琴鍵.png",
+      "reason": "already imported source file and original bytes verified"
+    },
+    {
+      "source_file_id": "file_0000000079ec81fab39a573dd67558d0",
+      "headline": "28#2｜山城茶屋的桌遊",
+      "duplicate_of": "images/漫服/28_2_山城茶屋的桌遊.png",
+      "reason": "already imported source file and original bytes verified"
+    },
+    {
+      "source_file_id": "file_00000000672c81fa9dd65cf607bdddc7",
+      "headline": "16#3｜雨窗旁的深紫茶席",
+      "duplicate_of": "images/漫服/16_3_雨窗旁的深紫茶席.png",
+      "reason": "already imported source file and original bytes verified"
+    },
+    {
+      "source_file_id": "file_00000000c4cc81fa931c6a42d5536dbc",
+      "headline": "35#4｜紅毯車門的夜光",
+      "duplicate_of": "images/漫服/35_4_紅毯車門的夜光.png",
+      "reason": "already imported source file and original bytes verified"
+    }
+  ]
+}
