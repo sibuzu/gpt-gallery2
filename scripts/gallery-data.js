@@ -1220,7 +1220,7 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/動漫全/13B_Tifa-03.png",
     "hasDescription": true,
     "title": "13B_Tifa-03",
-    "width": 942,
+    "width": 941,
     "height": 1670
   },
   {
@@ -1308,8 +1308,8 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/動漫全/57B_神楽_銀魂-01.png",
     "hasDescription": true,
     "title": "57B_神楽_銀魂-01",
-    "width": 942,
-    "height": 1670
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "漫服",
@@ -1438,6 +1438,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "049B_藍色玻璃的倒影",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "動漫全",
+    "src": "images/動漫全/35B_峰不二子-04-02.png",
+    "hasDescription": true,
+    "title": "35B_峰不二子-04-02",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "動漫全",
@@ -1864,6 +1872,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "動漫全",
+    "src": "images/動漫全/60B_暁美ほむら-03.png",
+    "hasDescription": true,
+    "title": "60B_暁美ほむら-03",
+    "width": 941,
+    "height": 1671
+  },
+  {
     "category": "故事2",
     "src": "images/故事2/025B_淡紫麵包店的早晨.png",
     "hasDescription": true,
@@ -1916,6 +1932,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/動漫全/54B_日暮かごめ-01.png",
     "hasDescription": true,
     "title": "54B_日暮かごめ-01",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "動漫全",
+    "src": "images/動漫全/50B_戦慄のタツマキ-03.png",
+    "hasDescription": true,
+    "title": "50B_戦慄のタツマキ-03",
     "width": 941,
     "height": 1672
   },
@@ -2488,6 +2512,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "動漫全",
+    "src": "images/動漫全/57B_神楽_銀魂-03.png",
+    "hasDescription": true,
+    "title": "57B_神楽_銀魂-03",
+    "width": 941,
+    "height": 1671
+  },
+  {
     "category": "性感",
     "src": "images/性感/V領腰側鏤空無袖連身裙-02.png",
     "hasDescription": true,
@@ -2533,14 +2565,6 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "44C_ランチ-03",
     "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "動漫全",
-    "src": "images/動漫全/43B_ブルマ-01-02.png",
-    "hasDescription": true,
-    "title": "43B_ブルマ-01-02",
-    "width": 941,
     "height": 1670
   },
   {
@@ -2716,6 +2740,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/故事/101B_紅色拱門的咖啡香.png",
     "hasDescription": true,
     "title": "101B_紅色拱門的咖啡香",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "動漫全",
+    "src": "images/動漫全/28B_綱手-04-02.png",
+    "hasDescription": true,
+    "title": "28B_綱手-04-02",
     "width": 941,
     "height": 1671
   },
@@ -3264,6 +3296,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "動漫全",
+    "src": "images/動漫全/44B_ランチ-02-02.png",
+    "hasDescription": true,
+    "title": "44B_ランチ-02-02",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "動漫",
     "src": "images/動漫/03A_Cammy-02.png",
     "hasDescription": true,
@@ -3285,7 +3325,7 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "57B_神楽_銀魂-01-02",
     "width": 941,
-    "height": 1672
+    "height": 1670
   },
   {
     "category": "動漫全",
@@ -3388,7 +3428,7 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/動漫全/43B_ブルマ-01.png",
     "hasDescription": true,
     "title": "43B_ブルマ-01",
-    "width": 942,
+    "width": 941,
     "height": 1670
   },
   {
@@ -3904,14 +3944,6 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
-    "category": "動漫全",
-    "src": "images/動漫全/20B_ヨルハ二号B型（2B）-02-02.png",
-    "hasDescription": true,
-    "title": "20B_ヨルハ二号B型（2B）-02-02",
-    "width": 942,
-    "height": 1670
-  },
-  {
     "category": "性感",
     "src": "images/性感/露肩短上衣+比基尼泳褲-01.png",
     "hasDescription": true,
@@ -4190,6 +4222,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "082A_花草午茶的桌邊",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "動漫全",
+    "src": "images/動漫全/63B_佐倉杏子-04-02.png",
+    "hasDescription": true,
+    "title": "63B_佐倉杏子-04-02",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "故事2",
@@ -4776,14 +4816,6 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
-    "category": "動漫全",
-    "src": "images/動漫全/13B_Tifa-03-02.png",
-    "hasDescription": true,
-    "title": "13B_Tifa-03-02",
-    "width": 941,
-    "height": 1670
-  },
-  {
     "category": "故事",
     "src": "images/故事/128A_爵士演出前的走廊.png",
     "hasDescription": true,
@@ -4862,14 +4894,6 @@ window.__GALLERY_IMAGES__ = [
     "title": "44A_ランチ-02",
     "width": 941,
     "height": 1670
-  },
-  {
-    "category": "動漫全",
-    "src": "images/動漫全/24B_松本乱菊-01-02.png",
-    "hasDescription": true,
-    "title": "24B_松本乱菊-01-02",
-    "width": 941,
-    "height": 1672
   },
   {
     "category": "動漫全",
@@ -5028,6 +5052,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/動漫全/05B_アイヴィー-02.png",
     "hasDescription": true,
     "title": "05B_アイヴィー-02",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "動漫全",
+    "src": "images/動漫全/46B_ペローナ-02.png",
+    "hasDescription": true,
+    "title": "46B_ペローナ-02",
     "width": 941,
     "height": 1671
   },
@@ -6728,14 +6760,6 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
-    "category": "動漫全",
-    "src": "images/動漫全/27B_エルザ・スカーレット-03-02.png",
-    "hasDescription": true,
-    "title": "27B_エルザ・スカーレット-03-02",
-    "width": 941,
-    "height": 1672
-  },
-  {
     "category": "漫服",
     "src": "images/漫服/16C_ルールー-04.png",
     "hasDescription": true,
@@ -6912,6 +6936,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "動漫全",
+    "src": "images/動漫全/28B_綱手-04.png",
+    "hasDescription": true,
+    "title": "28B_綱手-04",
+    "width": 941,
+    "height": 1671
+  },
+  {
     "category": "清新",
     "src": "images/清新/棉質長洋裝+薄外套-01.png",
     "hasDescription": true,
@@ -6956,6 +6988,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/動漫全/26B_ヨル-03.png",
     "hasDescription": true,
     "title": "26B_ヨル-03",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "動漫全",
+    "src": "images/動漫全/57B_神楽_銀魂-02.png",
+    "hasDescription": true,
+    "title": "57B_神楽_銀魂-02",
     "width": 941,
     "height": 1670
   },
