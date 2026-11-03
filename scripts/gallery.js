@@ -1,4 +1,6 @@
-const images = window.__GALLERY_IMAGES__ || [];
+const images = (window.__GALLERY_IMAGES__ || []).map((image) => image.category === "漫服"
+  ? { ...image, category: "動漫全" }
+  : image);
 
 // Only assign a URL once an image reaches the viewport. Native lazy loading
 // may fetch images several screens away, competing with visible images.
@@ -58,7 +60,7 @@ function observeCardImages() {
     const DEFAULT_CATEGORY = "全部";
     const CATEGORY_STORAGE_KEY = "gpt-gallery2-active-category";
     const PAGE_SIZE = 40;
-    const categories = ["全部", "清新", "性感", "動漫", "故事", "故事2", "漫服", "動漫全"];
+    const categories = ["全部", "清新", "性感", "動漫", "故事", "故事2", "動漫全"];
     let activeCategory = initialCategory();
     let currentImages = images;
     let currentGroups = [];
@@ -97,6 +99,7 @@ function observeCardImages() {
 
     function initialCategory() {
       const savedCategory = storedCategory();
+      if (savedCategory === "漫服") return "動漫全";
       if (savedCategory && categories.includes(savedCategory)) {
         return savedCategory;
       }
@@ -145,7 +148,7 @@ function observeCardImages() {
     function basenameKey(title) {
       title = title.normalize("NFC");
       const character = animeCharacterFor({ title });
-      if (character) return `${character.id}${character.collection}_${character.name}`;
+      if (character) return `${character.id}B_${character.name}`;
       const dashedGroupedMatch = title.match(/^(.+[a-z])-(\d+)$/);
       if (dashedGroupedMatch) {
         return dashedGroupedMatch[1];
@@ -163,7 +166,7 @@ function observeCardImages() {
 
     function variantKey(title) {
       const character = animeCharacterFor({ title });
-      if (character) return [String(character.variant).padStart(2, "0"), character.copy, title];
+      if (character) return [`${String(character.variant).padStart(2, "0")}-${character.collection}`, character.copy, title];
       const dashedGroupedMatch = title.match(/^(.+[a-z])-(\d+)$/);
       if (dashedGroupedMatch) {
         return ["", Number(dashedGroupedMatch[2]), title];
@@ -185,14 +188,25 @@ function observeCardImages() {
     function groupByBasename(items) {
       const groups = new Map();
       const order = [];
+      const ordered = new Set();
+      const charactersWithB = new Set(items.flatMap((image) => {
+        const character = animeCharacterFor(image);
+        return character?.collection === "B" ? [character.id] : [];
+      }));
 
       for (const image of items) {
         const key = basenameKey(image.title || image.src);
         if (!groups.has(key)) {
           groups.set(key, []);
-          order.push(key);
         }
         groups.get(key).push(image);
+        const character = animeCharacterFor(image);
+        // Keep the original B-card layout order when merging C images into its stack.
+        if (character?.collection === "C" && charactersWithB.has(character.id)) continue;
+        if (!ordered.has(key)) {
+          order.push(key);
+          ordered.add(key);
+        }
       }
 
       return order.map((key) => {
@@ -283,7 +297,7 @@ function observeCardImages() {
     function buildCharacterPages(items) {
       const characters = new Map();
       for (const image of items) {
-        if (!["動漫全", "漫服"].includes(image.category)) continue;
+        if (image.category !== "動漫全") continue;
         const character = animeCharacterFor(image);
         if (!character || character.variant < 1 || character.variant > 4) continue;
         if (!characters.has(character.id)) {
