@@ -16,6 +16,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
+    "category": "動漫全",
+    "src": "images/動漫全/40B_九能小太刀-04.png",
+    "hasDescription": true,
+    "title": "40B_九能小太刀-04",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "故事2",
     "src": "images/故事2/008B_檸檬冰淇淋小店.png",
     "hasDescription": true,
@@ -454,6 +462,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "厚針織上衣+羊毛長裙-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "動漫全",
+    "src": "images/動漫全/23B_ナミ-04.png",
+    "hasDescription": true,
+    "title": "23B_ナミ-04",
+    "width": 1024,
+    "height": 1536
   },
   {
     "category": "性感",
@@ -1309,7 +1325,7 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "57B_神楽_銀魂-01",
     "width": 941,
-    "height": 1672
+    "height": 1670
   },
   {
     "category": "漫服",
@@ -1438,14 +1454,6 @@ window.__GALLERY_IMAGES__ = [
     "title": "049B_藍色玻璃的倒影",
     "width": 941,
     "height": 1670
-  },
-  {
-    "category": "動漫全",
-    "src": "images/動漫全/35B_峰不二子-04-02.png",
-    "hasDescription": true,
-    "title": "35B_峰不二子-04-02",
-    "width": 941,
-    "height": 1672
   },
   {
     "category": "動漫全",
@@ -2209,6 +2217,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "動漫全",
+    "src": "images/動漫全/13B_Tifa-04.png",
+    "hasDescription": true,
+    "title": "13B_Tifa-04",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "category": "動漫全",
     "src": "images/動漫全/54B_日暮かごめ-03.png",
     "hasDescription": true,
     "title": "54B_日暮かごめ-03",
@@ -2420,6 +2436,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/動漫/62A_美樹さやか-01.png",
     "hasDescription": true,
     "title": "62A_美樹さやか-01",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "動漫全",
+    "src": "images/動漫全/09B_かすみ-02.png",
+    "hasDescription": true,
+    "title": "09B_かすみ-02",
     "width": 941,
     "height": 1672
   },
@@ -2740,14 +2764,6 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/故事/101B_紅色拱門的咖啡香.png",
     "hasDescription": true,
     "title": "101B_紅色拱門的咖啡香",
-    "width": 941,
-    "height": 1671
-  },
-  {
-    "category": "動漫全",
-    "src": "images/動漫全/28B_綱手-04-02.png",
-    "hasDescription": true,
-    "title": "28B_綱手-04-02",
     "width": 941,
     "height": 1671
   },
@@ -3296,14 +3312,6 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
-    "category": "動漫全",
-    "src": "images/動漫全/44B_ランチ-02-02.png",
-    "hasDescription": true,
-    "title": "44B_ランチ-02-02",
-    "width": 941,
-    "height": 1670
-  },
-  {
     "category": "動漫",
     "src": "images/動漫/03A_Cammy-02.png",
     "hasDescription": true,
@@ -3318,14 +3326,6 @@ window.__GALLERY_IMAGES__ = [
     "title": "15B_Yuna-02",
     "width": 941,
     "height": 1671
-  },
-  {
-    "category": "動漫全",
-    "src": "images/動漫全/57B_神楽_銀魂-01-02.png",
-    "hasDescription": true,
-    "title": "57B_神楽_銀魂-01-02",
-    "width": 941,
-    "height": 1670
   },
   {
     "category": "動漫全",
@@ -3952,6 +3952,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "動漫全",
+    "src": "images/動漫全/12B_シェルミー-04.png",
+    "hasDescription": true,
+    "title": "12B_シェルミー-04",
+    "width": 1024,
+    "height": 1536
+  },
+  {
     "category": "故事",
     "src": "images/故事/143A_植物展園的寫生板.png",
     "hasDescription": true,
@@ -3974,6 +3982,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "113B_曲面家飾店的淡黃",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "動漫全",
+    "src": "images/動漫全/49B_地獄のフブキ-03.png",
+    "hasDescription": true,
+    "title": "49B_地獄のフブキ-03",
+    "width": 1024,
+    "height": 1536
   },
   {
     "category": "漫服",
@@ -4224,14 +4240,6 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
-    "category": "動漫全",
-    "src": "images/動漫全/63B_佐倉杏子-04-02.png",
-    "hasDescription": true,
-    "title": "63B_佐倉杏子-04-02",
-    "width": 941,
-    "height": 1672
-  },
-  {
     "category": "故事2",
     "src": "images/故事2/087A_暖燈圖書室的晚讀.png",
     "hasDescription": true,
@@ -4270,6 +4278,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "003A_唱片行的橘色節拍",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "動漫全",
+    "src": "images/動漫全/25B_孔雀舞-01.png",
+    "hasDescription": true,
+    "title": "25B_孔雀舞-01",
+    "width": 1024,
+    "height": 1536
   },
   {
     "category": "動漫",
@@ -4486,6 +4502,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "148B_歌劇院門廳的等待",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "動漫全",
+    "src": "images/動漫全/01B_不知火舞-03.png",
+    "hasDescription": true,
+    "title": "01B_不知火舞-03",
+    "width": 1024,
+    "height": 1536
   },
   {
     "category": "漫服",
