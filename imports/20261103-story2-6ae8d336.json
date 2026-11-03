@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-03",
+  "category": "故事2",
+  "source_share": "https://chatgpt.com/share/6ae8d336-cb0c-83ee-ba7b-47f02f5322b4",
+  "selection": "Only the last generated image (041) was downloaded and imported.",
+  "image_handling": "Original source PNG bytes preserved; no resizing, recompression, or mirroring.",
+  "prompt_handling": "Full original user prompt including the numbered headline is preserved. Filenames use the first headline number followed by B and the title; additional images with the same headline receive -02, -03, etc.",
+  "deduplication": "Compared SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, against all existing gallery categories and this import.",
+  "summary": {
+    "unique_generated_source_images": 1,
+    "unique_story_headlines": 1,
+    "added": 1,
+    "skipped_existing_duplicates": 0
+  },
+  "images": [
+    {
+      "image": "images/故事2/041B_盆景設計室的綠意.png",
+      "prompt_file": "images/故事2/041B_盆景設計室的綠意.md",
+      "headline": "041 / 123｜盆景設計室的綠意",
+      "source_share": "https://chatgpt.com/share/6ae8d336-cb0c-83ee-ba7b-47f02f5322b4",
+      "source_file_id": "file_0000000084b08206849bea8b230f49bb",
+      "source_message_id": "182ca42f-ea16-46f0-85d9-c3cd6baa171d",
+      "source_role": "tool",
+      "source_image_title": "盆栽展間的優雅女子",
+      "horizontal_mirror": false,
+      "original_sha256": "239fbe2704cbcc54e6c37af1eabe68892f86f79dce56f5af80e71a58150e5c15",
+      "output_sha256": "239fbe2704cbcc54e6c37af1eabe68892f86f79dce56f5af80e71a58150e5c15",
+      "size_bytes": 2177927,
+      "width": 942,
+      "height": 1670
+    }
+  ],
+  "skipped": []
+}
