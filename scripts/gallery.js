@@ -68,7 +68,7 @@ function observeCardImages() {
     let touchStartY = 0;
     const expandedGroups = new Set();
     const characterPages = buildCharacterPages(images);
-    const characterPageIndexes = new Map(characterPages.map((page, index) => [page.id, index]));
+    const characterPageIndexes = new Map(characterPages.flatMap((page, index) => page.firstVariant === 1 ? [[page.id, index]] : []));
     const fourImageCache = new Map();
     let fourPageIndex = -1;
     let fourViewTrigger = null;
@@ -144,7 +144,7 @@ function observeCardImages() {
     function basenameKey(title) {
       title = title.normalize("NFC");
       const character = animeCharacterFor({ title });
-      if (character) return `${character.id}B_${character.name}`;
+      if (character) return `${character.id}${character.collection}_${character.name}`;
       const dashedGroupedMatch = title.match(/^(.+[a-z])-(\d+)$/);
       if (dashedGroupedMatch) {
         return dashedGroupedMatch[1];
@@ -275,33 +275,35 @@ function observeCardImages() {
     }
 
     function animeCharacterFor(image) {
-      const match = (image.title || "").normalize("NFC").match(/^(\d{2})B_(.+?)-(\d{2})(?:-(\d{2}))?$/u);
-      return match ? { id: match[1], name: match[2], variant: Number(match[3]), copy: Number(match[4] || 1) } : null;
+      const match = (image.title || "").normalize("NFC").match(/^(\d{2})([BC])_(.+?)-(\d{2})(?:-(\d{2}))?$/u);
+      return match ? { id: match[1], collection: match[2], name: match[3], variant: Number(match[4]), copy: Number(match[5] || 1) } : null;
     }
 
     function buildCharacterPages(items) {
       const characters = new Map();
       for (const image of items) {
-        if (image.category !== "動漫全") continue;
+        if (!["動漫全", "漫服"].includes(image.category)) continue;
         const character = animeCharacterFor(image);
         if (!character || character.variant < 1 || character.variant > 4) continue;
         if (!characters.has(character.id)) {
           characters.set(character.id, { id: character.id, name: character.name, variants: new Map() });
         }
         const page = characters.get(character.id);
-        const previous = page.variants.get(character.variant);
+        const key = `${character.collection}-${character.variant}`;
+        const previous = page.variants.get(key);
         if (!previous || character.copy < previous.copy) {
-          page.variants.set(character.variant, { image, copy: character.copy });
+          page.variants.set(key, { image, copy: character.copy });
         }
       }
       return Array.from(characters.values())
-        .filter((page) => page.variants.size === 4)
         .sort((left, right) => Number(left.id) - Number(right.id))
-        .map((page) => ({
+        .flatMap((page) => [1, 3].map((firstVariant) => ({
           id: page.id,
           name: page.name,
-          images: [1, 2, 3, 4].map((variant) => page.variants.get(variant).image),
-        }));
+          firstVariant,
+          labels: [firstVariant, firstVariant + 1].flatMap((variant) => ["B", "C"].map((collection) => `${page.id}${collection}-${variant}`)),
+          images: [firstVariant, firstVariant + 1].flatMap((variant) => ["B", "C"].map((collection) => page.variants.get(`${collection}-${variant}`)?.image || null)),
+        })));
     }
 
     function fourImageFor(image, priority) {
@@ -313,6 +315,7 @@ function observeCardImages() {
         element.loading = "eager";
         element.width = image.width || 1024;
         element.height = image.height || 1536;
+        element.addEventListener("error", () => element.classList.add("four-view-missing"));
         element.setAttribute("fetchpriority", priority);
         element.src = encodeURI(image.src);
         fourImageCache.set(image.src, element);
@@ -323,12 +326,13 @@ function observeCardImages() {
     }
 
     function preloadFourPages(index) {
-      const keep = new Set(characterPages[index].images.map((image) => image.src));
-      // One previous character (4 images), two following characters (8 images).
+      const keep = new Set(characterPages[index].images.filter(Boolean).map((image) => image.src));
+      // Preload one previous page (4 slots) and two following pages (8 slots).
       for (const offset of [-1, 1, 2]) {
         const page = characterPages[index + offset];
         if (!page) continue;
         for (const image of page.images) {
+          if (!image) continue;
           keep.add(image.src);
           fourImageFor(image, "low");
         }
@@ -342,16 +346,25 @@ function observeCardImages() {
       if (index < 0 || index >= characterPages.length) return;
       fourPageIndex = index;
       const page = characterPages[index];
-      fourViewImages.replaceChildren(...page.images.map((image) => fourImageFor(image, "high")));
-      fourViewTitle.textContent = `${page.id} · ${page.name}　${index + 1} / ${characterPages.length}`;
+      fourViewImages.replaceChildren(...page.images.map((image, slot) => {
+        if (image) return fourImageFor(image, "high");
+        const placeholder = document.createElement("div");
+        placeholder.className = "four-view-empty";
+        placeholder.setAttribute("role", "img");
+        placeholder.setAttribute("aria-label", `${page.labels[slot]}（缺圖）`);
+        return placeholder;
+      }));
+      fourViewTitle.textContent = `${page.id} · ${page.name}　${page.firstVariant}–${page.firstVariant + 1}　${index + 1} / ${characterPages.length}`;
       fourViewPrevious.disabled = index === 0;
       fourViewNext.disabled = index === characterPages.length - 1;
       preloadFourPages(index);
     }
 
     function openFourView(image, trigger) {
-      const index = characterPageIndexes.get(animeCharacterFor(image)?.id);
-      if (index === undefined) return;
+      const character = animeCharacterFor(image);
+      const firstIndex = characterPageIndexes.get(character?.id);
+      if (firstIndex === undefined) return;
+      const index = firstIndex + (character.variant > 2 ? 1 : 0);
       fourViewTrigger = trigger;
       closePreview();
       showFourPage(index);
@@ -612,7 +625,7 @@ function observeCardImages() {
             <span class="card-actions">
               ${image.hasDescription ? '<button class="icon-button copy-desc" type="button" aria-label="複製描述" title="複製描述"><img src="language-json-svgrepo-com.svg" alt=""></button>' : ""}
               ${item.isExpandedGroup ? '<button class="icon-button collapse-group" type="button" aria-label="收合群組" title="收合群組"><img src="collapse-svgrepo-com.svg" alt=""></button>' : ""}
-              ${canShowFour ? '<button class="icon-button four-column-button" type="button" aria-label="四欄檢視此人物" title="四欄檢視此人物"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="miter"><path d="M3 3h18v18H3zM7.5 3v18M12 3v18M16.5 3v18"/></svg></button>' : ""}
+              ${canShowFour ? '<button class="icon-button four-column-button" type="button" aria-label="四欄對照此人物" title="四欄對照此人物"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="miter"><path d="M3 3h18v18H3zM7.5 3v18M12 3v18M16.5 3v18"/></svg></button>' : ""}
             </span>
           </span>
         </div>

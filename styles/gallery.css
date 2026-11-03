@@ -387,6 +387,15 @@
       width: 100%;
     }
 
+    .four-view-images .four-view-missing {
+      visibility: hidden;
+    }
+
+    .four-view-empty {
+      min-height: 0;
+      min-width: 0;
+    }
+
     .four-view-control {
       align-items: center;
       background: rgba(0, 0, 0, 0.58);
