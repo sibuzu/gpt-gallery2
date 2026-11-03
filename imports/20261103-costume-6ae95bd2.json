@@ -3,7 +3,7 @@
   "category": "漫服",
   "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
   "image_handling": "Original source PNG bytes preserved; no resizing, recompression, or mirroring.",
-  "prompt_handling": "Full original user prompt including the numbered headline is preserved. Filenames use the original number_variant_title; additional images with the same headline receive -02, -03, etc.",
+  "prompt_handling": "Complete original user prompt including the numbered scene headline is preserved. Current filenames use IDC_character-variant with a two-digit variant; any duplicate suffix follows the variant (e.g. 06C_タキ-01 or 01C_不知火舞-03-02). Character IDs and spellings match the anime collections.",
   "deduplication": "Compared SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, against all existing gallery categories and this import.",
   "summary": {
     "unique_generated_source_images": 26,
@@ -13,8 +13,8 @@
   },
   "images": [
     {
-      "image": "images/漫服/58_1_和式庭院的插花.png",
-      "prompt_file": "images/漫服/58_1_和式庭院的插花.md",
+      "image": "images/漫服/58C_志村妙-01.png",
+      "prompt_file": "images/漫服/58C_志村妙-01.md",
       "headline": "58#1｜和式庭院的插花",
       "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
       "source_file_id": "file_0000000094e481faa3e845bb10c4690e",
@@ -29,8 +29,8 @@
       "height": 1672
     },
     {
-      "image": "images/漫服/45_2_海島古物市集.png",
-      "prompt_file": "images/漫服/45_2_海島古物市集.md",
+      "image": "images/漫服/45C_Nico Robin-02.png",
+      "prompt_file": "images/漫服/45C_Nico Robin-02.md",
       "headline": "45#2｜海島古物市集",
       "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
       "source_file_id": "file_000000000b0881fa946e7a70af307f51",
@@ -45,8 +45,8 @@
       "height": 1672
     },
     {
-      "image": "images/漫服/39_2_武術館的伸展.png",
-      "prompt_file": "images/漫服/39_2_武術館的伸展.md",
+      "image": "images/漫服/39C_天道あかね-02.png",
+      "prompt_file": "images/漫服/39C_天道あかね-02.md",
       "headline": "39#2｜武術館的伸展",
       "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
       "source_file_id": "file_00000000f45881faadf0bd09f2c4e216",
@@ -61,8 +61,8 @@
       "height": 1670
     },
     {
-      "image": "images/漫服/49_3_玻璃花房的白山茶.png",
-      "prompt_file": "images/漫服/49_3_玻璃花房的白山茶.md",
+      "image": "images/漫服/49C_地獄のフブキ-03.png",
+      "prompt_file": "images/漫服/49C_地獄のフブキ-03.md",
       "headline": "49#3｜玻璃花房的白山茶",
       "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
       "source_file_id": "file_0000000091cc81faad8ec3d200c6b5b6",
@@ -77,8 +77,8 @@
       "height": 1670
     },
     {
-      "image": "images/漫服/28_1_醫療研究室的晨會.png",
-      "prompt_file": "images/漫服/28_1_醫療研究室的晨會.md",
+      "image": "images/漫服/28C_綱手-01.png",
+      "prompt_file": "images/漫服/28C_綱手-01.md",
       "headline": "28#1｜醫療研究室的晨會",
       "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
       "source_file_id": "file_00000000575c81fab2ef85c2516bcb0f",
@@ -93,8 +93,8 @@
       "height": 1670
     },
     {
-      "image": "images/漫服/60_2_鐘錶工坊的圓盤.png",
-      "prompt_file": "images/漫服/60_2_鐘錶工坊的圓盤.md",
+      "image": "images/漫服/60C_暁美ほむら-02.png",
+      "prompt_file": "images/漫服/60C_暁美ほむら-02.md",
       "headline": "60#2｜鐘錶工坊的圓盤",
       "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
       "source_file_id": "file_00000000167c81fab41c716d008e1e42",
@@ -109,8 +109,8 @@
       "height": 1670
     },
     {
-      "image": "images/漫服/42_4_港灣天橋的夜風.png",
-      "prompt_file": "images/漫服/42_4_港灣天橋的夜風.md",
+      "image": "images/漫服/42C_弁天-04.png",
+      "prompt_file": "images/漫服/42C_弁天-04.md",
       "headline": "42#4｜港灣天橋的夜風",
       "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
       "source_file_id": "file_00000000f75881fabcce87eab6ad6b5b",
@@ -125,8 +125,8 @@
       "height": 1670
     },
     {
-      "image": "images/漫服/24_3_古街香料茶舖.png",
-      "prompt_file": "images/漫服/24_3_古街香料茶舖.md",
+      "image": "images/漫服/24C_松本乱菊-03.png",
+      "prompt_file": "images/漫服/24C_松本乱菊-03.md",
       "headline": "24#3｜古街香料茶舖",
       "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
       "source_file_id": "file_00000000847081fa90c9fefb14013f1e",
@@ -141,8 +141,8 @@
       "height": 1670
     },
     {
-      "image": "images/漫服/58_3_劍道館外的休息.png",
-      "prompt_file": "images/漫服/58_3_劍道館外的休息.md",
+      "image": "images/漫服/58C_志村妙-03.png",
+      "prompt_file": "images/漫服/58C_志村妙-03.md",
       "headline": "58#3｜劍道館外的休息",
       "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
       "source_file_id": "file_00000000c87c81fa809970dcb0ea0b6e",
@@ -157,8 +157,8 @@
       "height": 1670
     },
     {
-      "image": "images/漫服/31_2_水族館的藍色星點.png",
-      "prompt_file": "images/漫服/31_2_水族館的藍色星點.md",
+      "image": "images/漫服/31C_月野うさぎ-02.png",
+      "prompt_file": "images/漫服/31C_月野うさぎ-02.md",
       "headline": "31#2｜水族館的藍色星點",
       "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
       "source_file_id": "file_00000000b6f481fa99d6aca6a6debb5e",
@@ -173,8 +173,8 @@
       "height": 1670
     },
     {
-      "image": "images/漫服/19_2_光學展館的稜鏡.png",
-      "prompt_file": "images/漫服/19_2_光學展館的稜鏡.md",
+      "image": "images/漫服/19C_ヒカリ-02.png",
+      "prompt_file": "images/漫服/19C_ヒカリ-02.md",
       "headline": "19#2｜光學展館的稜鏡",
       "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
       "source_file_id": "file_0000000003c881fa92839c363559c05d",
@@ -189,8 +189,8 @@
       "height": 1670
     },
     {
-      "image": "images/漫服/27_3_草莓甜點店的櫥窗.png",
-      "prompt_file": "images/漫服/27_3_草莓甜點店的櫥窗.md",
+      "image": "images/漫服/27C_エルザ・スカーレット-03.png",
+      "prompt_file": "images/漫服/27C_エルザ・スカーレット-03.md",
       "headline": "27#3｜草莓甜點店的櫥窗",
       "source_share": "https://chatgpt.com/share/6ae95bd2-e854-83e8-b811-c608ce138efb",
       "source_file_id": "file_000000007db081faa5e30f133a47235f",
@@ -209,85 +209,85 @@
     {
       "source_file_id": "file_0000000017c481fa917a6d1c838754be",
       "headline": "30#4｜賽車維修區的夕照",
-      "duplicate_of": "images/漫服/30_4_賽車維修區的夕照.png",
+      "duplicate_of": "images/漫服/30C_明日香-04.png",
       "reason": "already imported source file and original bytes verified"
     },
     {
       "source_file_id": "file_0000000024d481faa53b55a199880c3a",
       "headline": "61#3｜博物館的古典槍工藝",
-      "duplicate_of": "images/漫服/61_3_博物館的古典槍工藝.png",
+      "duplicate_of": "images/漫服/61C_巴マミ-03.png",
       "reason": "already imported source file and original bytes verified"
     },
     {
       "source_file_id": "file_0000000025a481fa86d6d8acc8eeded8",
       "headline": "12#2｜都會花店的紫丁香",
-      "duplicate_of": "images/漫服/12_2_都會花店的紫丁香.png",
+      "duplicate_of": "images/漫服/12C_シェルミー-02.png",
       "reason": "already imported source file and original bytes verified"
     },
     {
       "source_file_id": "file_000000002b4081fa984a44fb208e3dd5",
       "headline": "62#4｜夜色橋邊的旋律",
-      "duplicate_of": "images/漫服/62_4_夜色橋邊的旋律.png",
+      "duplicate_of": "images/漫服/62C_美樹さやか-04.png",
       "reason": "already imported source file and original bytes verified"
     },
     {
       "source_file_id": "file_00000000483081fa9fa3ca9bf5def256",
       "headline": "51#4｜螢火溪畔的晚風",
-      "duplicate_of": "images/漫服/51_4_螢火溪畔的晚風.png",
+      "duplicate_of": "images/漫服/51C_桔梗-04.png",
       "reason": "already imported source file and original bytes verified"
     },
     {
       "source_file_id": "file_00000000a4e881fabe8e00a3d61ce26a",
       "headline": "07#4｜海灣露台的琴聲",
-      "duplicate_of": "images/漫服/07_4_海灣露台的琴聲.png",
+      "duplicate_of": "images/漫服/07C_Sophitia-04.png",
       "reason": "already imported source file and original bytes verified"
     },
     {
       "source_file_id": "file_00000000e66881faa9fa39b25fef737a",
       "headline": "08#4｜兵器藝廊的銀影",
-      "duplicate_of": "images/漫服/08_4_兵器藝廊的銀影.png",
+      "duplicate_of": "images/漫服/08C_Cassandra-04.png",
       "reason": "already imported source file and original bytes verified"
     },
     {
       "source_file_id": "file_0000000098b481f48a7a40f0d70fc1a6",
       "headline": "15#2｜染布工坊的紫花",
-      "duplicate_of": "images/漫服/15_2_染布工坊的紫花.png",
+      "duplicate_of": "images/漫服/15C_Yuna-02.png",
       "reason": "already imported source file and original bytes verified"
     },
     {
       "source_file_id": "file_00000000226c81fabd3828fa48196614",
       "headline": "09#3｜海風展望台",
-      "duplicate_of": "images/漫服/09_3_海風展望台.png",
+      "duplicate_of": "images/漫服/09C_かすみ-03.png",
       "reason": "already imported source file and original bytes verified"
     },
     {
       "source_file_id": "file_0000000029a081fa9a02562c9f75a72f",
       "headline": "40#1｜黑薔薇花房的晨露",
-      "duplicate_of": "images/漫服/40_1_黑薔薇花房的晨露.png",
+      "duplicate_of": "images/漫服/40C_九能小太刀-01.png",
       "reason": "already imported source file and original bytes verified"
     },
     {
       "source_file_id": "file_000000002a8481fab38ccde835c4d5c9",
       "headline": "34#2｜電子樂展的發光琴鍵",
-      "duplicate_of": "images/漫服/34_2_電子樂展的發光琴鍵.png",
+      "duplicate_of": "images/漫服/34C_初音ミク-02.png",
       "reason": "already imported source file and original bytes verified"
     },
     {
       "source_file_id": "file_0000000079ec81fab39a573dd67558d0",
       "headline": "28#2｜山城茶屋的桌遊",
-      "duplicate_of": "images/漫服/28_2_山城茶屋的桌遊.png",
+      "duplicate_of": "images/漫服/28C_綱手-02.png",
       "reason": "already imported source file and original bytes verified"
     },
     {
       "source_file_id": "file_00000000672c81fa9dd65cf607bdddc7",
       "headline": "16#3｜雨窗旁的深紫茶席",
-      "duplicate_of": "images/漫服/16_3_雨窗旁的深紫茶席.png",
+      "duplicate_of": "images/漫服/16C_ルールー-03.png",
       "reason": "already imported source file and original bytes verified"
     },
     {
       "source_file_id": "file_00000000c4cc81fa931c6a42d5536dbc",
       "headline": "35#4｜紅毯車門的夜光",
-      "duplicate_of": "images/漫服/35_4_紅毯車門的夜光.png",
+      "duplicate_of": "images/漫服/35C_峰不二子-04.png",
       "reason": "already imported source file and original bytes verified"
     }
   ]

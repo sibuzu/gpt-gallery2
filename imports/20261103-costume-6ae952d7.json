@@ -3,7 +3,7 @@
   "category": "漫服",
   "source_share": "https://chatgpt.com/share/6ae952d7-5334-83ee-aa28-02210d40393f",
   "image_handling": "Original source PNG bytes preserved; no resizing, recompression, or mirroring.",
-  "prompt_handling": "Full original user prompt including the numbered headline is preserved. Filenames use the original number_variant_title; additional images with the same headline receive -02, -03, etc.",
+  "prompt_handling": "Complete original user prompt including the numbered scene headline is preserved. Current filenames use IDC_character-variant with a two-digit variant; any duplicate suffix follows the variant (e.g. 06C_タキ-01 or 01C_不知火舞-03-02). Character IDs and spellings match the anime collections.",
   "deduplication": "Compared SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, against all existing gallery categories and this import.",
   "summary": {
     "unique_generated_source_images": 14,
@@ -13,8 +13,8 @@
   },
   "images": [
     {
-      "image": "images/漫服/30_4_賽車維修區的夕照.png",
-      "prompt_file": "images/漫服/30_4_賽車維修區的夕照.md",
+      "image": "images/漫服/30C_明日香-04.png",
+      "prompt_file": "images/漫服/30C_明日香-04.md",
       "headline": "30#4｜賽車維修區的夕照",
       "source_share": "https://chatgpt.com/share/6ae952d7-5334-83ee-aa28-02210d40393f",
       "source_file_id": "file_0000000017c481fa917a6d1c838754be",
@@ -29,8 +29,8 @@
       "height": 1672
     },
     {
-      "image": "images/漫服/61_3_博物館的古典槍工藝.png",
-      "prompt_file": "images/漫服/61_3_博物館的古典槍工藝.md",
+      "image": "images/漫服/61C_巴マミ-03.png",
+      "prompt_file": "images/漫服/61C_巴マミ-03.md",
       "headline": "61#3｜博物館的古典槍工藝",
       "source_share": "https://chatgpt.com/share/6ae952d7-5334-83ee-aa28-02210d40393f",
       "source_file_id": "file_0000000024d481faa53b55a199880c3a",
@@ -45,8 +45,8 @@
       "height": 1672
     },
     {
-      "image": "images/漫服/12_2_都會花店的紫丁香.png",
-      "prompt_file": "images/漫服/12_2_都會花店的紫丁香.md",
+      "image": "images/漫服/12C_シェルミー-02.png",
+      "prompt_file": "images/漫服/12C_シェルミー-02.md",
       "headline": "12#2｜都會花店的紫丁香",
       "source_share": "https://chatgpt.com/share/6ae952d7-5334-83ee-aa28-02210d40393f",
       "source_file_id": "file_0000000025a481fa86d6d8acc8eeded8",
@@ -61,8 +61,8 @@
       "height": 1672
     },
     {
-      "image": "images/漫服/62_4_夜色橋邊的旋律.png",
-      "prompt_file": "images/漫服/62_4_夜色橋邊的旋律.md",
+      "image": "images/漫服/62C_美樹さやか-04.png",
+      "prompt_file": "images/漫服/62C_美樹さやか-04.md",
       "headline": "62#4｜夜色橋邊的旋律",
       "source_share": "https://chatgpt.com/share/6ae952d7-5334-83ee-aa28-02210d40393f",
       "source_file_id": "file_000000002b4081fa984a44fb208e3dd5",
@@ -77,8 +77,8 @@
       "height": 1671
     },
     {
-      "image": "images/漫服/51_4_螢火溪畔的晚風.png",
-      "prompt_file": "images/漫服/51_4_螢火溪畔的晚風.md",
+      "image": "images/漫服/51C_桔梗-04.png",
+      "prompt_file": "images/漫服/51C_桔梗-04.md",
       "headline": "51#4｜螢火溪畔的晚風",
       "source_share": "https://chatgpt.com/share/6ae952d7-5334-83ee-aa28-02210d40393f",
       "source_file_id": "file_00000000483081fa9fa3ca9bf5def256",
@@ -93,8 +93,8 @@
       "height": 1671
     },
     {
-      "image": "images/漫服/07_4_海灣露台的琴聲.png",
-      "prompt_file": "images/漫服/07_4_海灣露台的琴聲.md",
+      "image": "images/漫服/07C_Sophitia-04.png",
+      "prompt_file": "images/漫服/07C_Sophitia-04.md",
       "headline": "07#4｜海灣露台的琴聲",
       "source_share": "https://chatgpt.com/share/6ae952d7-5334-83ee-aa28-02210d40393f",
       "source_file_id": "file_00000000a4e881fabe8e00a3d61ce26a",
@@ -109,8 +109,8 @@
       "height": 1671
     },
     {
-      "image": "images/漫服/08_4_兵器藝廊的銀影.png",
-      "prompt_file": "images/漫服/08_4_兵器藝廊的銀影.md",
+      "image": "images/漫服/08C_Cassandra-04.png",
+      "prompt_file": "images/漫服/08C_Cassandra-04.md",
       "headline": "08#4｜兵器藝廊的銀影",
       "source_share": "https://chatgpt.com/share/6ae952d7-5334-83ee-aa28-02210d40393f",
       "source_file_id": "file_00000000e66881faa9fa39b25fef737a",
@@ -125,8 +125,8 @@
       "height": 1670
     },
     {
-      "image": "images/漫服/15_2_染布工坊的紫花.png",
-      "prompt_file": "images/漫服/15_2_染布工坊的紫花.md",
+      "image": "images/漫服/15C_Yuna-02.png",
+      "prompt_file": "images/漫服/15C_Yuna-02.md",
       "headline": "15#2｜染布工坊的紫花",
       "source_share": "https://chatgpt.com/share/6ae952d7-5334-83ee-aa28-02210d40393f",
       "source_file_id": "file_0000000098b481f48a7a40f0d70fc1a6",
@@ -141,8 +141,8 @@
       "height": 1670
     },
     {
-      "image": "images/漫服/09_3_海風展望台.png",
-      "prompt_file": "images/漫服/09_3_海風展望台.md",
+      "image": "images/漫服/09C_かすみ-03.png",
+      "prompt_file": "images/漫服/09C_かすみ-03.md",
       "headline": "09#3｜海風展望台",
       "source_share": "https://chatgpt.com/share/6ae952d7-5334-83ee-aa28-02210d40393f",
       "source_file_id": "file_00000000226c81fabd3828fa48196614",
@@ -157,8 +157,8 @@
       "height": 1670
     },
     {
-      "image": "images/漫服/40_1_黑薔薇花房的晨露.png",
-      "prompt_file": "images/漫服/40_1_黑薔薇花房的晨露.md",
+      "image": "images/漫服/40C_九能小太刀-01.png",
+      "prompt_file": "images/漫服/40C_九能小太刀-01.md",
       "headline": "40#1｜黑薔薇花房的晨露",
       "source_share": "https://chatgpt.com/share/6ae952d7-5334-83ee-aa28-02210d40393f",
       "source_file_id": "file_0000000029a081fa9a02562c9f75a72f",
@@ -173,8 +173,8 @@
       "height": 1670
     },
     {
-      "image": "images/漫服/34_2_電子樂展的發光琴鍵.png",
-      "prompt_file": "images/漫服/34_2_電子樂展的發光琴鍵.md",
+      "image": "images/漫服/34C_初音ミク-02.png",
+      "prompt_file": "images/漫服/34C_初音ミク-02.md",
       "headline": "34#2｜電子樂展的發光琴鍵",
       "source_share": "https://chatgpt.com/share/6ae952d7-5334-83ee-aa28-02210d40393f",
       "source_file_id": "file_000000002a8481fab38ccde835c4d5c9",
@@ -189,8 +189,8 @@
       "height": 1670
     },
     {
-      "image": "images/漫服/28_2_山城茶屋的桌遊.png",
-      "prompt_file": "images/漫服/28_2_山城茶屋的桌遊.md",
+      "image": "images/漫服/28C_綱手-02.png",
+      "prompt_file": "images/漫服/28C_綱手-02.md",
       "headline": "28#2｜山城茶屋的桌遊",
       "source_share": "https://chatgpt.com/share/6ae952d7-5334-83ee-aa28-02210d40393f",
       "source_file_id": "file_0000000079ec81fab39a573dd67558d0",
@@ -205,8 +205,8 @@
       "height": 1670
     },
     {
-      "image": "images/漫服/16_3_雨窗旁的深紫茶席.png",
-      "prompt_file": "images/漫服/16_3_雨窗旁的深紫茶席.md",
+      "image": "images/漫服/16C_ルールー-03.png",
+      "prompt_file": "images/漫服/16C_ルールー-03.md",
       "headline": "16#3｜雨窗旁的深紫茶席",
       "source_share": "https://chatgpt.com/share/6ae952d7-5334-83ee-aa28-02210d40393f",
       "source_file_id": "file_00000000672c81fa9dd65cf607bdddc7",
@@ -221,8 +221,8 @@
       "height": 1670
     },
     {
-      "image": "images/漫服/35_4_紅毯車門的夜光.png",
-      "prompt_file": "images/漫服/35_4_紅毯車門的夜光.md",
+      "image": "images/漫服/35C_峰不二子-04.png",
+      "prompt_file": "images/漫服/35C_峰不二子-04.md",
       "headline": "35#4｜紅毯車門的夜光",
       "source_share": "https://chatgpt.com/share/6ae952d7-5334-83ee-aa28-02210d40393f",
       "source_file_id": "file_00000000c4cc81fa931c6a42d5536dbc",
