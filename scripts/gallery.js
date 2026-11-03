@@ -67,8 +67,9 @@ function observeCardImages() {
     let touchStartX = 0;
     let touchStartY = 0;
     const expandedGroups = new Set();
-    const characterPages = buildCharacterPages(images);
-    const characterPageIndexes = new Map(characterPages.flatMap((page, index) => page.firstVariant === 1 ? [[page.id, index]] : []));
+    const allCharacterPages = buildCharacterPages(images);
+    const comparisonCharacterIds = new Set(allCharacterPages.map((page) => page.id));
+    let characterPages = [];
     const fourImageCache = new Map();
     let fourPageIndex = -1;
     let fourViewTrigger = null;
@@ -306,6 +307,34 @@ function observeCardImages() {
         })));
     }
 
+    function characterPagesInLayoutOrder(groups) {
+      const order = new Map();
+      for (const group of groups) {
+        const image = group.images.find((item) => item.category === "動漫全");
+        const character = image && animeCharacterFor(image);
+        if (character && !order.has(character.id)) order.set(character.id, order.size);
+      }
+      return allCharacterPages
+        .filter((page) => order.has(page.id))
+        .sort((left, right) => order.get(left.id) - order.get(right.id) || left.firstVariant - right.firstVariant);
+    }
+
+    function galleryPositionForCharacter(id, groups = currentGroups) {
+      const items = displayItemsFor(groups);
+      const index = items.findIndex((item) => item.image.category === "動漫全" && animeCharacterFor(item.image)?.id === id);
+      return index < 0 ? null : { groupKey: items[index].groupKey, page: Math.floor(index / PAGE_SIZE) + 1 };
+    }
+
+    function restoreFourViewPosition(page) {
+      if (!page) return false;
+      const position = galleryPositionForCharacter(page.id);
+      if (!position) return false;
+      renderAtGroupHash(position.groupKey, () => {
+        currentPage = position.page;
+      }, ".four-column-button");
+      return true;
+    }
+
     function fourImageFor(image, priority) {
       let element = fourImageCache.get(image.src);
       if (!element) {
@@ -362,9 +391,11 @@ function observeCardImages() {
 
     function openFourView(image, trigger) {
       const character = animeCharacterFor(image);
-      const firstIndex = characterPageIndexes.get(character?.id);
-      if (firstIndex === undefined) return;
-      const index = firstIndex + (character.variant > 2 ? 1 : 0);
+      if (!character) return;
+      characterPages = characterPagesInLayoutOrder(currentGroups);
+      const firstVariant = character.variant > 2 ? 3 : 1;
+      const index = characterPages.findIndex((page) => page.id === character.id && page.firstVariant === firstVariant);
+      if (index < 0) return;
       fourViewTrigger = trigger;
       closePreview();
       showFourPage(index);
@@ -549,7 +580,7 @@ function observeCardImages() {
       return Array.from(grid.querySelectorAll(".card")).find((card) => card.dataset.groupKey === groupKey);
     }
 
-    function renderAtGroupHash(groupKey, action) {
+    function renderAtGroupHash(groupKey, action, focusSelector = null) {
       action();
       render();
 
@@ -560,6 +591,10 @@ function observeCardImages() {
 
         if (window.location.hash !== `#${groupId}`) {
           window.history.replaceState(null, "", `#${groupId}`);
+        }
+        if (focusSelector) {
+          nextCard.querySelector(focusSelector)?.focus({ preventScroll: true });
+          focusSelector = null;
         }
         nextCard.scrollIntoView({ block: "start" });
       };
@@ -603,7 +638,7 @@ function observeCardImages() {
 
     function cardFor(item, index) {
       const { image } = item;
-      const canShowFour = activeCategory === "動漫全" && characterPageIndexes.has(animeCharacterFor(image)?.id);
+      const canShowFour = activeCategory === "動漫全" && comparisonCharacterIds.has(animeCharacterFor(image)?.id);
       const stackBadge = item.isCollapsedGroup ? `<span class="stack-badge">+${item.groupSize - 1}</span>` : "";
       const stackClass = item.isCollapsedGroup ? " stack" : "";
       const article = document.createElement("article");
@@ -723,11 +758,12 @@ function observeCardImages() {
       closeFourView();
     });
     fourView.addEventListener("close", () => {
+      const lastPage = characterPages[fourPageIndex];
       document.body.classList.remove("four-view-open");
       fourViewImages.replaceChildren();
       fourImageCache.clear();
       fourPageIndex = -1;
-      if (fourViewTrigger?.isConnected) fourViewTrigger.focus({ preventScroll: true });
+      if (!restoreFourViewPosition(lastPage) && fourViewTrigger?.isConnected) fourViewTrigger.focus({ preventScroll: true });
       fourViewTrigger = null;
     });
     lightbox.addEventListener("click", (event) => {
