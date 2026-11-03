@@ -331,6 +331,125 @@
       text-align: center;
     }
 
+    .four-column-button {
+      border-radius: 0;
+      color: var(--ink);
+      margin-left: 3px;
+    }
+
+    .four-column-button svg {
+      height: 17px;
+      width: 17px;
+    }
+
+    body.four-view-open {
+      overflow: hidden;
+    }
+
+    .four-view {
+      background: #111;
+      border: 0;
+      border-radius: 0;
+      color: #fff;
+      height: 100vh;
+      height: 100dvh;
+      inset: 0;
+      margin: 0;
+      max-height: none;
+      max-width: none;
+      overflow: hidden;
+      padding: 0;
+      position: fixed;
+      width: 100%;
+    }
+
+    .four-view::backdrop {
+      background: #111;
+    }
+
+    .four-view-images {
+      display: grid;
+      gap: 0;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      grid-template-rows: minmax(0, 1fr);
+      height: 100%;
+      width: 100%;
+    }
+
+    .four-view-images img {
+      border: 0;
+      border-radius: 0;
+      display: block;
+      height: 100%;
+      min-height: 0;
+      min-width: 0;
+      object-fit: contain;
+      width: 100%;
+    }
+
+    .four-view-control {
+      align-items: center;
+      background: rgba(0, 0, 0, 0.58);
+      border: 1px solid rgba(255, 255, 255, 0.4);
+      border-radius: 0;
+      color: #fff;
+      cursor: pointer;
+      display: flex;
+      font: 36px/1 sans-serif;
+      height: 48px;
+      justify-content: center;
+      padding: 0;
+      position: absolute;
+      width: 40px;
+    }
+
+    .four-view-control:hover:not(:disabled),
+    .four-view-control:focus-visible {
+      background: rgba(0, 0, 0, 0.85);
+      outline: 2px solid #fff;
+      outline-offset: -2px;
+    }
+
+    .four-view-control:disabled {
+      cursor: default;
+      opacity: 0.3;
+    }
+
+    .four-view-previous,
+    .four-view-next {
+      top: 50%;
+      transform: translateY(-50%);
+    }
+
+    .four-view-previous {
+      left: 0;
+    }
+
+    .four-view-next {
+      right: 0;
+    }
+
+    .four-view-close {
+      right: 0;
+      top: 0;
+    }
+
+    .four-view-title {
+      background: rgba(0, 0, 0, 0.58);
+      bottom: 0;
+      font-size: 12px;
+      left: 50%;
+      margin: 0;
+      max-width: calc(100% - 80px);
+      overflow: hidden;
+      padding: 6px 10px;
+      pointer-events: none;
+      position: absolute;
+      text-overflow: ellipsis;
+      transform: translateX(-50%);
+      white-space: nowrap;
+    }
+
     .lightbox {
       align-items: center;
       background: rgba(32, 24, 20, 0.86);
