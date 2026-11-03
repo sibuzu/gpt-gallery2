@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-03",
+  "category": "動漫全",
+  "source_share": "https://chatgpt.com/share/6ae99236-7c40-83ee-ba42-0a29e7d7dfa6",
+  "image_handling": "Original source PNG bytes preserved; no resizing, recompression, or mirroring.",
+  "prompt_handling": "Full original user prompt including the numbered headline is preserved. Filenames use the original number_variant_character (spellings match images/動漫/); additional images with the same headline receive -02, -03, etc.",
+  "deduplication": "Compared SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, against all existing gallery categories and this import.",
+  "summary": {
+    "unique_generated_source_images": 2,
+    "unique_story_headlines": 2,
+    "added": 2,
+    "skipped_existing_duplicates": 0
+  },
+  "images": [
+    {
+      "image": "images/動漫全/38_1_久遠寺右京.png",
+      "prompt_file": "images/動漫全/38_1_久遠寺右京.md",
+      "headline": "38#1｜大阪燒店的開門準備",
+      "source_share": "https://chatgpt.com/share/6ae99236-7c40-83ee-ba42-0a29e7d7dfa6",
+      "source_file_id": "file_000000002af881f4a2d0a6f8bc405c3f",
+      "source_message_id": "8224dc8d-f1da-4634-85f2-4cb1dbc25bcc",
+      "source_role": "tool",
+      "source_image_title": "溫暖御好燒店的右京姑娘",
+      "horizontal_mirror": false,
+      "original_sha256": "6ef8b6b63a1c6658184155dc95f78b0428fc53c09acfd2689583db26dcd8ef3c",
+      "output_sha256": "6ef8b6b63a1c6658184155dc95f78b0428fc53c09acfd2689583db26dcd8ef3c",
+      "size_bytes": 2555973,
+      "width": 1053,
+      "height": 1494
+    },
+    {
+      "image": "images/動漫全/19_1_ヒカリ.png",
+      "prompt_file": "images/動漫全/19_1_ヒカリ.md",
+      "headline": "19#1｜白金空中聖殿",
+      "source_share": "https://chatgpt.com/share/6ae99236-7c40-83ee-ba42-0a29e7d7dfa6",
+      "source_file_id": "file_00000000637c81fa8523ab0b0456cced",
+      "source_message_id": "52f44a2c-4c77-4765-9240-27492bd2db9e",
+      "source_role": "tool",
+      "source_image_title": "光耀天空神殿的希望之光",
+      "horizontal_mirror": false,
+      "original_sha256": "c1b2a9a0633960d2c110adfc11a6c324299c60a82c70be8be8ea79373d0960be",
+      "output_sha256": "c1b2a9a0633960d2c110adfc11a6c324299c60a82c70be8be8ea79373d0960be",
+      "size_bytes": 2481326,
+      "width": 1053,
+      "height": 1494
+    }
+  ],
+  "skipped": []
+}
