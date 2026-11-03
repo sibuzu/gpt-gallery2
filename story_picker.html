@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="zh-Hant">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>故事 A/B 挑選</title>
+<style>
+  :root { color-scheme: dark; font-family: system-ui, sans-serif; background: #12151c; color: #f4f5f8; }
+  * { box-sizing: border-box; }
+  body { margin: 0; }
+  header, main, footer { width: min(1500px, 100%); margin: auto; padding: 16px 24px; }
+  header { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+  h1 { font-size: 23px; margin: 0 0 6px; }
+  p { margin: 0; color: #bbc4d6; line-height: 1.6; }
+  form, nav { display: flex; align-items: center; gap: 8px; }
+  button, input { font: inherit; border-radius: 9px; border: 1px solid #45516a; background: #222a39; color: inherit; padding: 9px 12px; }
+  button { cursor: pointer; }
+  button:hover { border-color: #a1bcff; }
+  button:disabled { opacity: .5; cursor: default; }
+  input { width: 90px; }
+  main { padding-top: 0; }
+  #status { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 14px; }
+  #number { font-size: 22px; font-weight: 700; color: #b3cbff; }
+  #cards { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+  .card { display: block; width: 100%; padding: 0; overflow: hidden; border: 2px solid #354055; background: #191e29; text-align: left; }
+  .card:hover { border-color: #92b5ff; }
+  .card.chosen { border-color: #64d6ac; }
+  .card img { display: block; width: 100%; height: calc(100dvh - 260px); min-height: 280px; max-height: 1000px; object-fit: contain; background: #0b0d12; }
+  .caption { display: flex; gap: 8px; flex-direction: column; padding: 12px 15px; overflow-wrap: anywhere; }
+  .caption strong { font-size: 18px; }
+  .caption small { color: #bbc4d6; }
+  #message { min-height: 26px; padding-top: 12px; color: #8ee6c2; }
+  #message.error { color: #ffaaaa; }
+  #finished { padding: 80px 20px; text-align: center; border: 1px solid #45516a; border-radius: 12px; }
+  [hidden] { display: none !important; }
+  footer { padding-top: 0; font-size: 14px; }
+  button:focus-visible, input:focus-visible { outline: 3px solid #b3cbff; outline-offset: 3px; }
+  @media (max-width: 650px) {
+    header, main, footer { padding: 12px; }
+    #cards { gap: 8px; }
+    .card img { height: 55dvh; min-height: 200px; }
+    .caption { padding: 8px; }
+    .caption strong { font-size: 15px; }
+    .caption small { font-size: 11px; }
+    #status { align-items: flex-start; flex-direction: column; }
+  }
+</style>
+<header>
+  <div><h1>故事 A/B 挑選</h1><p>點喜歡的圖片 → 故事/　另一張 → 故事2/</p></div>
+  <form id="jumpForm"><label for="jump">跳到編號</label><input id="jump" type="number" min="1" step="1" required><button>前往</button></form>
+</header>
+<main>
+  <div id="status"><div><span id="number">載入中…</span>　<span id="progress"></span></div><nav><button id="previous">上一號</button><button id="next">下一號</button><button id="refresh">重新整理</button></nav></div>
+  <div id="cards"></div>
+  <div id="finished" hidden><h2>已到最後一號</h2><p>可輸入編號返回查看或重新選擇。</p></div>
+  <p id="message" role="status" aria-live="polite"></p>
+</main>
+<footer><p>圖片與同名 .md 一起移動，檔名保持原樣。跳號不會移動檔案；進度會自動儲存。</p></footer>
+<script>
+const token = "__TOKEN__";
+let state = null, busy = false, ready = false;
+const el = id => document.getElementById(id);
+const pad = number => String(number).padStart(3, '0');
+function message(text, error = false) { el('message').textContent = text; el('message').className = error ? 'error' : ''; }
+function controls() {
+  document.querySelectorAll('button, input').forEach(node => node.disabled = busy);
+  if (busy) return;
+  document.querySelectorAll('.card').forEach(node => node.disabled = !ready);
+  const index = state ? state.numbers.indexOf(state.number) : -1;
+  el('previous').disabled = !state || (state.number !== null && index <= 0) || !state.numbers.length;
+  el('next').disabled = !state || index < 0 || index >= state.numbers.length - 1;
+}
+function render(value) {
+  state = value; ready = false;
+  el('number').textContent = value.number === null ? '本輪結束' : `第 ${pad(value.number)} 號`;
+  el('progress').textContent = `已選 ${value.completed} / ${value.total} 組`;
+  el('jump').value = value.number ?? value.numbers[0] ?? '';
+  el('jump').max = value.numbers.at(-1) ?? 1;
+  el('cards').replaceChildren(); el('finished').hidden = value.number !== null;
+  let loaded = 0;
+  for (const card of value.cards) {
+    const button = document.createElement('button'); button.className = 'card'; button.disabled = true;
+    button.setAttribute('aria-label', `選擇 ${pad(value.number)}${card.letter}，移至故事`);
+    if (value.chosen === card.letter) button.classList.add('chosen');
+    const img = document.createElement('img'); img.alt = card.name; img.src = card.image;
+    img.onload = () => { if (state !== value) return; loaded++; ready = loaded === 2; controls(); };
+    img.onerror = () => { if (state === value) { ready = false; message('圖片載入失敗，請重新整理。', true); controls(); } };
+    const caption = document.createElement('span'); caption.className = 'caption';
+    const strong = document.createElement('strong'); strong.textContent = `${pad(value.number)}${card.letter} · 點選保留到故事/`;
+    const small = document.createElement('small'); small.textContent = `${card.folder}/　${card.name}`;
+    caption.append(strong, small); button.append(img, caption);
+    button.onclick = () => choose(card.letter); el('cards').append(button);
+  }
+  controls();
+}
+async function load() {
+  busy = true; controls();
+  try { const response = await fetch('/api/state'); const data = await response.json(); if (!response.ok) throw Error(data.error); render(data); message(''); }
+  catch (error) { message(error.message, true); }
+  finally { busy = false; controls(); }
+}
+async function post(path, body, success) {
+  if (busy || !state) return;
+  busy = true; controls(); message('處理中…');
+  try {
+    const response = await fetch(path, {method:'POST', headers:{'Content-Type':'application/json','X-Picker-Token':token}, body:JSON.stringify({...body, revision:state.revision})});
+    const data = await response.json(); if (!response.ok) throw Error(data.error);
+    render(data); message(success);
+  } catch (error) { ready = false; message(`${error.message}　請按「重新整理」確認目前進度。`, true); }
+  finally { busy = false; controls(); }
+}
+function choose(letter) {
+  if (!ready || busy) return;
+  const current = state.number;
+  post('/api/choose', {letter, signature:state.signature}, `已選 ${pad(current)}${letter} → 故事/，另一張 → 故事2/。`);
+}
+function jump(number) { post('/api/jump', {number}, '已跳到指定編號。'); }
+el('jumpForm').onsubmit = event => { event.preventDefault(); jump(Number(el('jump').value)); };
+el('previous').onclick = () => { const index = state.numbers.indexOf(state.number); jump(state.numbers[index < 0 ? state.numbers.length - 1 : index - 1]); };
+el('next').onclick = () => jump(state.numbers[state.numbers.indexOf(state.number) + 1]);
+el('refresh').onclick = load;
+load();
+</script>
+</html>
