@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-04",
+  "category": "漫服",
+  "source_share": "https://chatgpt.com/share/6aea0d34-b05c-83ec-8a79-7ec3c6a03a7f",
+  "image_handling": "Original source PNG bytes preserved; no resizing, recompression, or mirroring.",
+  "prompt_handling": "Full original user prompt including the numbered headline is preserved. Filenames use the IDC_character-variant (two-digit variant; duplicate suffix follows; character spellings match images/動漫/); additional images with the same headline receive -02, -03, etc.",
+  "deduplication": "Compared SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, against all existing gallery categories and this import.",
+  "summary": {
+    "unique_generated_source_images": 4,
+    "unique_story_headlines": 4,
+    "added": 4,
+    "skipped_existing_duplicates": 0
+  },
+  "images": [
+    {
+      "image": "images/漫服/43C_ブルマ-02.png",
+      "prompt_file": "images/漫服/43C_ブルマ-02.md",
+      "headline": "43#2｜復古越野車的整備",
+      "source_share": "https://chatgpt.com/share/6aea0d34-b05c-83ec-8a79-7ec3c6a03a7f",
+      "source_file_id": "file_000000005c388206baac13ab68b6c9da",
+      "source_message_id": "5e9138e3-24a8-4320-b246-475e2be46951",
+      "source_role": "tool",
+      "source_image_title": "膠囊公司冒險者的全息導航",
+      "horizontal_mirror": false,
+      "original_sha256": "2ff052e4ff5d1b95c4737cbcce60f18282edb2dd6e860cd1cfa5dbd25e9809d8",
+      "output_sha256": "2ff052e4ff5d1b95c4737cbcce60f18282edb2dd6e860cd1cfa5dbd25e9809d8",
+      "size_bytes": 3087932,
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "image": "images/漫服/46C_ペローナ-04.png",
+      "prompt_file": "images/漫服/46C_ペローナ-04.md",
+      "headline": "46#4｜哥德嘉年華的馬車",
+      "source_share": "https://chatgpt.com/share/6aea0d34-b05c-83ec-8a79-7ec3c6a03a7f",
+      "source_file_id": "file_0000000006888206bdc000f18224d380",
+      "source_message_id": "aaaf7008-8290-409a-96ff-462d8f83d30a",
+      "source_role": "tool",
+      "source_image_title": "哥德式吸血鬼女王與華麗馬車",
+      "horizontal_mirror": false,
+      "original_sha256": "4586348afc452fa2126e028cb073988697cd187b832e049f0256c3c6aa18fd97",
+      "output_sha256": "4586348afc452fa2126e028cb073988697cd187b832e049f0256c3c6aa18fd97",
+      "size_bytes": 2968223,
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "image": "images/漫服/13C_Tifa-02.png",
+      "prompt_file": "images/漫服/13C_Tifa-02.md",
+      "headline": "13#2｜拳擊館的休息片刻",
+      "source_share": "https://chatgpt.com/share/6aea0d34-b05c-83ec-8a79-7ec3c6a03a7f",
+      "source_file_id": "file_000000003dfc8206b6ba82e910c97cf7",
+      "source_message_id": "fda9d4a5-e03b-4c1d-8a97-f4fa101be31f",
+      "source_role": "tool",
+      "source_image_title": "拳館少女整裝備戰",
+      "horizontal_mirror": false,
+      "original_sha256": "dc03e687c29dee7d1e4aa6073692b0fd6799231da0e52ecc54143f3b5110cc46",
+      "output_sha256": "dc03e687c29dee7d1e4aa6073692b0fd6799231da0e52ecc54143f3b5110cc46",
+      "size_bytes": 2553086,
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "image": "images/漫服/46C_ペローナ-01.png",
+      "prompt_file": "images/漫服/46C_ペローナ-01.md",
+      "headline": "46#1｜幽靈城堡的早餐",
+      "source_share": "https://chatgpt.com/share/6aea0d34-b05c-83ec-8a79-7ec3c6a03a7f",
+      "source_file_id": "file_000000007ab08206909fdcfb6fd808d6",
+      "source_message_id": "10b88ae1-c3b5-4b9d-acfa-d57772789833",
+      "source_role": "tool",
+      "source_image_title": "哥德皇室茶會與玫瑰甜點",
+      "horizontal_mirror": false,
+      "original_sha256": "01a0af0163e082969fdf855c9b15ea3de41ddc5444fc9a75c7c8e01947612882",
+      "output_sha256": "01a0af0163e082969fdf855c9b15ea3de41ddc5444fc9a75c7c8e01947612882",
+      "size_bytes": 3011996,
+      "width": 941,
+      "height": 1671
+    }
+  ],
+  "skipped": []
+}
