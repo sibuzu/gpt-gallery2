@@ -11,8 +11,8 @@
   },
   "images": [
     {
-      "image": "images/動漫/初音ミク-02.png",
-      "prompt_file": "images/動漫/初音ミク-02.md",
+      "image": "images/動漫/34A_初音ミク-02.png",
+      "prompt_file": "images/動漫/34A_初音ミク-02.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_00000000083c81fa997e7e8eb140bfc9",
       "source_message_id": "d64f4b1e-80e1-4b37-b000-58201f35f944",
@@ -26,8 +26,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫/ラム-02.png",
-      "prompt_file": "images/動漫/ラム-02.md",
+      "image": "images/動漫/41A_ラム-02.png",
+      "prompt_file": "images/動漫/41A_ラム-02.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_000000000e88823093317cadcc414d2a",
       "source_message_id": "8f5cd633-15ae-4267-ab0b-162a3e7a3155",
@@ -41,8 +41,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫/美樹さやか-02.png",
-      "prompt_file": "images/動漫/美樹さやか-02.md",
+      "image": "images/動漫/62A_美樹さやか-02.png",
+      "prompt_file": "images/動漫/62A_美樹さやか-02.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_00000000250881f8987a1457f6f65f7e",
       "source_message_id": "53a5a82e-11a5-439a-88c4-42b2cf621827",
@@ -56,8 +56,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫/孔雀舞-02.png",
-      "prompt_file": "images/動漫/孔雀舞-02.md",
+      "image": "images/動漫/25A_孔雀舞-02.png",
+      "prompt_file": "images/動漫/25A_孔雀舞-02.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_0000000003c481fa8193ed71962febf4",
       "source_message_id": "c15f8f47-7a2d-445f-9eda-b8d7ea18c8e7",
@@ -71,8 +71,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫/タキ-03.png",
-      "prompt_file": "images/動漫/タキ-03.md",
+      "image": "images/動漫/06A_タキ-03.png",
+      "prompt_file": "images/動漫/06A_タキ-03.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_000000001898821189e2e890540d6b40",
       "source_message_id": "2931158f-3fc7-44fc-be53-49691403225b",
@@ -86,8 +86,8 @@
       "height": 1671
     },
     {
-      "image": "images/動漫/Cassandra-03.png",
-      "prompt_file": "images/動漫/Cassandra-03.md",
+      "image": "images/動漫/08A_Cassandra-03.png",
+      "prompt_file": "images/動漫/08A_Cassandra-03.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_0000000041f0820e91e5c52027755e58",
       "source_message_id": "79ddad46-6c44-47e6-ba86-c08d758a8fdd",
@@ -101,8 +101,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫/弁天-02.png",
-      "prompt_file": "images/動漫/弁天-02.md",
+      "image": "images/動漫/42A_弁天-02.png",
+      "prompt_file": "images/動漫/42A_弁天-02.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_00000000a5308211987e03bbed25e854",
       "source_message_id": "807fc8bf-abe5-4514-b56f-16926d140283",
@@ -116,8 +116,8 @@
       "height": 1671
     },
     {
-      "image": "images/動漫/アイヴィー-02.png",
-      "prompt_file": "images/動漫/アイヴィー-02.md",
+      "image": "images/動漫/05A_アイヴィー-02.png",
+      "prompt_file": "images/動漫/05A_アイヴィー-02.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_00000000645881fa8a8377de913ee7f5",
       "source_message_id": "8bdb5b2a-979a-4b62-acd6-2fd538ecae32",
@@ -131,8 +131,8 @@
       "height": 1671
     },
     {
-      "image": "images/動漫/桔梗-03.png",
-      "prompt_file": "images/動漫/桔梗-03.md",
+      "image": null,
+      "prompt_file": null,
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_00000000be848230acc48b4c1ff08154",
       "source_message_id": "7afde0e3-9695-4fa1-a46d-c2f0c875cf4b",
@@ -143,11 +143,15 @@
       "output_sha256": "6d14e8b4cdf72188a7cb073b2b1d1ac109d604d3ed89b9e02f46314f06f6ccc2",
       "size_bytes": 2424450,
       "width": 941,
-      "height": 1670
+      "height": 1670,
+      "image_at_import": "images/動漫/桔梗-03.png",
+      "prompt_file_at_import": "images/動漫/桔梗-03.md",
+      "status": "not_present_before_rename",
+      "present_at_last_verification": false
     },
     {
-      "image": "images/動漫/Saber-02.png",
-      "prompt_file": "images/動漫/Saber-02.md",
+      "image": "images/動漫/33A_Saber-02.png",
+      "prompt_file": "images/動漫/33A_Saber-02.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_00000000568081f5a67c166ffde99cd9",
       "source_message_id": "72f663a6-9baf-4310-b69f-9ac1925ebf9f",
@@ -161,8 +165,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫/綱手-02.png",
-      "prompt_file": "images/動漫/綱手-02.md",
+      "image": "images/動漫/28A_綱手-02.png",
+      "prompt_file": "images/動漫/28A_綱手-02.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_00000000ca608210bc5ac590f07c13b0",
       "source_message_id": "674092a8-9696-4e37-9e6a-335cfc2c0139",
@@ -176,8 +180,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫/峰不二子-02.png",
-      "prompt_file": "images/動漫/峰不二子-02.md",
+      "image": "images/動漫/35A_峰不二子-02.png",
+      "prompt_file": "images/動漫/35A_峰不二子-02.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_00000000a05c81fabe9dc2e1e80efb74",
       "source_message_id": "a0eced89-5d41-4927-800f-3bf3ce01a152",
@@ -191,8 +195,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫/九能小太刀-04.png",
-      "prompt_file": "images/動漫/九能小太刀-04.md",
+      "image": null,
+      "prompt_file": null,
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_00000000709c81f4808f72424de079e1",
       "source_message_id": "55a04845-b810-408d-89d9-39a4985ddd97",
@@ -203,11 +207,15 @@
       "output_sha256": "b572360d7d2735ef5eb5856b4674c441c0249424022c8e4a1bad87569db82e36",
       "size_bytes": 2449925,
       "width": 942,
-      "height": 1670
+      "height": 1670,
+      "image_at_import": "images/動漫/九能小太刀-04.png",
+      "prompt_file_at_import": "images/動漫/九能小太刀-04.md",
+      "status": "not_present_before_rename",
+      "present_at_last_verification": false
     },
     {
-      "image": "images/動漫/アンヘル-02.png",
-      "prompt_file": "images/動漫/アンヘル-02.md",
+      "image": "images/動漫/11A_アンヘル-02.png",
+      "prompt_file": "images/動漫/11A_アンヘル-02.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_000000007d6081fa959f5615a4d8c6c8",
       "source_message_id": "2d0efd9b-8930-4168-965c-24e6eff07d65",
@@ -221,8 +229,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫/ペローナ-02.png",
-      "prompt_file": "images/動漫/ペローナ-02.md",
+      "image": "images/動漫/46A_ペローナ-02.png",
+      "prompt_file": "images/動漫/46A_ペローナ-02.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_000000004c8881f4a5ee94b5e7710aac",
       "source_message_id": "0db42973-5241-4cb2-b9ed-c4d0f9929001",
@@ -236,8 +244,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫/神楽_銀魂-03.png",
-      "prompt_file": "images/動漫/神楽_銀魂-03.md",
+      "image": "images/動漫/57A_神楽_銀魂-03.png",
+      "prompt_file": "images/動漫/57A_神楽_銀魂-03.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_000000007c84821188048340eb165e29",
       "source_message_id": "4b987d75-c3df-45e9-8da7-0b07f1146e89",
@@ -251,8 +259,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫/不知火舞-03.png",
-      "prompt_file": "images/動漫/不知火舞-03.md",
+      "image": "images/動漫/01A_不知火舞-03.png",
+      "prompt_file": "images/動漫/01A_不知火舞-03.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_00000000b67c81fabf8e11ae57b360bf",
       "source_message_id": "95eb0c76-cd45-4cd9-be97-63c30c82ba69",
@@ -266,8 +274,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫/Sophitia-02.png",
-      "prompt_file": "images/動漫/Sophitia-02.md",
+      "image": "images/動漫/07A_Sophitia-02.png",
+      "prompt_file": "images/動漫/07A_Sophitia-02.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_00000000a3348211bbd3fd6f951703cc",
       "source_message_id": "e2b3f27f-e556-40e5-8270-02d9ff99cfa4",
@@ -281,8 +289,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫/猿飛あやめ-02.png",
-      "prompt_file": "images/動漫/猿飛あやめ-02.md",
+      "image": "images/動漫/55A_猿飛あやめ-02.png",
+      "prompt_file": "images/動漫/55A_猿飛あやめ-02.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_00000000bb8081f99af135ad7568df25",
       "source_message_id": "d3a4b468-9488-42e7-a246-ade5208b7cf2",
@@ -296,8 +304,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫/Aerith-03.png",
-      "prompt_file": "images/動漫/Aerith-03.md",
+      "image": "images/動漫/14A_Aerith-03.png",
+      "prompt_file": "images/動漫/14A_Aerith-03.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_00000000025081fa865701b071d73aa6",
       "source_message_id": "b99368fa-7b80-45a9-8939-abad6c2a4e40",
@@ -311,8 +319,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫/ヤマト-02.png",
-      "prompt_file": "images/動漫/ヤマト-02.md",
+      "image": "images/動漫/47A_ヤマト-02.png",
+      "prompt_file": "images/動漫/47A_ヤマト-02.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_00000000f8f481f49a4344a0f0f0469b",
       "source_message_id": "2e1eed0f-69ee-43ae-8579-f60f9212ceda",
@@ -326,8 +334,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫/Tifa-03.png",
-      "prompt_file": "images/動漫/Tifa-03.md",
+      "image": "images/動漫/13A_Tifa-03.png",
+      "prompt_file": "images/動漫/13A_Tifa-03.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_00000000b2108211989bdb0f48b68a90",
       "source_message_id": "2a3d720f-b1c9-4b9e-9879-4ecb83b3dd8e",
@@ -341,8 +349,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫/春麗-02.png",
-      "prompt_file": "images/動漫/春麗-02.md",
+      "image": "images/動漫/02A_春麗-02.png",
+      "prompt_file": "images/動漫/02A_春麗-02.md",
       "source_share": "https://chatgpt.com/share/6ae85fa9-405c-83ec-85de-1a99a059f99c",
       "source_file_id": "file_000000008ccc821199dfb7dbf4c2d3c1",
       "source_message_id": "2ddf249c-eb83-4c39-9955-051b105716ed",
@@ -356,5 +364,6 @@
       "height": 1672
     }
   ],
-  "skipped": []
+  "skipped": [],
+  "filename_handling": "Current filenames use the fixed character ID plus A prefix, character name, and image variant; original PNG/MD contents remain unchanged."
 }

@@ -3,7 +3,7 @@
   "category": "動漫全",
   "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
   "image_handling": "Original source PNG bytes preserved; no resizing, recompression, or mirroring.",
-  "prompt_handling": "Complete original user prompt including its numbered scene headline is preserved. Filenames use number_variant_character; character spellings match images/動漫/.",
+  "prompt_handling": "Complete original user prompt including its numbered scene headline is preserved. Filenames use number_character-variant with a two-digit variant; duplicate image suffixes follow the variant (e.g. 01B_不知火舞-03-02). Character spellings match images/動漫/.",
   "deduplication": "Compared SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, against all existing gallery categories and this import.",
   "summary": {
     "unique_generated_source_images": 21,
@@ -13,8 +13,8 @@
   },
   "images": [
     {
-      "image": "images/動漫全/12_3_シェルミー.png",
-      "prompt_file": "images/動漫全/12_3_シェルミー.md",
+      "image": "images/動漫全/12B_シェルミー-03.png",
+      "prompt_file": "images/動漫全/12B_シェルミー-03.md",
       "headline": "12#3｜香水藝廊的試香紙",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_00000000d1ac8206a117a6c29cc4668d",
@@ -29,8 +29,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/15_4_Yuna.png",
-      "prompt_file": "images/動漫全/15_4_Yuna.md",
+      "image": "images/動漫全/15B_Yuna-04.png",
+      "prompt_file": "images/動漫全/15B_Yuna-04.md",
       "headline": "15#4｜水燈湖畔的夜色",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_00000000b9d48206adec31ba4c6568bf",
@@ -45,8 +45,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/29_1_人造人間18号.png",
-      "prompt_file": "images/動漫全/29_1_人造人間18号.md",
+      "image": "images/動漫全/29B_人造人間18号-01.png",
+      "prompt_file": "images/動漫全/29B_人造人間18号-01.md",
       "headline": "29#1｜復古車庫的晨光",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_00000000641c8206988effc464d759ee",
@@ -61,8 +61,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/47_1_ヤマト.png",
-      "prompt_file": "images/動漫全/47_1_ヤマト.md",
+      "image": "images/動漫全/47B_ヤマト-01.png",
+      "prompt_file": "images/動漫全/47B_ヤマト-01.md",
       "headline": "47#1｜和風城樓的晨望",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_000000001f348206abbe836b15601070",
@@ -77,8 +77,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/54_1_日暮かごめ.png",
-      "prompt_file": "images/動漫全/54_1_日暮かごめ.md",
+      "image": "images/動漫全/54B_日暮かごめ-01.png",
+      "prompt_file": "images/動漫全/54B_日暮かごめ-01.md",
       "headline": "54#1｜神社石階的早晨",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_00000000e6808206b5e19f272f86d365",
@@ -93,8 +93,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/42_3_弁天.png",
-      "prompt_file": "images/動漫全/42_3_弁天.md",
+      "image": "images/動漫全/42B_弁天-03.png",
+      "prompt_file": "images/動漫全/42B_弁天-03.md",
       "headline": "42#3｜搖滾唱片店的試聽",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_00000000d2d082069667fcd908c9e079",
@@ -109,8 +109,8 @@
       "height": 1671
     },
     {
-      "image": "images/動漫全/56_1_来島また子.png",
-      "prompt_file": "images/動漫全/56_1_来島また子.md",
+      "image": "images/動漫全/56B_来島また子-01.png",
+      "prompt_file": "images/動漫全/56B_来島また子-01.md",
       "headline": "56#1｜木造船塢的紅色晨光",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_00000000e5bc8206be2e9ba5c6947e66",
@@ -125,8 +125,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/34_3_初音ミク.png",
-      "prompt_file": "images/動漫全/34_3_初音ミク.md",
+      "image": "images/動漫全/34B_初音ミク-03.png",
+      "prompt_file": "images/動漫全/34B_初音ミク-03.md",
       "headline": "34#3｜城市天橋的全息看板",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_00000000fb9c8206998dbf848374a07d",
@@ -141,8 +141,8 @@
       "height": 1671
     },
     {
-      "image": "images/動漫全/42_1_弁天.png",
-      "prompt_file": "images/動漫全/42_1_弁天.md",
+      "image": "images/動漫全/42B_弁天-01.png",
+      "prompt_file": "images/動漫全/42B_弁天-01.md",
       "headline": "42#1｜太空機車庫的整裝",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_00000000f37c8206b6eacfffff14d78e",
@@ -157,8 +157,8 @@
       "height": 1671
     },
     {
-      "image": "images/動漫全/48_2_日向ヒナタ.png",
-      "prompt_file": "images/動漫全/48_2_日向ヒナタ.md",
+      "image": "images/動漫全/48B_日向ヒナタ-02.png",
+      "prompt_file": "images/動漫全/48B_日向ヒナタ-02.md",
       "headline": "48#2｜編織工坊的小線團",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_00000000dd6482068566f0511bf16d0e",
@@ -173,8 +173,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/46_3_ペローナ.png",
-      "prompt_file": "images/動漫全/46_3_ペローナ.md",
+      "image": "images/動漫全/46B_ペローナ-03.png",
+      "prompt_file": "images/動漫全/46B_ペローナ-03.md",
       "headline": "46#3｜雨中洋館的傘架",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_000000006dd48206b3db535fc05de8e4",
@@ -189,8 +189,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/49_1_地獄のフブキ.png",
-      "prompt_file": "images/動漫全/49_1_地獄のフブキ.md",
+      "image": "images/動漫全/49B_地獄のフブキ-01.png",
+      "prompt_file": "images/動漫全/49B_地獄のフブキ-01.md",
       "headline": "49#1｜城市辦公廳的晨光",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_00000000260c8206a37e7f794700ef04",
@@ -205,8 +205,8 @@
       "height": 1671
     },
     {
-      "image": "images/動漫全/41_2_ラム.png",
-      "prompt_file": "images/動漫全/41_2_ラム.md",
+      "image": "images/動漫全/41B_ラム-02.png",
+      "prompt_file": "images/動漫全/41B_ラム-02.md",
       "headline": "41#2｜虎紋設計的潮流展",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_0000000083b08206a0d5ddf202e575c1",
@@ -221,8 +221,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/02_2_春麗.png",
-      "prompt_file": "images/動漫全/02_2_春麗.md",
+      "image": "images/動漫全/02B_春麗-02.png",
+      "prompt_file": "images/動漫全/02B_春麗-02.md",
       "headline": "02#2｜街角蒸籠的熱氣",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_00000000281c8206828c626455d8ab1b",
@@ -237,8 +237,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/10_3_あやね.png",
-      "prompt_file": "images/動漫全/10_3_あやね.md",
+      "image": "images/動漫全/10B_あやね-03.png",
+      "prompt_file": "images/動漫全/10B_あやね-03.md",
       "headline": "10#3｜高架橋下的塗鴉",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_00000000d360820690d4780979d84021",
@@ -253,8 +253,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/13_2_Tifa.png",
-      "prompt_file": "images/動漫全/13_2_Tifa.md",
+      "image": "images/動漫全/13B_Tifa-02.png",
+      "prompt_file": "images/動漫全/13B_Tifa-02.md",
       "headline": "13#2｜拳擊館的休息片刻",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_00000000e7988206b0eeb121309c80c9",
@@ -269,8 +269,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/05_1_アイヴィー.png",
-      "prompt_file": "images/動漫全/05_1_アイヴィー.md",
+      "image": "images/動漫全/05B_アイヴィー-01.png",
+      "prompt_file": "images/動漫全/05B_アイヴィー-01.md",
       "headline": "05#1｜海崖城堡的石階",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_00000000dc9882069fb524ad2b335f71",
@@ -285,8 +285,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/61_2_巴マミ.png",
-      "prompt_file": "images/動漫全/61_2_巴マミ.md",
+      "image": "images/動漫全/61B_巴マミ-02.png",
+      "prompt_file": "images/動漫全/61B_巴マミ-02.md",
       "headline": "61#2｜羽飾工坊的帽針",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_00000000c6c8820691ec7bc183467959",
@@ -301,8 +301,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/26_2_ヨル.png",
-      "prompt_file": "images/動漫全/26_2_ヨル.md",
+      "image": "images/動漫全/26B_ヨル-02.png",
+      "prompt_file": "images/動漫全/26B_ヨル-02.md",
       "headline": "26#2｜花藝教室的金緞帶",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_00000000179481faa5be01f4a2084c95",
@@ -317,8 +317,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/23_1_ナミ.png",
-      "prompt_file": "images/動漫全/23_1_ナミ.md",
+      "image": "images/動漫全/23B_ナミ-01.png",
+      "prompt_file": "images/動漫全/23B_ナミ-01.md",
       "headline": "23#1｜航海圖室的晨光",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_0000000047e881fa8e6825ac05ce215a",
@@ -333,8 +333,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/37_4_シャンプー.png",
-      "prompt_file": "images/動漫全/37_4_シャンプー.md",
+      "image": "images/動漫全/37B_シャンプー-04.png",
+      "prompt_file": "images/動漫全/37B_シャンプー-04.md",
       "headline": "37#4｜花燈遊園的廊橋",
       "source_share": "https://chatgpt.com/share/6ae9627c-00a8-83ec-8f4b-4c2fdacabe36",
       "source_file_id": "file_00000000cae081fa88014b498448d320",
@@ -349,5 +349,6 @@
       "height": 1670
     }
   ],
-  "skipped": []
+  "skipped": [],
+  "filename_handling": "Current filenames use the fixed character ID plus B prefix, character name, and image variant; original PNG/MD contents remain unchanged."
 }

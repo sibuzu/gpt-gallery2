@@ -3,7 +3,7 @@
   "category": "動漫全",
   "source_share": "https://chatgpt.com/share/6ae99236-7c40-83ee-ba42-0a29e7d7dfa6",
   "image_handling": "Original source PNG bytes preserved; no resizing, recompression, or mirroring.",
-  "prompt_handling": "Full original user prompt including the numbered headline is preserved. Filenames use the original number_variant_character (spellings match images/動漫/); additional images with the same headline receive -02, -03, etc.",
+  "prompt_handling": "Complete original user prompt including its numbered scene headline is preserved. Filenames use number_character-variant with a two-digit variant; duplicate image suffixes follow the variant (e.g. 01B_不知火舞-03-02). Character spellings match images/動漫/.",
   "deduplication": "Compared SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, against all existing gallery categories and this import.",
   "summary": {
     "unique_generated_source_images": 2,
@@ -13,8 +13,8 @@
   },
   "images": [
     {
-      "image": "images/動漫全/38_1_久遠寺右京.png",
-      "prompt_file": "images/動漫全/38_1_久遠寺右京.md",
+      "image": "images/動漫全/38B_久遠寺右京-01.png",
+      "prompt_file": "images/動漫全/38B_久遠寺右京-01.md",
       "headline": "38#1｜大阪燒店的開門準備",
       "source_share": "https://chatgpt.com/share/6ae99236-7c40-83ee-ba42-0a29e7d7dfa6",
       "source_file_id": "file_000000002af881f4a2d0a6f8bc405c3f",
@@ -29,8 +29,8 @@
       "height": 1494
     },
     {
-      "image": "images/動漫全/19_1_ヒカリ.png",
-      "prompt_file": "images/動漫全/19_1_ヒカリ.md",
+      "image": "images/動漫全/19B_ヒカリ-01.png",
+      "prompt_file": "images/動漫全/19B_ヒカリ-01.md",
       "headline": "19#1｜白金空中聖殿",
       "source_share": "https://chatgpt.com/share/6ae99236-7c40-83ee-ba42-0a29e7d7dfa6",
       "source_file_id": "file_00000000637c81fa8523ab0b0456cced",
@@ -45,5 +45,6 @@
       "height": 1494
     }
   ],
-  "skipped": []
+  "skipped": [],
+  "filename_handling": "Current filenames use the fixed character ID plus B prefix, character name, and image variant; original PNG/MD contents remain unchanged."
 }

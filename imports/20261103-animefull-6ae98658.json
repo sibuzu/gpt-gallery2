@@ -3,7 +3,7 @@
   "category": "動漫全",
   "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
   "image_handling": "Original source PNG bytes preserved; no resizing, recompression, or mirroring.",
-  "prompt_handling": "Complete original user prompt including its numbered scene headline is preserved. Filenames use number_variant_character; character spellings match images/動漫/.",
+  "prompt_handling": "Complete original user prompt including its numbered scene headline is preserved. Filenames use number_character-variant with a two-digit variant; duplicate image suffixes follow the variant (e.g. 01B_不知火舞-03-02). Character spellings match images/動漫/.",
   "deduplication": "Compared SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, against all existing gallery categories and this import.",
   "summary": {
     "unique_generated_source_images": 74,
@@ -13,8 +13,8 @@
   },
   "images": [
     {
-      "image": "images/動漫全/44_3_ランチ.png",
-      "prompt_file": "images/動漫全/44_3_ランチ.md",
+      "image": "images/動漫全/44B_ランチ-03.png",
+      "prompt_file": "images/動漫全/44B_ランチ-03.md",
       "headline": "44#3｜復古遊樂場的汽球",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000f85481fa8d952d9343a1da30",
@@ -29,8 +29,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/36_4_早乙女らんま（女）.png",
-      "prompt_file": "images/動漫全/36_4_早乙女らんま（女）.md",
+      "image": "images/動漫全/36B_早乙女らんま（女）-04.png",
+      "prompt_file": "images/動漫全/36B_早乙女らんま（女）-04.md",
       "headline": "36#4｜夜市燈籠的步伐",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000026081fabcf61229af3de763",
@@ -45,8 +45,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/28_2_綱手.png",
-      "prompt_file": "images/動漫全/28_2_綱手.md",
+      "image": "images/動漫全/28B_綱手-02.png",
+      "prompt_file": "images/動漫全/28B_綱手-02.md",
       "headline": "28#2｜山城茶屋的桌遊",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_0000000063f481faa35ffc96fea305f9",
@@ -61,8 +61,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/40_3_九能小太刀.png",
-      "prompt_file": "images/動漫全/40_3_九能小太刀.md",
+      "image": "images/動漫全/40B_九能小太刀-03.png",
+      "prompt_file": "images/動漫全/40B_九能小太刀-03.md",
       "headline": "40#3｜玫瑰香氛的試香",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000227c81fa8ab09cc6763eb96f",
@@ -77,8 +77,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/43_4_ブルマ.png",
-      "prompt_file": "images/動漫全/43_4_ブルマ.md",
+      "image": "images/動漫全/43B_ブルマ-04.png",
+      "prompt_file": "images/動漫全/43B_ブルマ-04.md",
       "headline": "43#4｜未來車展的藍色投影",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000a33c81fa9de98f690195cdaf",
@@ -93,8 +93,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/47_2_ヤマト.png",
-      "prompt_file": "images/動漫全/47_2_ヤマト.md",
+      "image": "images/動漫全/47B_ヤマト-02.png",
+      "prompt_file": "images/動漫全/47B_ヤマト-02.md",
       "headline": "47#2｜繩結工坊的紫白配色",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000e48c81fa9943e2b2cd3a896d",
@@ -109,8 +109,8 @@
       "height": 1671
     },
     {
-      "image": "images/動漫全/44_4_ランチ.png",
-      "prompt_file": "images/動漫全/44_4_ランチ.md",
+      "image": "images/動漫全/44B_ランチ-04.png",
+      "prompt_file": "images/動漫全/44B_ランチ-04.md",
       "headline": "44#4｜荒原旅店的黃昏",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000171481fa91961e64793ebeb8",
@@ -125,8 +125,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/35_2_峰不二子.png",
-      "prompt_file": "images/動漫全/35_2_峰不二子.md",
+      "image": "images/動漫全/35B_峰不二子-02.png",
+      "prompt_file": "images/動漫全/35B_峰不二子-02.md",
       "headline": "35#2｜古董珠寶店的櫥窗",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000ebfc81faa41798791ac6517a",
@@ -141,8 +141,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/09_4_かすみ.png",
-      "prompt_file": "images/動漫全/09_4_かすみ.md",
+      "image": "images/動漫全/09B_かすみ-04.png",
+      "prompt_file": "images/動漫全/09B_かすみ-04.md",
       "headline": "09#4｜水墨藝廊的雨聲",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000a3d081fa86bb5a9e8773ee26",
@@ -157,8 +157,8 @@
       "height": 1671
     },
     {
-      "image": "images/動漫全/04_1_Morrigan.png",
-      "prompt_file": "images/動漫全/04_1_Morrigan.md",
+      "image": "images/動漫全/04B_Morrigan-01.png",
+      "prompt_file": "images/動漫全/04B_Morrigan-01.md",
       "headline": "04#1｜古堡露台的月光",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000afc081fa8c0f019e657919fa",
@@ -173,8 +173,8 @@
       "height": 1671
     },
     {
-      "image": "images/動漫全/05_2_アイヴィー.png",
-      "prompt_file": "images/動漫全/05_2_アイヴィー.md",
+      "image": "images/動漫全/05B_アイヴィー-02.png",
+      "prompt_file": "images/動漫全/05B_アイヴィー-02.md",
       "headline": "05#2｜鍊金藏書室的圖紙",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_0000000061c481faa4106f599c6fd79f",
@@ -189,8 +189,8 @@
       "height": 1671
     },
     {
-      "image": "images/動漫全/14_4_Aerith.png",
-      "prompt_file": "images/動漫全/14_4_Aerith.md",
+      "image": "images/動漫全/14B_Aerith-04.png",
+      "prompt_file": "images/動漫全/14B_Aerith-04.md",
       "headline": "14#4｜玫瑰園的晚風",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000e02881fa8b9e8c8e866fea6b",
@@ -205,8 +205,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/26_1_ヨル.png",
-      "prompt_file": "images/動漫全/26_1_ヨル.md",
+      "image": "images/動漫全/26B_ヨル-01.png",
+      "prompt_file": "images/動漫全/26B_ヨル-01.md",
       "headline": "26#1｜玫瑰庭院的晨露",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_000000006fac81faaa4d3781c6866274",
@@ -221,8 +221,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/48_4_日向ヒナタ.png",
-      "prompt_file": "images/動漫全/48_4_日向ヒナタ.md",
+      "image": "images/動漫全/48B_日向ヒナタ-04.png",
+      "prompt_file": "images/動漫全/48B_日向ヒナタ-04.md",
       "headline": "48#4｜竹燈步道的練習後",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000ff8c81fab45e74300cc23eb1",
@@ -237,8 +237,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/25_2_孔雀舞.png",
-      "prompt_file": "images/動漫全/25_2_孔雀舞.md",
+      "image": "images/動漫全/25B_孔雀舞-02.png",
+      "prompt_file": "images/動漫全/25B_孔雀舞-02.md",
       "headline": "25#2｜天台決鬥展的牌面",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000cc7081fab360a049e0b4ca8b",
@@ -253,8 +253,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/43_1_ブルマ.png",
-      "prompt_file": "images/動漫全/43_1_ブルマ.md",
+      "image": "images/動漫全/43B_ブルマ-01.png",
+      "prompt_file": "images/動漫全/43B_ブルマ-01.md",
       "headline": "43#1｜膠囊研究室的晨光",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000692081faba7252df73d20aef",
@@ -269,8 +269,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/09_1_かすみ.png",
-      "prompt_file": "images/動漫全/09_1_かすみ.md",
+      "image": "images/動漫全/09B_かすみ-01.png",
+      "prompt_file": "images/動漫全/09B_かすみ-01.md",
       "headline": "09#1｜櫻花溪橋的停留",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000daa081fa9c2094c5e5f81ee0",
@@ -285,8 +285,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/31_4_月野うさぎ.png",
-      "prompt_file": "images/動漫全/31_4_月野うさぎ.md",
+      "image": "images/動漫全/31B_月野うさぎ-04.png",
+      "prompt_file": "images/動漫全/31B_月野うさぎ-04.md",
       "headline": "31#4｜星光舞台的謝幕",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000006081fa934af2b7723724ea",
@@ -301,8 +301,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/21_3_ヨーコ・リットナー.png",
-      "prompt_file": "images/動漫全/21_3_ヨーコ・リットナー.md",
+      "image": "images/動漫全/21B_ヨーコ・リットナー-03.png",
+      "prompt_file": "images/動漫全/21B_ヨーコ・リットナー-03.md",
       "headline": "21#3｜沙漠市集的冰飲",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000d85081fa8494f3ecb5f5e976",
@@ -317,8 +317,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/49_4_地獄のフブキ.png",
-      "prompt_file": "images/動漫全/49_4_地獄のフブキ.md",
+      "image": "images/動漫全/49B_地獄のフブキ-04.png",
+      "prompt_file": "images/動漫全/49B_地獄のフブキ-04.md",
       "headline": "49#4｜高空晚宴的水晶燈",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_000000009dbc81fa8dd464d823f80c50",
@@ -333,8 +333,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/17_3_リュック.png",
-      "prompt_file": "images/動漫全/17_3_リュック.md",
+      "image": "images/動漫全/17B_リュック-03.png",
+      "prompt_file": "images/動漫全/17B_リュック-03.md",
       "headline": "17#3｜熱帶溫室的探險",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000d40081fa9ff7d57bc65c68a7",
@@ -349,8 +349,8 @@
       "height": 1669
     },
     {
-      "image": "images/動漫全/30_2_明日香.png",
-      "prompt_file": "images/動漫全/30_2_明日香.md",
+      "image": "images/動漫全/30B_明日香-02.png",
+      "prompt_file": "images/動漫全/30B_明日香-02.md",
       "headline": "30#2｜模擬駕駛艙的準備",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000cbd881fa8f9e4714ac67c7a2",
@@ -365,8 +365,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/10_1_あやね.png",
-      "prompt_file": "images/動漫全/10_1_あやね.md",
+      "image": "images/動漫全/10B_あやね-01.png",
+      "prompt_file": "images/動漫全/10B_あやね-01.md",
       "headline": "10#1｜紫藤廊下的晨影",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000cb1481fa97301318d8dd3505",
@@ -381,8 +381,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/01_1_不知火舞.png",
-      "prompt_file": "images/動漫全/01_1_不知火舞.md",
+      "image": "images/動漫全/01B_不知火舞-01.png",
+      "prompt_file": "images/動漫全/01B_不知火舞-01.md",
       "headline": "01#1｜朱橋庭院的晨練",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000cc3481fa988e3893faf3be04",
@@ -397,8 +397,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/43_3_ブルマ.png",
-      "prompt_file": "images/動漫全/43_3_ブルマ.md",
+      "image": "images/動漫全/43B_ブルマ-03.png",
+      "prompt_file": "images/動漫全/43B_ブルマ-03.md",
       "headline": "43#3｜地圖市集的探測器",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000a3b481fa883744105616141f",
@@ -413,8 +413,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/21_2_ヨーコ・リットナー.png",
-      "prompt_file": "images/動漫全/21_2_ヨーコ・リットナー.md",
+      "image": "images/動漫全/21B_ヨーコ・リットナー-02.png",
+      "prompt_file": "images/動漫全/21B_ヨーコ・リットナー-02.md",
       "headline": "21#2｜改裝工坊的火焰車身",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000670881fab343c2c8a678a981",
@@ -429,8 +429,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/40_1_九能小太刀.png",
-      "prompt_file": "images/動漫全/40_1_九能小太刀.md",
+      "image": "images/動漫全/40B_九能小太刀-01.png",
+      "prompt_file": "images/動漫全/40B_九能小太刀-01.md",
       "headline": "40#1｜黑薔薇花房的晨露",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000d05881fa9e8d189736cea116",
@@ -445,8 +445,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/20_1_ヨルハ二号B型（2B）.png",
-      "prompt_file": "images/動漫全/20_1_ヨルハ二号B型（2B）.md",
+      "image": "images/動漫全/20B_ヨルハ二号B型（2B）-01.png",
+      "prompt_file": "images/動漫全/20B_ヨルハ二号B型（2B）-01.md",
       "headline": "20#1｜廢墟花園的白花",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000b2cc81fab064213ac99e3f35",
@@ -461,8 +461,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/45_2_Nico Robin.png",
-      "prompt_file": "images/動漫全/45_2_Nico Robin.md",
+      "image": "images/動漫全/45B_Nico Robin-02.png",
+      "prompt_file": "images/動漫全/45B_Nico Robin-02.md",
       "headline": "45#2｜海島古物市集",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000ace081faabca8a518d60f8ac",
@@ -477,8 +477,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/38_3_久遠寺右京.png",
-      "prompt_file": "images/動漫全/38_3_久遠寺右京.md",
+      "image": "images/動漫全/38B_久遠寺右京-03.png",
+      "prompt_file": "images/動漫全/38B_久遠寺右京-03.md",
       "headline": "38#3｜陶盤小舖的選擇",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_0000000009b081fa8f352fe7f2d2d72a",
@@ -493,8 +493,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/32_2_レム.png",
-      "prompt_file": "images/動漫全/32_2_レム.md",
+      "image": "images/動漫全/32B_レム-02.png",
+      "prompt_file": "images/動漫全/32B_レム-02.md",
       "headline": "32#2｜蕾絲工坊的針線",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_0000000064a881faba5f2d3e81bb9320",
@@ -509,8 +509,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/22_4_Boa Hancock.png",
-      "prompt_file": "images/動漫全/22_4_Boa Hancock.md",
+      "image": "images/動漫全/22B_Boa Hancock-04.png",
+      "prompt_file": "images/動漫全/22B_Boa Hancock-04.md",
       "headline": "22#4｜海上宮船的晚宴",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000707081fabf520f19c440be06",
@@ -525,8 +525,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/14_2_Aerith.png",
-      "prompt_file": "images/動漫全/14_2_Aerith.md",
+      "image": "images/動漫全/14B_Aerith-02.png",
+      "prompt_file": "images/動漫全/14B_Aerith-02.md",
       "headline": "14#2｜花市攤前的緞帶",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_000000008eac81fab1be9ce2d02d0b70",
@@ -541,8 +541,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/38_4_久遠寺右京.png",
-      "prompt_file": "images/動漫全/38_4_久遠寺右京.md",
+      "image": "images/動漫全/38B_久遠寺右京-04.png",
+      "prompt_file": "images/動漫全/38B_久遠寺右京-04.md",
       "headline": "38#4｜祭典料理舞台",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_0000000015c481fab8f9c34ff46428f9",
@@ -557,8 +557,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/28_3_綱手.png",
-      "prompt_file": "images/動漫全/28_3_綱手.md",
+      "image": "images/動漫全/28B_綱手-03.png",
+      "prompt_file": "images/動漫全/28B_綱手-03.md",
       "headline": "28#3｜藥草園的採集籃",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000d36c81faa28b8c62616bf423",
@@ -573,8 +573,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/18_2_ホムラ.png",
-      "prompt_file": "images/動漫全/18_2_ホムラ.md",
+      "image": "images/動漫全/18B_ホムラ-02.png",
+      "prompt_file": "images/動漫全/18B_ホムラ-02.md",
       "headline": "18#2｜紅晶花園的散步",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000dafc81fa821962cb8843e292",
@@ -589,8 +589,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/59_1_鹿目まどか.png",
-      "prompt_file": "images/動漫全/59_1_鹿目まどか.md",
+      "image": "images/動漫全/59B_鹿目まどか-01.png",
+      "prompt_file": "images/動漫全/59B_鹿目まどか-01.md",
       "headline": "59#1｜粉白花園的許願卡",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_0000000036dc81fa8f85fbbba21b28ef",
@@ -605,8 +605,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/63_3_佐倉杏子.png",
-      "prompt_file": "images/動漫全/63_3_佐倉杏子.md",
+      "image": "images/動漫全/63B_佐倉杏子-03.png",
+      "prompt_file": "images/動漫全/63B_佐倉杏子-03.md",
       "headline": "63#3｜塗鴉廣場的長槍雕塑",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000187481fa9756488705c05f39",
@@ -621,8 +621,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/36_2_早乙女らんま（女）.png",
-      "prompt_file": "images/動漫全/36_2_早乙女らんま（女）.md",
+      "image": "images/動漫全/36B_早乙女らんま（女）-02.png",
+      "prompt_file": "images/動漫全/36B_早乙女らんま（女）-02.md",
       "headline": "36#2｜中華街的竹蒸籠",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000629c81faaf6b8a9d5cbbe037",
@@ -637,8 +637,8 @@
       "height": 1669
     },
     {
-      "image": "images/動漫全/45_3_Nico Robin.png",
-      "prompt_file": "images/動漫全/45_3_Nico Robin.md",
+      "image": "images/動漫全/45B_Nico Robin-03.png",
+      "prompt_file": "images/動漫全/45B_Nico Robin-03.md",
       "headline": "45#3｜植物館的古樹年輪",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000dffc81fab586c6e6833ef136",
@@ -653,8 +653,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/07_3_Sophitia.png",
-      "prompt_file": "images/動漫全/07_3_Sophitia.md",
+      "image": "images/動漫全/07B_Sophitia-03.png",
+      "prompt_file": "images/動漫全/07B_Sophitia-03.md",
       "headline": "07#3｜橄欖園的石牆",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_000000003be881fab6250c9e331c29ca",
@@ -669,8 +669,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/37_1_シャンプー.png",
-      "prompt_file": "images/動漫全/37_1_シャンプー.md",
+      "image": "images/動漫全/37B_シャンプー-01.png",
+      "prompt_file": "images/動漫全/37B_シャンプー-01.md",
       "headline": "37#1｜山村茶館的迎客",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_0000000060a481fa978f38f0c6fbd2e2",
@@ -685,8 +685,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/57_4_神楽_銀魂.png",
-      "prompt_file": "images/動漫全/57_4_神楽_銀魂.md",
+      "image": "images/動漫全/57B_神楽_銀魂-04.png",
+      "prompt_file": "images/動漫全/57B_神楽_銀魂-04.md",
       "headline": "57#4｜霓虹唐樓的晚風",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_000000006b7881fab8662b0ea76ae1be",
@@ -701,8 +701,8 @@
       "height": 1669
     },
     {
-      "image": "images/動漫全/16_2_ルールー.png",
-      "prompt_file": "images/動漫全/16_2_ルールー.md",
+      "image": "images/動漫全/16B_ルールー-02.png",
+      "prompt_file": "images/動漫全/16B_ルールー-02.md",
       "headline": "16#2｜古董人偶修復室",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_000000006d4c81fab8ee7c3c7df73215",
@@ -717,8 +717,8 @@
       "height": 1669
     },
     {
-      "image": "images/動漫全/52_4_珊瑚.png",
-      "prompt_file": "images/動漫全/52_4_珊瑚.md",
+      "image": "images/動漫全/52B_珊瑚-04.png",
+      "prompt_file": "images/動漫全/52B_珊瑚-04.md",
       "headline": "52#4｜月下山門的遠眺",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000717481fabb47ebb05ee5dda5",
@@ -733,8 +733,8 @@
       "height": 1669
     },
     {
-      "image": "images/動漫全/04_3_Morrigan.png",
-      "prompt_file": "images/動漫全/04_3_Morrigan.md",
+      "image": "images/動漫全/04B_Morrigan-03.png",
+      "prompt_file": "images/動漫全/04B_Morrigan-03.md",
       "headline": "04#3｜深夜唱片店的旋律",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000a4a481fabfcba8169a64447e",
@@ -749,8 +749,8 @@
       "height": 1669
     },
     {
-      "image": "images/動漫全/19_2_ヒカリ.png",
-      "prompt_file": "images/動漫全/19_2_ヒカリ.md",
+      "image": "images/動漫全/19B_ヒカリ-02.png",
+      "prompt_file": "images/動漫全/19B_ヒカリ-02.md",
       "headline": "19#2｜光學展館的稜鏡",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_0000000067a881fa9a0694f2b7d570d2",
@@ -765,8 +765,8 @@
       "height": 1669
     },
     {
-      "image": "images/動漫全/20_4_ヨルハ二号B型（2B）.png",
-      "prompt_file": "images/動漫全/20_4_ヨルハ二号B型（2B）.md",
+      "image": "images/動漫全/20B_ヨルハ二号B型（2B）-04.png",
+      "prompt_file": "images/動漫全/20B_ヨルハ二号B型（2B）-04.md",
       "headline": "20#4｜月下玻璃音樂廳",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000d41081fa8109a4470895e3ec",
@@ -781,8 +781,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/07_2_Sophitia.png",
-      "prompt_file": "images/動漫全/07_2_Sophitia.md",
+      "image": "images/動漫全/07B_Sophitia-02.png",
+      "prompt_file": "images/動漫全/07B_Sophitia-02.md",
       "headline": "07#2｜陶器市集的藍紋",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000ae7481fa84f7b8839c4ec37b",
@@ -797,8 +797,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/58_1_志村妙.png",
-      "prompt_file": "images/動漫全/58_1_志村妙.md",
+      "image": "images/動漫全/58B_志村妙-01.png",
+      "prompt_file": "images/動漫全/58B_志村妙-01.md",
       "headline": "58#1｜和式庭院的插花",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000aea081fabbb84761880bf909",
@@ -813,8 +813,8 @@
       "height": 1669
     },
     {
-      "image": "images/動漫全/61_4_巴マミ.png",
-      "prompt_file": "images/動漫全/61_4_巴マミ.md",
+      "image": "images/動漫全/61B_巴マミ-04.png",
+      "prompt_file": "images/動漫全/61B_巴マミ-04.md",
       "headline": "61#4｜金緞舞廳的茶舞",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_000000001f3c81fa8e1ce5cbb410fd30",
@@ -829,8 +829,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/15_1_Yuna.png",
-      "prompt_file": "images/動漫全/15_1_Yuna.md",
+      "image": "images/動漫全/15B_Yuna-01.png",
+      "prompt_file": "images/動漫全/15B_Yuna-01.md",
       "headline": "15#1｜海島神殿的獻花",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000b6f881faa8456ae5854d48d1",
@@ -845,8 +845,8 @@
       "height": 1669
     },
     {
-      "image": "images/動漫全/06_1_タキ.png",
-      "prompt_file": "images/動漫全/06_1_タキ.md",
+      "image": "images/動漫全/06B_タキ-01.png",
+      "prompt_file": "images/動漫全/06B_タキ-01.md",
       "headline": "06#1｜竹林石徑的薄霧",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000e6fc81fa9331dcc85cb7b50f",
@@ -861,8 +861,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/19_3_ヒカリ.png",
-      "prompt_file": "images/動漫全/19_3_ヒカリ.md",
+      "image": "images/動漫全/19B_ヒカリ-03.png",
+      "prompt_file": "images/動漫全/19B_ヒカリ-03.md",
       "headline": "19#3｜金葉步道的午光",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000dddc81faa113bc423f48ab28",
@@ -877,8 +877,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/53_3_神楽_犬夜叉.png",
-      "prompt_file": "images/動漫全/53_3_神楽_犬夜叉.md",
+      "image": "images/動漫全/53B_神楽_犬夜叉-03.png",
+      "prompt_file": "images/動漫全/53B_神楽_犬夜叉-03.md",
       "headline": "53#3｜紅楓茶屋的簷下",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000e2c881faa861038514b999d3",
@@ -893,8 +893,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/05_3_アイヴィー.png",
-      "prompt_file": "images/動漫全/05_3_アイヴィー.md",
+      "image": "images/動漫全/05B_アイヴィー-03.png",
+      "prompt_file": "images/動漫全/05B_アイヴィー-03.md",
       "headline": "05#3｜白玫瑰溫室",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_0000000031b881fa96ae69bfb80e5b78",
@@ -909,8 +909,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/51_3_桔梗.png",
-      "prompt_file": "images/動漫全/51_3_桔梗.md",
+      "image": "images/動漫全/51B_桔梗-03.png",
+      "prompt_file": "images/動漫全/51B_桔梗-03.md",
       "headline": "51#3｜古寺藏經的竹影",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_000000004aa081fa8781a469cdf32f4c",
@@ -925,8 +925,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/53_4_神楽_犬夜叉.png",
-      "prompt_file": "images/動漫全/53_4_神楽_犬夜叉.md",
+      "image": "images/動漫全/53B_神楽_犬夜叉-04.png",
+      "prompt_file": "images/動漫全/53B_神楽_犬夜叉-04.md",
       "headline": "53#4｜雲海高台的夜扇",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000ff0c81fa9ff9d8c6569cf9f0",
@@ -941,8 +941,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/52_3_珊瑚.png",
-      "prompt_file": "images/動漫全/52_3_珊瑚.md",
+      "image": "images/動漫全/52B_珊瑚-03.png",
+      "prompt_file": "images/動漫全/52B_珊瑚-03.md",
       "headline": "52#3｜山村花田的休息",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000950081fa96a445b3d31448d1",
@@ -957,8 +957,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/34_2_初音ミク.png",
-      "prompt_file": "images/動漫全/34_2_初音ミク.md",
+      "image": "images/動漫全/34B_初音ミク-02.png",
+      "prompt_file": "images/動漫全/34B_初音ミク-02.md",
       "headline": "34#2｜電子樂展的發光琴鍵",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000190481faaa35660a9d7278ca",
@@ -973,8 +973,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/55_1_猿飛あやめ.png",
-      "prompt_file": "images/動漫全/55_1_猿飛あやめ.md",
+      "image": "images/動漫全/55B_猿飛あやめ-01.png",
+      "prompt_file": "images/動漫全/55B_猿飛あやめ-01.md",
       "headline": "55#1｜屋簷觀景台的紅眼鏡",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000aeec81faa93ee66cbbccb4b1",
@@ -989,8 +989,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/37_2_シャンプー.png",
-      "prompt_file": "images/動漫全/37_2_シャンプー.md",
+      "image": "images/動漫全/37B_シャンプー-02.png",
+      "prompt_file": "images/動漫全/37B_シャンプー-02.md",
       "headline": "37#2｜繡莊的金色絲線",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_0000000012f881faa8b5e585c8c495e9",
@@ -1005,8 +1005,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/03_2_Cammy.png",
-      "prompt_file": "images/動漫全/03_2_Cammy.md",
+      "image": "images/動漫全/03B_Cammy-02.png",
+      "prompt_file": "images/動漫全/03B_Cammy-02.md",
       "headline": "03#2｜屋頂跑道的起點",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000a20c81faa5fbd476d4ac5850",
@@ -1021,8 +1021,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/29_4_人造人間18号.png",
-      "prompt_file": "images/動漫全/29_4_人造人間18号.md",
+      "image": "images/動漫全/29B_人造人間18号-04.png",
+      "prompt_file": "images/動漫全/29B_人造人間18号-04.md",
       "headline": "29#4｜保齡球館的霓虹",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_000000007e0881fa9c8c2566aa17dcd2",
@@ -1037,8 +1037,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/45_1_Nico Robin.png",
-      "prompt_file": "images/動漫全/45_1_Nico Robin.md",
+      "image": "images/動漫全/45B_Nico Robin-01.png",
+      "prompt_file": "images/動漫全/45B_Nico Robin-01.md",
       "headline": "45#1｜遺跡圖書館的拓片",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_0000000018b481fa9d32cbe96c6c1cce",
@@ -1053,8 +1053,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/06_2_タキ.png",
-      "prompt_file": "images/動漫全/06_2_タキ.md",
+      "image": "images/動漫全/06B_タキ-02.png",
+      "prompt_file": "images/動漫全/06B_タキ-02.md",
       "headline": "06#2｜忍具工坊的木窗",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_0000000030bc81fa99b1a382c8d57c31",
@@ -1069,8 +1069,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/52_2_珊瑚.png",
-      "prompt_file": "images/動漫全/52_2_珊瑚.md",
+      "image": "images/動漫全/52B_珊瑚-02.png",
+      "prompt_file": "images/動漫全/52B_珊瑚-02.md",
       "headline": "52#2｜皮具修復室的粉色線",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_0000000032f081f8b66294599c529de1",
@@ -1085,8 +1085,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/45_4_Nico Robin.png",
-      "prompt_file": "images/動漫全/45_4_Nico Robin.md",
+      "image": "images/動漫全/45B_Nico Robin-04.png",
+      "prompt_file": "images/動漫全/45B_Nico Robin-04.md",
       "headline": "45#4｜海底考古的觀測廳",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000492081fab07d9a2841a08a51",
@@ -1101,8 +1101,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/57_2_神楽_銀魂.png",
-      "prompt_file": "images/動漫全/57_2_神楽_銀魂.md",
+      "image": "images/動漫全/57B_神楽_銀魂-02.png",
+      "prompt_file": "images/動漫全/57B_神楽_銀魂-02.md",
       "headline": "57#2｜紅傘老街的點心",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_000000004ddc81faa21884e69efcc583",
@@ -1117,8 +1117,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/03_3_Cammy.png",
-      "prompt_file": "images/動漫全/03_3_Cammy.md",
+      "image": "images/動漫全/03B_Cammy-03.png",
+      "prompt_file": "images/動漫全/03B_Cammy-03.md",
       "headline": "03#3｜巷弄貓咪咖啡館",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000137c82309a418671cc504597",
@@ -1133,8 +1133,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/39_4_天道あかね.png",
-      "prompt_file": "images/動漫全/39_4_天道あかね.md",
+      "image": "images/動漫全/39B_天道あかね-04.png",
+      "prompt_file": "images/動漫全/39B_天道あかね-04.md",
       "headline": "39#4｜河堤運動節的終點",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000fe6c81fa877c5d6eaf19a0ca",
@@ -1149,8 +1149,8 @@
       "height": 1670
     },
     {
-      "image": "images/動漫全/53_2_神楽_犬夜叉.png",
-      "prompt_file": "images/動漫全/53_2_神楽_犬夜叉.md",
+      "image": "images/動漫全/53B_神楽_犬夜叉-02.png",
+      "prompt_file": "images/動漫全/53B_神楽_犬夜叉-02.md",
       "headline": "53#2｜羽扇工坊的金線",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000d24081fa98c9a31f85285942",
@@ -1165,8 +1165,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/33_4_Saber.png",
-      "prompt_file": "images/動漫全/33_4_Saber.md",
+      "image": "images/動漫全/33B_Saber-04.png",
+      "prompt_file": "images/動漫全/33B_Saber-04.md",
       "headline": "33#4｜宮廷長廊的晚樂",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000ae3081fa98ddf33af35bbd06",
@@ -1181,8 +1181,8 @@
       "height": 1672
     },
     {
-      "image": "images/動漫全/06_4_タキ.png",
-      "prompt_file": "images/動漫全/06_4_タキ.md",
+      "image": "images/動漫全/06B_タキ-04.png",
+      "prompt_file": "images/動漫全/06B_タキ-04.md",
       "headline": "06#4｜朱紅鳥居的夜雨",
       "source_share": "https://chatgpt.com/share/6ae98658-2a94-83ee-8904-5bf7fff05e0d",
       "source_file_id": "file_00000000368481fab9c303a445c01c35",
@@ -1197,5 +1197,6 @@
       "height": 1670
     }
   ],
-  "skipped": []
+  "skipped": [],
+  "filename_handling": "Current filenames use the fixed character ID plus B prefix, character name, and image variant; original PNG/MD contents remain unchanged."
 }
