@@ -17,6 +17,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "動漫全",
+    "src": "images/動漫全/50B_戦慄のタツマキ-03-02.png",
+    "hasDescription": true,
+    "title": "50B_戦慄のタツマキ-03-02",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "動漫全",
     "src": "images/動漫全/40B_九能小太刀-04.png",
     "hasDescription": true,
     "title": "40B_九能小太刀-04",
@@ -6152,6 +6160,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
+    "category": "動漫全",
+    "src": "images/動漫全/40B_九能小太刀-04-02.png",
+    "hasDescription": true,
+    "title": "40B_九能小太刀-04-02",
+    "width": 941,
+    "height": 1671
+  },
+  {
     "category": "故事",
     "src": "images/故事/062B_皮革工藝店的亮點.png",
     "hasDescription": true,
@@ -6406,6 +6422,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "023B_彩色港灣的散步",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "動漫全",
+    "src": "images/動漫全/51B_桔梗-04.png",
+    "hasDescription": true,
+    "title": "51B_桔梗-04",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "漫服",
@@ -6864,6 +6888,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "動漫全",
+    "src": "images/動漫全/39B_天道あかね-01.png",
+    "hasDescription": true,
+    "title": "39B_天道あかね-01",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "動漫",
     "src": "images/動漫/60A_暁美ほむら-01.png",
     "hasDescription": true,
@@ -7142,6 +7174,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "學院風針織背心+襯衫+長裙-01",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "動漫全",
+    "src": "images/動漫全/51B_桔梗-02.png",
+    "hasDescription": true,
+    "title": "51B_桔梗-02",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "故事",
