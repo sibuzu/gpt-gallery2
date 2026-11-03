@@ -17,19 +17,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "動漫全",
-    "src": "images/動漫全/50B_戦慄のタツマキ-03-02.png",
-    "hasDescription": true,
-    "title": "50B_戦慄のタツマキ-03-02",
-    "width": 941,
-    "height": 1670
-  },
-  {
-    "category": "動漫全",
     "src": "images/動漫全/40B_九能小太刀-04.png",
     "hasDescription": true,
     "title": "40B_九能小太刀-04",
     "width": 941,
-    "height": 1672
+    "height": 1671
   },
   {
     "category": "故事2",
@@ -286,6 +278,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "036B_工業藝廊的銀色",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "動漫全",
+    "src": "images/動漫全/46B_ペローナ-04.png",
+    "hasDescription": true,
+    "title": "46B_ペローナ-04",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "故事",
@@ -1957,7 +1957,7 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "50B_戦慄のタツマキ-03",
     "width": 941,
-    "height": 1672
+    "height": 1670
   },
   {
     "category": "故事2",
@@ -6156,14 +6156,6 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/漫服/07C_Sophitia-04.png",
     "hasDescription": true,
     "title": "07C_Sophitia-04",
-    "width": 941,
-    "height": 1671
-  },
-  {
-    "category": "動漫全",
-    "src": "images/動漫全/40B_九能小太刀-04-02.png",
-    "hasDescription": true,
-    "title": "40B_九能小太刀-04-02",
     "width": 941,
     "height": 1671
   },
