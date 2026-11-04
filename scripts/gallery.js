@@ -60,7 +60,7 @@ function observeCardImages() {
     const DEFAULT_CATEGORY = "全部";
     const CATEGORY_STORAGE_KEY = "gpt-gallery2-active-category";
     const PAGE_SIZE = 40;
-    const categories = ["全部", "清新", "性感", "動漫", "故事", "故事2", "動漫全"];
+    const categories = ["全部", "清新", "性感", "動漫", "故事", "故事2", "動漫全", "無重力"];
     let activeCategory = initialCategory();
     let currentImages = images;
     let currentGroups = [];
@@ -195,7 +195,7 @@ function observeCardImages() {
       }));
 
       for (const image of items) {
-        const key = basenameKey(image.title || image.src);
+        const key = image.category === "無重力" ? image.src : basenameKey(image.title || image.src);
         if (!groups.has(key)) {
           groups.set(key, []);
         }
