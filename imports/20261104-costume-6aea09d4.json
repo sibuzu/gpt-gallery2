@@ -13,8 +13,8 @@
   },
   "images": [
     {
-      "image": "images/漫服/29C_人造人間18号-02.png",
-      "prompt_file": "images/漫服/29C_人造人間18号-02.md",
+      "image": null,
+      "prompt_file": null,
       "headline": "29#2｜牛仔古著店的鏡子",
       "source_share": "https://chatgpt.com/share/6aea09d4-54c4-83ee-b9a5-9d24248ec29d",
       "source_file_id": "file_00000000dabc8206b2bf28b28e2f3c85",
@@ -26,7 +26,11 @@
       "output_sha256": "dba88b32b0d93b1ed451e0306dc59b83a546bf9ee3b7afee7975b63c2ab058d0",
       "size_bytes": 2831554,
       "width": 941,
-      "height": 1672
+      "height": 1672,
+      "image_at_import": "images/漫服/29C_人造人間18号-02.png",
+      "prompt_file_at_import": "images/漫服/29C_人造人間18号-02.md",
+      "status": "not_present_after_curation",
+      "present_at_last_verification": false
     },
     {
       "image": "images/漫服/49C_地獄のフブキ-04.png",
@@ -157,8 +161,8 @@
       "height": 1670
     },
     {
-      "image": "images/漫服/01C_不知火舞-02.png",
-      "prompt_file": "images/漫服/01C_不知火舞-02.md",
+      "image": null,
+      "prompt_file": null,
       "headline": "01#2｜紙傘工坊的扇面",
       "source_share": "https://chatgpt.com/share/6aea09d4-54c4-83ee-b9a5-9d24248ec29d",
       "source_file_id": "file_00000000e2448206a1734975e02ecb5b",
@@ -170,11 +174,15 @@
       "output_sha256": "d9139451f45b1aba60ba88f5c7e237818f8dbff8b3e58d11416ddb292b6303f4",
       "size_bytes": 2775238,
       "width": 942,
-      "height": 1670
+      "height": 1670,
+      "image_at_import": "images/漫服/01C_不知火舞-02.png",
+      "prompt_file_at_import": "images/漫服/01C_不知火舞-02.md",
+      "status": "not_present_after_curation",
+      "present_at_last_verification": false
     },
     {
-      "image": "images/漫服/50C_戦慄のタツマキ-01.png",
-      "prompt_file": "images/漫服/50C_戦慄のタツマキ-01.md",
+      "image": null,
+      "prompt_file": null,
       "headline": "50#1｜高樓平台的綠色氣流",
       "source_share": "https://chatgpt.com/share/6aea09d4-54c4-83ee-b9a5-9d24248ec29d",
       "source_file_id": "file_0000000076948206b0ef1fe308b20531",
@@ -186,7 +194,11 @@
       "output_sha256": "5dee52a4d7902b214429697c56c097befbbf55bd024efe856d62bee31ef26670",
       "size_bytes": 2510547,
       "width": 941,
-      "height": 1671
+      "height": 1671,
+      "image_at_import": "images/漫服/50C_戦慄のタツマキ-01.png",
+      "prompt_file_at_import": "images/漫服/50C_戦慄のタツマキ-01.md",
+      "status": "not_present_after_curation",
+      "present_at_last_verification": false
     },
     {
       "image": "images/漫服/48C_日向ヒナタ-01.png",
@@ -333,8 +345,8 @@
       "height": 1670
     },
     {
-      "image": "images/漫服/29C_人造人間18号-02-02.png",
-      "prompt_file": "images/漫服/29C_人造人間18号-02-02.md",
+      "image": null,
+      "prompt_file": null,
       "headline": "29#2｜牛仔古著店的鏡子",
       "source_share": "https://chatgpt.com/share/6aea09d4-54c4-83ee-b9a5-9d24248ec29d",
       "source_file_id": "file_000000007fc08206bdf6971724c5b767",
@@ -346,11 +358,15 @@
       "output_sha256": "5c7317e1cbca11cbd0f18ddafa79a505e84ad4b91a1d7147dc833c462028c575",
       "size_bytes": 2536449,
       "width": 942,
-      "height": 1670
+      "height": 1670,
+      "image_at_import": "images/漫服/29C_人造人間18号-02-02.png",
+      "prompt_file_at_import": "images/漫服/29C_人造人間18号-02-02.md",
+      "status": "not_present_after_curation",
+      "present_at_last_verification": false
     },
     {
-      "image": "images/漫服/29C_人造人間18号-02-03.png",
-      "prompt_file": "images/漫服/29C_人造人間18号-02-03.md",
+      "image": null,
+      "prompt_file": null,
       "headline": "29#2｜牛仔古著店的鏡子",
       "source_share": "https://chatgpt.com/share/6aea09d4-54c4-83ee-b9a5-9d24248ec29d",
       "source_file_id": "file_00000000b46c820696480b3045e99cc5",
@@ -362,7 +378,11 @@
       "output_sha256": "86dea2e8bb6da8c753c7cba93812311b48994e866b7d69ff4112e5d5f5cda912",
       "size_bytes": 2545953,
       "width": 942,
-      "height": 1670
+      "height": 1670,
+      "image_at_import": "images/漫服/29C_人造人間18号-02-03.png",
+      "prompt_file_at_import": "images/漫服/29C_人造人間18号-02-03.md",
+      "status": "not_present_after_curation",
+      "present_at_last_verification": false
     }
   ],
   "skipped": []

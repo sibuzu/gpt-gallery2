@@ -733,8 +733,8 @@
       "height": 1671
     },
     {
-      "image": "images/漫服/07C_Sophitia-03.png",
-      "prompt_file": "images/漫服/07C_Sophitia-03.md",
+      "image": null,
+      "prompt_file": null,
       "headline": "07#3｜橄欖園的石牆",
       "source_share": "https://chatgpt.com/share/6ae9ebb6-e794-83ee-87f0-c3c204a12623",
       "source_file_id": "file_000000004d2081fa8facc484c1a8361e",
@@ -746,7 +746,11 @@
       "output_sha256": "e7fef8e653e936a2790e3b66e28d1d42912e542b8557afb8a7c24af3b4057cb0",
       "size_bytes": 3171441,
       "width": 941,
-      "height": 1670
+      "height": 1670,
+      "image_at_import": "images/漫服/07C_Sophitia-03.png",
+      "prompt_file_at_import": "images/漫服/07C_Sophitia-03.md",
+      "status": "not_present_after_curation",
+      "present_at_last_verification": false
     },
     {
       "image": "images/漫服/46C_ペローナ-03.png",

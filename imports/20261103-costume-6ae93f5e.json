@@ -501,8 +501,8 @@
       "height": 1670
     },
     {
-      "image": "images/漫服/33C_Saber-03.png",
-      "prompt_file": "images/漫服/33C_Saber-03.md",
+      "image": null,
+      "prompt_file": null,
       "headline": "33#3｜英式庭園的蘋果派",
       "source_share": "https://chatgpt.com/share/6ae93f5e-1f88-83e8-a88c-f7b373e10952",
       "source_file_id": "file_00000000d8ec8206b37aa73c20d88f24",
@@ -514,7 +514,11 @@
       "output_sha256": "3b3b8d9f234bdf70bcc36773111d34a32f7214531043b8b92b6f80bca747ce3c",
       "size_bytes": 3095284,
       "width": 941,
-      "height": 1670
+      "height": 1670,
+      "image_at_import": "images/漫服/33C_Saber-03.png",
+      "prompt_file_at_import": "images/漫服/33C_Saber-03.md",
+      "status": "not_present_after_curation",
+      "present_at_last_verification": false
     },
     {
       "image": "images/漫服/38C_久遠寺右京-02.png",

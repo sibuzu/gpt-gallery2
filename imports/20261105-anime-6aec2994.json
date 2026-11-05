@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-05",
+  "category": "動漫全",
+  "image_handling": "Original source PNG bytes preserved; no resizing, recompression, or mirroring.",
+  "prompt_handling": "Full original user prompt including its numbered headline; no share link appended.",
+  "deduplication": "Compared SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, against all existing gallery categories and this import.",
+  "summary": {
+    "unique_generated_source_images": 7,
+    "added": 7,
+    "skipped_existing_duplicates": 0,
+    "added_by_character": {
+      "甘露寺蜜璃": 2,
+      "竈門禰豆子": 2,
+      "胡蝶しのぶ": 3
+    }
+  },
+  "images": [
+    {
+      "category": "動漫全",
+      "collection": "B",
+      "image": "images/動漫全/66B_甘露寺蜜璃-01.png",
+      "prompt_file": "images/動漫全/66B_甘露寺蜜璃-01.md",
+      "headline": "66#1｜櫻花道場的春風",
+      "source_file_id": "file_00000000061c81fa934ce315752d9277",
+      "original_sha256": "b1574e9951ce7d7805ba596ea45317e20079686845be1c1a1b5b7cb01543a438",
+      "output_sha256": "b1574e9951ce7d7805ba596ea45317e20079686845be1c1a1b5b7cb01543a438",
+      "size_bytes": 3220269,
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "category": "動漫全",
+      "collection": "B",
+      "image": "images/動漫全/64B_竈門禰豆子-03.png",
+      "prompt_file": "images/動漫全/64B_竈門禰豆子-03.md",
+      "headline": "64#3｜山城布店的粉紋",
+      "source_file_id": "file_000000000f408211b25fdb93a968b8ca",
+      "original_sha256": "77516ea8f6192fde825a76cf249dc79475f3e0bd98d7f66e3f0ef70c4ad4f597",
+      "output_sha256": "77516ea8f6192fde825a76cf249dc79475f3e0bd98d7f66e3f0ef70c4ad4f597",
+      "size_bytes": 2703933,
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "category": "動漫全",
+      "collection": "B",
+      "image": "images/動漫全/65B_胡蝶しのぶ-01.png",
+      "prompt_file": "images/動漫全/65B_胡蝶しのぶ-01.md",
+      "headline": "65#1｜蝶屋藥櫃的晨光",
+      "source_file_id": "file_000000007b608211b9d2f4f5966725fd",
+      "original_sha256": "067ee20dc3f7f630adbbd90b35dc6233995134c1a397df3bc694774cd5d8f35c",
+      "output_sha256": "067ee20dc3f7f630adbbd90b35dc6233995134c1a397df3bc694774cd5d8f35c",
+      "size_bytes": 2464444,
+      "width": 941,
+      "height": 1671
+    },
+    {
+      "category": "動漫全",
+      "collection": "B",
+      "image": "images/動漫全/65B_胡蝶しのぶ-04.png",
+      "prompt_file": "images/動漫全/65B_胡蝶しのぶ-04.md",
+      "headline": "65#4｜紫藤庭院的晚茶",
+      "source_file_id": "file_00000000ee6081f78169e2371adc7bd3",
+      "original_sha256": "9ff14c026949ce480ebb4daba9bedad50558e623db1a7bf141219705b8265b90",
+      "output_sha256": "9ff14c026949ce480ebb4daba9bedad50558e623db1a7bf141219705b8265b90",
+      "size_bytes": 2782187,
+      "width": 941,
+      "height": 1671
+    },
+    {
+      "category": "動漫全",
+      "collection": "B",
+      "image": "images/動漫全/65B_胡蝶しのぶ-02.png",
+      "prompt_file": "images/動漫全/65B_胡蝶しのぶ-02.md",
+      "headline": "65#2｜藤花長廊的蝶影",
+      "source_file_id": "file_000000007bf882118444926e56aed63e",
+      "original_sha256": "351b09c154b258b5f90316b5fe0c2cf0e6009fa6459dd559c283e27148cd2b03",
+      "output_sha256": "351b09c154b258b5f90316b5fe0c2cf0e6009fa6459dd559c283e27148cd2b03",
+      "size_bytes": 2907412,
+      "width": 941,
+      "height": 1671
+    },
+    {
+      "category": "動漫全",
+      "collection": "B",
+      "image": "images/動漫全/66B_甘露寺蜜璃-03.png",
+      "prompt_file": "images/動漫全/66B_甘露寺蜜璃-03.md",
+      "headline": "66#3｜綠葉書店的窗邊",
+      "source_file_id": "file_000000007df081f786dca462e317a339",
+      "original_sha256": "0e464d70d6c3a117c18f02f8e7b59d97a1fa56c8f1b944aae68925f41031828b",
+      "output_sha256": "0e464d70d6c3a117c18f02f8e7b59d97a1fa56c8f1b944aae68925f41031828b",
+      "size_bytes": 2720033,
+      "width": 941,
+      "height": 1671
+    },
+    {
+      "category": "動漫全",
+      "collection": "B",
+      "image": "images/動漫全/64B_竈門禰豆子-02.png",
+      "prompt_file": "images/動漫全/64B_竈門禰豆子-02.md",
+      "headline": "64#2｜竹林茶屋的紙燈",
+      "source_file_id": "file_000000005bcc820bba91e9aefba87fbd",
+      "original_sha256": "0541e5e7ce64546011212850242c09244f7c66da5e7ed48165664eedae3c1877",
+      "output_sha256": "0541e5e7ce64546011212850242c09244f7c66da5e7ed48165664eedae3c1877",
+      "size_bytes": 2698955,
+      "width": 941,
+      "height": 1670
+    }
+  ],
+  "skipped": []
+}

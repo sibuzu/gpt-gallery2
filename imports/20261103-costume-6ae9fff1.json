@@ -237,8 +237,8 @@
       "height": 1672
     },
     {
-      "image": "images/漫服/37C_シャンプー-04.png",
-      "prompt_file": "images/漫服/37C_シャンプー-04.md",
+      "image": null,
+      "prompt_file": null,
       "headline": "37#4｜花燈遊園的廊橋",
       "source_share": "https://chatgpt.com/share/6ae9fff1-fb64-83ee-85b3-43d0470f2c33",
       "source_file_id": "file_00000000a58481fa90a1272be80b9851",
@@ -250,7 +250,11 @@
       "output_sha256": "f5f37be92bbf48d3742bc6a0952eaca578219ee87dd5e2369a9006bfec56dfda",
       "size_bytes": 2761127,
       "width": 941,
-      "height": 1671
+      "height": 1671,
+      "image_at_import": "images/漫服/37C_シャンプー-04.png",
+      "prompt_file_at_import": "images/漫服/37C_シャンプー-04.md",
+      "status": "not_present_after_curation",
+      "present_at_last_verification": false
     },
     {
       "image": "images/漫服/21C_ヨーコ・リットナー-01.png",

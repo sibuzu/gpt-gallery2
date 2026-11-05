@@ -29,8 +29,8 @@
       "height": 1672
     },
     {
-      "image": "images/漫服/61C_巴マミ-03.png",
-      "prompt_file": "images/漫服/61C_巴マミ-03.md",
+      "image": null,
+      "prompt_file": null,
       "headline": "61#3｜博物館的古典槍工藝",
       "source_share": "https://chatgpt.com/share/6ae952d7-5334-83ee-aa28-02210d40393f",
       "source_file_id": "file_0000000024d481faa53b55a199880c3a",
@@ -42,7 +42,11 @@
       "output_sha256": "c397d42652b714584206d3b2a02b24b5e9c4bc6aa4814cf0e4bcd5e828105249",
       "size_bytes": 2796621,
       "width": 941,
-      "height": 1672
+      "height": 1672,
+      "image_at_import": "images/漫服/61C_巴マミ-03.png",
+      "prompt_file_at_import": "images/漫服/61C_巴マミ-03.md",
+      "status": "not_present_after_curation",
+      "present_at_last_verification": false
     },
     {
       "image": "images/漫服/12C_シェルミー-02.png",

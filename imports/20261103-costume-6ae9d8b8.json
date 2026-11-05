@@ -13,8 +13,8 @@
   },
   "images": [
     {
-      "image": "images/漫服/22C_Boa Hancock-01.png",
-      "prompt_file": "images/漫服/22C_Boa Hancock-01.md",
+      "image": null,
+      "prompt_file": null,
       "headline": "22#1｜九蛇宮殿的晨階",
       "source_share": "https://chatgpt.com/share/6ae9d8b8-a7bc-83e8-bd0b-83509b0c2a0e",
       "source_file_id": "file_000000009de081f5b5247929e0bcf6a4",
@@ -26,11 +26,15 @@
       "output_sha256": "00d39258cfd75e616c3b8cc4f56dab36fa71f1183b1900cd8d264aa7b35f01ae",
       "size_bytes": 3317760,
       "width": 941,
-      "height": 1672
+      "height": 1672,
+      "image_at_import": "images/漫服/22C_Boa Hancock-01.png",
+      "prompt_file_at_import": "images/漫服/22C_Boa Hancock-01.md",
+      "status": "not_present_after_curation",
+      "present_at_last_verification": false
     },
     {
-      "image": "images/漫服/22C_Boa Hancock-01-02.png",
-      "prompt_file": "images/漫服/22C_Boa Hancock-01-02.md",
+      "image": "images/漫服/22C_Boa Hancock-01.png",
+      "prompt_file": "images/漫服/22C_Boa Hancock-01.md",
       "headline": "22#1｜九蛇宮殿的晨階",
       "source_share": "https://chatgpt.com/share/6ae9d8b8-a7bc-83e8-bd0b-83509b0c2a0e",
       "source_file_id": "file_000000001bf481fabc6d3c7f2427c9dd",
@@ -42,7 +46,14 @@
       "output_sha256": "9bd8cd43ab02b29172dbe41b7c8320b0e295cbdd34cdaf9e4c76c6413eb9e235",
       "size_bytes": 2949216,
       "width": 941,
-      "height": 1672
+      "height": 1672,
+      "image_at_import": "images/漫服/22C_Boa Hancock-01-02.png",
+      "prompt_file_at_import": "images/漫服/22C_Boa Hancock-01-02.md",
+      "previous_image_paths": [
+        "images/漫服/22C_Boa Hancock-01-02.png"
+      ],
+      "status": "renamed_after_curation",
+      "present_at_last_verification": true
     },
     {
       "image": "images/漫服/02C_春麗-04.png",
