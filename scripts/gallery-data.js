@@ -352,14 +352,6 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
-    "category": "動漫全",
-    "src": "images/動漫全/46B_ペローナ-04.png",
-    "hasDescription": true,
-    "title": "46B_ペローナ-04",
-    "width": 941,
-    "height": 1671
-  },
-  {
     "category": "故事",
     "src": "images/故事/105A_設計書展的線條.png",
     "hasDescription": true,
@@ -430,6 +422,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "06A_タキ-03",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "構圖",
+    "src": "images/構圖/無重力天空-01.png",
+    "hasDescription": true,
+    "title": "無重力天空-01",
+    "width": 940,
+    "height": 1672
   },
   {
     "category": "故事",
@@ -960,6 +960,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "自動",
+    "src": "images/自動/巷弄貓咪咖啡館-01.png",
+    "hasDescription": true,
+    "title": "巷弄貓咪咖啡館-01",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "漫服",
     "src": "images/漫服/43C_ブルマ-01.png",
     "hasDescription": true,
@@ -1464,6 +1472,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
+    "category": "自動",
+    "src": "images/自動/雲海甲板的晨風-01.png",
+    "hasDescription": true,
+    "title": "雲海甲板的晨風-01",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "動漫",
     "src": "images/動漫/30A_明日香-03.png",
     "hasDescription": true,
@@ -1576,6 +1592,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "自動",
+    "src": "images/自動/海邊音樂亭的晨風-03.png",
+    "hasDescription": true,
+    "title": "海邊音樂亭的晨風-03",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "故事",
     "src": "images/故事/024A_河岸玻璃花店.png",
     "hasDescription": true,
@@ -1632,6 +1656,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "自動",
+    "src": "images/自動/紅茶沙龍的第一杯-02.png",
+    "hasDescription": true,
+    "title": "紅茶沙龍的第一杯-02",
+    "width": 942,
+    "height": 1669
+  },
+  {
     "category": "故事",
     "src": "images/故事/138B_紅色雕塑的對話.png",
     "hasDescription": true,
@@ -1646,6 +1678,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "16B_ルールー-03",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "自動",
+    "src": "images/自動/幽靈城堡的早餐-02.png",
+    "hasDescription": true,
+    "title": "幽靈城堡的早餐-02",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "故事2",
@@ -1792,6 +1832,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "構圖",
+    "src": "images/構圖/荒原旅店的黃昏-01.png",
+    "hasDescription": true,
+    "title": "荒原旅店的黃昏-01",
+    "width": 940,
+    "height": 1672
+  },
+  {
     "category": "故事2",
     "src": "images/故事2/110B_馬賽克廣場的橘光.png",
     "hasDescription": true,
@@ -1856,6 +1904,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "自動",
+    "src": "images/自動/航海圖室的晨光-03.png",
+    "hasDescription": true,
+    "title": "航海圖室的晨光-03",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "性感",
     "src": "images/性感/掛脖上衣+不對稱迷你裙-02.png",
     "hasDescription": true,
@@ -1870,6 +1926,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "V領腰側鏤空無袖連身裙-05",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "自動",
+    "src": "images/自動/月亮花園的早餐-02.png",
+    "hasDescription": true,
+    "title": "月亮花園的早餐-02",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "無重力",
@@ -2430,6 +2494,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "143B_植物展園的寫生板",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "構圖",
+    "src": "images/構圖/金紋展廳的晚宴-01.png",
+    "hasDescription": true,
+    "title": "金紋展廳的晚宴-01",
+    "width": 940,
+    "height": 1672
   },
   {
     "category": "性感",
@@ -3022,6 +3094,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "66C_甘露寺蜜璃-01",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "自動",
+    "src": "images/自動/橘子園的收成-01.png",
+    "hasDescription": true,
+    "title": "橘子園的收成-01",
+    "width": 942,
+    "height": 1669
   },
   {
     "category": "故事",
@@ -3680,6 +3760,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "自動",
+    "src": "images/自動/水族館的藍色星點-01.png",
+    "hasDescription": true,
+    "title": "水族館的藍色星點-01",
+    "width": 942,
+    "height": 1669
+  },
+  {
     "category": "故事2",
     "src": "images/故事2/080A_藍調音樂廳的等待.png",
     "hasDescription": true,
@@ -3984,6 +4072,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "動漫全",
+    "src": "images/動漫全/46B_ペローナ-04.png",
+    "hasDescription": true,
+    "title": "46B_ペローナ-04",
+    "width": 941,
+    "height": 1671
+  },
+  {
     "category": "故事",
     "src": "images/故事/102A_珍珠工坊的展示窗.png",
     "hasDescription": true,
@@ -4174,6 +4270,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "061B_屋頂香草花園",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "自動",
+    "src": "images/自動/古堡露台的月光-01.png",
+    "hasDescription": true,
+    "title": "古堡露台的月光-01",
+    "width": 942,
+    "height": 1669
   },
   {
     "category": "故事",
@@ -4480,6 +4584,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1669
   },
   {
+    "category": "自動",
+    "src": "images/自動/時間裝置的夜展-01.png",
+    "hasDescription": true,
+    "title": "時間裝置的夜展-01",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "漫服",
     "src": "images/漫服/51C_桔梗-04.png",
     "hasDescription": true,
@@ -4550,6 +4662,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "無重力-074",
     "width": 940,
     "height": 1672
+  },
+  {
+    "category": "自動",
+    "src": "images/自動/玫瑰庭院的晨露-01.png",
+    "hasDescription": true,
+    "title": "玫瑰庭院的晨露-01",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "性感",
@@ -4662,6 +4782,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "43B_ブルマ-01",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "自動",
+    "src": "images/自動/海灣露台的琴聲-01.png",
+    "hasDescription": true,
+    "title": "海灣露台的琴聲-01",
+    "width": 942,
+    "height": 1669
   },
   {
     "category": "動漫全",
@@ -5432,6 +5560,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "自動",
+    "src": "images/自動/幽靈城堡的早餐-01.png",
+    "hasDescription": true,
+    "title": "幽靈城堡的早餐-01",
+    "width": 942,
+    "height": 1669
+  },
+  {
     "category": "漫服",
     "src": "images/漫服/06C_タキ-02.png",
     "hasDescription": true,
@@ -5524,6 +5660,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/故事/114A_紫色花紙店的小選擇.png",
     "hasDescription": true,
     "title": "114A_紫色花紙店的小選擇",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "自動",
+    "src": "images/自動/紅茶沙龍的第一杯-01.png",
+    "hasDescription": true,
+    "title": "紅茶沙龍的第一杯-01",
     "width": 942,
     "height": 1670
   },
@@ -5662,6 +5806,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "142A_植物版畫的小展間",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "自動",
+    "src": "images/自動/荒原旅店的黃昏-01.png",
+    "hasDescription": true,
+    "title": "荒原旅店的黃昏-01",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "漫服",
@@ -6528,6 +6680,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
+    "category": "自動",
+    "src": "images/自動/遺跡圖書館的拓片-01.png",
+    "hasDescription": true,
+    "title": "遺跡圖書館的拓片-01",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "故事2",
     "src": "images/故事2/120A_古籍書庫的靜謐.png",
     "hasDescription": true,
@@ -7336,6 +7496,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "自動",
+    "src": "images/自動/蝙蝠玻璃花房-01.png",
+    "hasDescription": true,
+    "title": "蝙蝠玻璃花房-01",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "動漫全",
     "src": "images/動漫全/34B_初音ミク-04.png",
     "hasDescription": true,
@@ -7568,6 +7736,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1536
   },
   {
+    "category": "自動",
+    "src": "images/自動/雷光雲海的觀景台-01.png",
+    "hasDescription": true,
+    "title": "雷光雲海的觀景台-01",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "動漫全",
     "src": "images/動漫全/35B_峰不二子-04.png",
     "hasDescription": true,
@@ -7782,6 +7958,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "65C_胡蝶しのぶ-04-02",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "自動",
+    "src": "images/自動/沙漠機械驛站-01.png",
+    "hasDescription": true,
+    "title": "沙漠機械驛站-01",
+    "width": 942,
+    "height": 1669
   },
   {
     "category": "故事2",
@@ -8310,6 +8494,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "42C_弁天-03",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "自動",
+    "src": "images/自動/山村花田的休息-01.png",
+    "hasDescription": true,
+    "title": "山村花田的休息-01",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "動漫",
@@ -8868,6 +9060,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/性感/馬甲式短上衣+高腰百褶迷你裙-01.png",
     "hasDescription": true,
     "title": "馬甲式短上衣+高腰百褶迷你裙-01",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "自動",
+    "src": "images/自動/皮套工坊的雙扣-01.png",
+    "hasDescription": true,
+    "title": "皮套工坊的雙扣-01",
     "width": 941,
     "height": 1672
   },
@@ -9576,6 +9776,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "自動",
+    "src": "images/自動/海邊音樂亭的晨風-02.png",
+    "hasDescription": true,
+    "title": "海邊音樂亭的晨風-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "故事",
     "src": "images/故事/014A_乾燥花的小收藏.png",
     "hasDescription": true,
@@ -9604,6 +9812,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/無重力/無重力-017.png",
     "hasDescription": true,
     "title": "無重力-017",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "無重力",
+    "src": "images/無重力/無重力-145.png",
+    "hasDescription": true,
+    "title": "無重力-145",
     "width": 941,
     "height": 1672
   },
@@ -10598,6 +10814,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "104B_古董燈具店的光澤",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "自動",
+    "src": "images/自動/陶盤小舖的選擇-01.png",
+    "hasDescription": true,
+    "title": "陶盤小舖的選擇-01",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "漫服",

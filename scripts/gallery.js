@@ -60,7 +60,7 @@ function observeCardImages() {
     const DEFAULT_CATEGORY = "全部";
     const CATEGORY_STORAGE_KEY = "gpt-gallery2-active-category";
     const PAGE_SIZE = 40;
-    const categories = ["全部", "清新", "性感", "動漫", "故事", "故事2", "動漫全", "無重力", "自動"];
+    const categories = ["全部", "清新", "性感", "動漫", "故事", "故事2", "動漫全", "無重力", "自動", "構圖"];
     let activeCategory = initialCategory();
     let currentImages = images;
     let currentGroups = [];

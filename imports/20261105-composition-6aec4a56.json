@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-05",
+  "image_handling": "Randomly selected approximately 50% of new images horizontally mirrored with a lossless PNG transform; other source PNG bytes preserved.",
+  "prompt_handling": "Full original user prompts preserved in matching Markdown files; no share links appended.",
+  "deduplication": "SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, compared against all gallery categories and this batch.",
+  "summary": {
+    "source_images": 3,
+    "added": 3,
+    "added_by_category": {
+      "構圖": 3
+    },
+    "horizontally_mirrored": 2,
+    "skipped_duplicates": 0,
+    "repeated_image_references": 0
+  },
+  "images": [
+    {
+      "category": "構圖",
+      "scene": "無重力空間，天空。",
+      "image": "images/構圖/無重力天空-01.png",
+      "prompt_file": "images/構圖/無重力天空-01.md",
+      "source_file_id": "file_00000000222c81f5acba70a03dbaa053",
+      "source_message_id": "f6c68947-a690-4cfa-b8b9-e1c391ff27b2",
+      "source_prompt_message_id": "547078e9-ba6a-449f-8b70-55261c5e2ac7",
+      "original_sha256": "4207fb3b0d6aae7de037b34de9d2bbe011a0279a15e0dd056ad13b57e08a9f9b",
+      "width": 940,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "940416decf8ca158ec892ec8ca19062fbf3c23af2426f1addf7644076f667218",
+      "size_bytes": 2225159
+    },
+    {
+      "category": "構圖",
+      "scene": "金紋展廳的晚宴",
+      "image": "images/構圖/金紋展廳的晚宴-01.png",
+      "prompt_file": "images/構圖/金紋展廳的晚宴-01.md",
+      "source_file_id": "file_00000000a91881f58fbcbd5ab1ec3afe",
+      "source_message_id": "8d7dcc3f-b305-4864-bf5b-fa6c1d33c6aa",
+      "source_prompt_message_id": "680d6671-5ef6-4bc6-9c9f-cde654d17891",
+      "original_sha256": "698aa41ff9016f5cdfe8dd49ef29e9c106e97d32a61d24cc8b947360e1193227",
+      "width": 940,
+      "height": 1672,
+      "horizontal_mirror": false,
+      "output_sha256": "698aa41ff9016f5cdfe8dd49ef29e9c106e97d32a61d24cc8b947360e1193227",
+      "size_bytes": 2021975
+    },
+    {
+      "category": "構圖",
+      "scene": "荒原旅店的黃昏",
+      "image": "images/構圖/荒原旅店的黃昏-01.png",
+      "prompt_file": "images/構圖/荒原旅店的黃昏-01.md",
+      "source_file_id": "file_000000000d4081fa808b6846dcfb204a",
+      "source_message_id": "7df1dc5f-9273-40e7-8c2d-6a08925a0c60",
+      "source_prompt_message_id": "8c8507df-5eca-4f18-8b2b-1612c1b72a2f",
+      "original_sha256": "2e09319bf8b3271cda7a859ea323cd28fbba94f0496c1b6f5aa696f84d1fdba3",
+      "width": 940,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "5098132588dde52d6be354fbd950e9444638dc200ad188042329e25c89b230fe",
+      "size_bytes": 2137226
+    }
+  ],
+  "skipped": [],
+  "repeated_references": []
+}
