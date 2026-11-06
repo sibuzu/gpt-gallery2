@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-06",
+  "image_handling": "Randomly selected approximately 50% of new images horizontally mirrored with a lossless PNG transform; other source PNG bytes preserved.",
+  "prompt_handling": "Full original user prompts preserved in matching Markdown files; no share links appended.",
+  "deduplication": "SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, compared against all gallery categories and this batch.",
+  "summary": {
+    "source_batches": {
+      "6aed35b4": 4
+    },
+    "source_images": 4,
+    "added": 4,
+    "added_by_category": {
+      "構圖": 4
+    },
+    "horizontally_mirrored": 2,
+    "skipped_duplicates": 0,
+    "repeated_image_references": 2
+  },
+  "images": [
+    {
+      "category": "構圖",
+      "scene": "魔法的森林溪流",
+      "scene_source": "prompt_and_image",
+      "image": "images/構圖/魔法的森林溪流-01.png",
+      "prompt_file": "images/構圖/魔法的森林溪流-01.md",
+      "source_batch": "6aed35b4",
+      "source_file_id": "file_000000002c6881f48dfb99ba9658f5b8",
+      "source_message_id": "513f0fc7-875c-4caa-bf19-2fcfa7e586eb",
+      "source_prompt_message_id": "53fda430-32b7-4e4c-8493-431ff8fefa59",
+      "original_sha256": "d5ac8b45fefa01a9bfced0490da46b6d67219920892e6ca5ac4f544fb36ad82d",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "imported_at": "2026-11-06T10:07:59.344328+08:00",
+      "output_sha256": "31840e114381ae5281ee41ea46409fe5d1899593800c92ca695ea4e627d7809e",
+      "size_bytes": 2874606
+    },
+    {
+      "category": "構圖",
+      "scene": "魔法的森林溪流",
+      "scene_source": "prompt_and_image",
+      "image": "images/構圖/魔法的森林溪流-02.png",
+      "prompt_file": "images/構圖/魔法的森林溪流-02.md",
+      "source_batch": "6aed35b4",
+      "source_file_id": "file_0000000052d4820b806b74098da43dfc",
+      "source_message_id": "b0cf894c-65d9-468a-8993-d3b3add903b3",
+      "source_prompt_message_id": "4eb95861-208e-4dd4-8c51-30786d590b70",
+      "original_sha256": "7edd5ec0d1c9dfb8baf92f24b3afaa4ce328af5ef3a59d9eeb295666b17a90c4",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": false,
+      "imported_at": "2026-11-06T10:07:59.344329+08:00",
+      "output_sha256": "7edd5ec0d1c9dfb8baf92f24b3afaa4ce328af5ef3a59d9eeb295666b17a90c4",
+      "size_bytes": 3219716
+    },
+    {
+      "category": "構圖",
+      "scene": "海上金色珍珠貝殼",
+      "scene_source": "prompt_and_image",
+      "image": "images/構圖/海上金色珍珠貝殼-01.png",
+      "prompt_file": "images/構圖/海上金色珍珠貝殼-01.md",
+      "source_batch": "6aed35b4",
+      "source_file_id": "file_00000000052481f8a6eb4e0fe27a8ec0",
+      "source_message_id": "6f417f14-b304-4dcc-822c-fbd95821a209",
+      "source_prompt_message_id": "620461bb-36c7-4fdd-b47d-ddc9a300c7ae",
+      "original_sha256": "6282358ae42c124ca8a29eb6bb3d894fa7c15c2efc9f293dab3d5d39a95bdb6e",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "imported_at": "2026-11-06T10:07:59.344330+08:00",
+      "output_sha256": "7fdd71535e99889ac506b06113fa8d848f728efc1c9d392b3bd3e40f5b0df044",
+      "size_bytes": 2823130
+    },
+    {
+      "category": "構圖",
+      "scene": "魔法的森林溪流",
+      "scene_source": "image",
+      "image": "images/構圖/魔法的森林溪流-03.png",
+      "prompt_file": "images/構圖/魔法的森林溪流-03.md",
+      "source_batch": "6aed35b4",
+      "source_file_id": "file_00000000665081fab55182ef580e6b8c",
+      "source_message_id": "bec80e09-175e-4abd-9e3c-14a09a86241b",
+      "source_prompt_message_id": "a62e77a7-4577-492b-9ac3-0b4f5dd73fcf",
+      "original_sha256": "0acfbd3463dc4c6fe317e73ec6e0d3765acfee31bdf7b9ad0818d7b927500201",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": false,
+      "imported_at": "2026-11-06T10:07:59.344331+08:00",
+      "output_sha256": "0acfbd3463dc4c6fe317e73ec6e0d3765acfee31bdf7b9ad0818d7b927500201",
+      "size_bytes": 2470003
+    }
+  ],
+  "skipped": [],
+  "repeated_references": [
+    {
+      "source_file_id": "file_000000002c6881f48dfb99ba9658f5b8",
+      "source_message_id": "ef417608-7df4-4801-a7bf-ff1b1998b8dd",
+      "reason": "repeated_reference"
+    },
+    {
+      "source_file_id": "file_0000000052d4820b806b74098da43dfc",
+      "source_message_id": "fd76a47a-abf5-4f0d-8c5f-02d245cf240f",
+      "reason": "repeated_reference"
+    }
+  ]
+}
