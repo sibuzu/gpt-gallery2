@@ -5,14 +5,15 @@
   "deduplication": "SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, compared against all gallery categories and this batch.",
   "summary": {
     "source_images": 25,
-    "added": 25,
+    "added": 23,
     "added_by_category": {
-      "自動": 24,
+      "自動": 22,
       "無重力": 1
     },
-    "horizontally_mirrored": 13,
+    "horizontally_mirrored": 11,
     "skipped_duplicates": 0,
-    "repeated_image_references": 2
+    "repeated_image_references": 2,
+    "removed_after_import": 2
   },
   "images": [
     {
@@ -287,21 +288,6 @@
     },
     {
       "category": "自動",
-      "scene": "紅茶沙龍的第一杯",
-      "image": "images/自動/紅茶沙龍的第一杯-02.png",
-      "prompt_file": "images/自動/紅茶沙龍的第一杯-02.md",
-      "source_file_id": "file_00000000615881faa19453e0344d0037",
-      "source_message_id": "aa3a1722-5977-4012-ae9d-9bf420f3fc82",
-      "source_prompt_message_id": "ff9c3b33-238e-45fd-91a7-dc5e8d276689",
-      "original_sha256": "118b3ce1967bcba18bbd151f516ac29f583131649f189fa872c143a633fa48d8",
-      "width": 942,
-      "height": 1669,
-      "horizontal_mirror": true,
-      "output_sha256": "8e6145d170639bceb2fc687876cf0a120ddd57557d0b54b92c53d792fbdd9fd8",
-      "size_bytes": 2862516
-    },
-    {
-      "category": "自動",
       "scene": "沙漠機械驛站",
       "image": "images/自動/沙漠機械驛站-01.png",
       "prompt_file": "images/自動/沙漠機械驛站-01.md",
@@ -348,8 +334,8 @@
     {
       "category": "無重力",
       "scene": "無重力空間，天空。",
-      "image": "images/無重力/無重力-145.png",
-      "prompt_file": "images/無重力/無重力-145.md",
+      "image": "images/無重力/後仰扶頭伸手-03.png",
+      "prompt_file": "images/無重力/後仰扶頭伸手-03.md",
       "source_file_id": "file_000000000104821091e0306b824a925f",
       "source_message_id": "b28b8050-da82-4d9b-bf4e-ab51a510d9ef",
       "source_prompt_message_id": "57dbaeb6-e7f7-4db8-b065-0e0a3826f363",
@@ -358,7 +344,8 @@
       "height": 1672,
       "horizontal_mirror": false,
       "output_sha256": "137c24a0d2acc060a3b92a9880e37d477fe76501cbfcdefa37beb157291ca15b",
-      "size_bytes": 2805198
+      "size_bytes": 2805198,
+      "pose": "後仰扶頭伸手"
     },
     {
       "category": "自動",
@@ -374,21 +361,6 @@
       "horizontal_mirror": true,
       "output_sha256": "f0a68e4c06aabbd19a9b630e9bb3135d5d5cd95895474e383fb1330fd44fade4",
       "size_bytes": 2756865
-    },
-    {
-      "category": "自動",
-      "scene": "幽靈城堡的早餐",
-      "image": "images/自動/幽靈城堡的早餐-02.png",
-      "prompt_file": "images/自動/幽靈城堡的早餐-02.md",
-      "source_file_id": "file_0000000066e481fab2264462e281263b",
-      "source_message_id": "8525ef1d-cf3a-4916-b278-3e516e953333",
-      "source_prompt_message_id": "c8419ea2-ea2b-4082-9588-7a7c79ef09de",
-      "original_sha256": "b714994a7c502e0a73257370cad8733981ff7c60f9f490fe87dd266e9beaf4b4",
-      "width": 941,
-      "height": 1672,
-      "horizontal_mirror": true,
-      "output_sha256": "0517b0c3c14e2340911e10789e0c179d9fcba677143bf598eb6249fb11601204",
-      "size_bytes": 2710963
     }
   ],
   "skipped": [],
@@ -402,6 +374,42 @@
       "source_file_id": "file_000000000104821091e0306b824a925f",
       "source_message_id": "5bbcb844-867c-4e7d-8895-2379b4e15a9f",
       "reason": "repeated_reference"
+    }
+  ],
+  "removed_after_import": [
+    {
+      "category": "自動",
+      "scene": "幽靈城堡的早餐",
+      "image": "images/自動/幽靈城堡的早餐-02.png",
+      "prompt_file": "images/自動/幽靈城堡的早餐-02.md",
+      "source_file_id": "file_0000000066e481fab2264462e281263b",
+      "source_message_id": "8525ef1d-cf3a-4916-b278-3e516e953333",
+      "source_prompt_message_id": "c8419ea2-ea2b-4082-9588-7a7c79ef09de",
+      "original_sha256": "b714994a7c502e0a73257370cad8733981ff7c60f9f490fe87dd266e9beaf4b4",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "0517b0c3c14e2340911e10789e0c179d9fcba677143bf598eb6249fb11601204",
+      "size_bytes": 2710963,
+      "removed_on": "2026-11-05T20:35:51.739838+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
+    },
+    {
+      "category": "自動",
+      "scene": "紅茶沙龍的第一杯",
+      "image": "images/自動/紅茶沙龍的第一杯-02.png",
+      "prompt_file": "images/自動/紅茶沙龍的第一杯-02.md",
+      "source_file_id": "file_00000000615881faa19453e0344d0037",
+      "source_message_id": "aa3a1722-5977-4012-ae9d-9bf420f3fc82",
+      "source_prompt_message_id": "ff9c3b33-238e-45fd-91a7-dc5e8d276689",
+      "original_sha256": "118b3ce1967bcba18bbd151f516ac29f583131649f189fa872c143a633fa48d8",
+      "width": 942,
+      "height": 1669,
+      "horizontal_mirror": true,
+      "output_sha256": "8e6145d170639bceb2fc687876cf0a120ddd57557d0b54b92c53d792fbdd9fd8",
+      "size_bytes": 2862516,
+      "removed_on": "2026-11-05T20:36:29.329431+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
     }
   ]
 }

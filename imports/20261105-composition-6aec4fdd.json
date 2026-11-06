@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-05",
+  "image_handling": "Randomly selected approximately 50% of new images horizontally mirrored with a lossless PNG transform; other source PNG bytes preserved.",
+  "prompt_handling": "Full original user prompts preserved in matching Markdown files; no share links appended.",
+  "deduplication": "SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, compared against all gallery categories and this batch.",
+  "summary": {
+    "source_images": 1,
+    "added": 0,
+    "added_by_category": {},
+    "horizontally_mirrored": 0,
+    "skipped_duplicates": 0,
+    "repeated_image_references": 0,
+    "removed_after_import": 1
+  },
+  "images": [],
+  "skipped": [],
+  "repeated_references": [],
+  "removed_after_import": [
+    {
+      "category": "構圖",
+      "scene": "花藝教室的金緞帶",
+      "image": "images/構圖/花藝教室的金緞帶-01.png",
+      "prompt_file": "images/構圖/花藝教室的金緞帶-01.md",
+      "source_file_id": "file_0000000068a081fa87553e7719a33b31",
+      "source_message_id": "e48c4802-43b1-4bc3-af5a-9cc1d3d9d3f1",
+      "source_prompt_message_id": "9bc2741b-d8f4-438c-9aed-66b528097df1",
+      "original_sha256": "f4d0a3915f2e8e35b2758fd0dfec0ccf27270b83a8b3a711d5aaa61934eb1ae7",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "9114aadce73bbb9aa3fc2b4dfefa084820f5a622fd6b3fd7066d046de426d875",
+      "size_bytes": 2787974,
+      "removed_on": "2026-11-05T20:37:24.339264+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="review-token" content="__REVIEW_TOKEN__">
+  <title>REVIEW · 圖片檢查</title>
+  <link rel="icon" href="favorit.ico">
+  <link rel="stylesheet" href="styles/review.css">
+  <script src="scripts/review.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">REVIEW <span>圖片檢查</span></div>
+    <div class="sort-order">OLD <span>→</span> NEW</div>
+    <button id="refresh" class="quiet" type="button">重新載入</button>
+  </header>
+  <div id="connection" class="connection" role="status">
+    <strong>在本機啟動 REVIEW</strong>
+    <p>在 gallery2 目錄執行 <code>python3 review.py</code>，再開啟 <a href="http://127.0.0.1:8767/review.html">http://127.0.0.1:8767/review.html</a>。刪除功能會直接移除本機圖片與同名 prompt。</p>
+  </div>
+  <main>
+    <section class="viewer" aria-label="圖片檢查">
+      <div class="viewer-toolbar">
+        <span id="position">載入清單…</span>
+        <button id="zoom" class="quiet" type="button" aria-pressed="false">原尺寸</button>
+      </div>
+      <div class="stage" id="stage" data-loading="true" aria-busy="true">
+        <div id="imageHost"></div>
+        <p id="imageStatus" role="status">正在連線…</p>
+      </div>
+      <div class="navigation">
+        <button id="previous" type="button" disabled>← 上一頁</button>
+        <span id="preloadStatus" class="subtle" aria-live="polite"></span>
+        <button id="next" type="button" disabled>下一頁 →</button>
+      </div>
+    </section>
+    <aside class="sidebar">
+      <div class="eyebrow" id="collection">檢查進度</div>
+      <h1 id="filename">依日期，逐張檢查。</h1>
+      <div class="date-line"><time id="currentDate">—</time><span id="categoryBadge" class="badge">三個分類</span></div>
+      <progress id="progress" max="1" value="0" aria-label="目前位置"></progress>
+      <p id="saveStatus" class="subtle" role="status">自動記住上次日期與圖片。</p>
+      <div class="fields">
+        <label for="category">分類</label>
+        <select id="category"><option>全部</option><option>無重力</option><option>自動</option><option>構圖</option></select>
+        <label for="dateJump">跳到日期</label>
+        <select id="dateJump" aria-label="跳到日期"><option value="">—</option></select>
+        <label id="pageLabel" for="pageNumber">跳到頁碼（全部 0 張，已刪 0 張）</label>
+        <form id="jumpForm" class="jump-form">
+          <input id="pageNumber" type="number" min="1" value="1" inputmode="numeric" aria-label="頁碼">
+          <button type="submit" id="jump">前往</button>
+        </form>
+      </div>
+      <details class="prompt-panel"><summary>查看原始 prompt</summary><pre id="prompt">—</pre></details>
+      <div class="delete-panel">
+        <button id="delete" class="danger" type="button" title="刪除目前圖片（Mac Delete / ⌫）" disabled>DELETE</button>
+        <p class="subtle">直接刪除圖片與同名 prompt，不備份。</p>
+      </div>
+      <p id="notice" role="status"></p>
+      <p class="help">⌫ Delete 刪除 · ← → 切換圖片<br>點圖放大 · 依加入日期由舊到新排列。</p>
+    </aside>
+  </main>
+</body>
+</html>

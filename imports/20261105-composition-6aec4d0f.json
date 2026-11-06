@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-05",
+  "image_handling": "Randomly selected approximately 50% of new images horizontally mirrored with a lossless PNG transform; other source PNG bytes preserved.",
+  "prompt_handling": "Full original user prompts preserved in matching Markdown files; no share links appended.",
+  "deduplication": "SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, compared against all gallery categories and this batch.",
+  "summary": {
+    "source_images": 6,
+    "added": 3,
+    "added_by_category": {
+      "構圖": 3
+    },
+    "horizontally_mirrored": 1,
+    "skipped_duplicates": 0,
+    "repeated_image_references": 0,
+    "removed_after_import": 3
+  },
+  "images": [
+    {
+      "category": "構圖",
+      "scene": "無重力空間，天空。",
+      "image": "images/構圖/無重力天空-02.png",
+      "prompt_file": "images/構圖/無重力天空-02.md",
+      "source_file_id": "file_000000008fc08211ad08b4b1378bfff7",
+      "source_message_id": "f70e1c3c-5da5-48f9-a330-f243200467eb",
+      "source_prompt_message_id": "1396d203-fb7e-4b18-8617-393557d9bc86",
+      "original_sha256": "f985e3e262711d9891c779b1cd7804bc450e5a4227b6837323ec3d48a0c94fad",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "c1faf2ff8816cfdac9e17e4c68a8e7ade16dfd152d35709a724fa90c27a1549a",
+      "size_bytes": 2684680
+    },
+    {
+      "category": "構圖",
+      "scene": "無重力空間，天空。",
+      "image": "images/構圖/無重力天空-03.png",
+      "prompt_file": "images/構圖/無重力天空-03.md",
+      "source_file_id": "file_00000000c38c81f5950768f38f6d3c2d",
+      "source_message_id": "99939404-6dfc-441e-8f8d-41cf6dd295a0",
+      "source_prompt_message_id": "d0bbafba-3425-4fb1-8c5e-541e13b5f507",
+      "original_sha256": "c67923a68aecc1a4dc0ffea35114f74df9df27892f567974e43244775a93325d",
+      "width": 941,
+      "height": 1671,
+      "horizontal_mirror": false,
+      "output_sha256": "c67923a68aecc1a4dc0ffea35114f74df9df27892f567974e43244775a93325d",
+      "size_bytes": 2658956
+    },
+    {
+      "category": "構圖",
+      "scene": "風起松庭的扇影",
+      "image": "images/構圖/風起松庭的扇影-01.png",
+      "prompt_file": "images/構圖/風起松庭的扇影-01.md",
+      "source_file_id": "file_00000000bb3081fa8f522146dd3f9d6a",
+      "source_message_id": "d32d60a9-385a-4714-9e2f-8a2591957cd6",
+      "source_prompt_message_id": "216a9c1a-ed7b-4707-8e50-42324e80f18a",
+      "original_sha256": "823955340fea2272fe3672dce3ddf3f8d7ea08d50188686255811bb8df591913",
+      "width": 941,
+      "height": 1670,
+      "horizontal_mirror": false,
+      "output_sha256": "823955340fea2272fe3672dce3ddf3f8d7ea08d50188686255811bb8df591913",
+      "size_bytes": 2536431
+    }
+  ],
+  "skipped": [],
+  "repeated_references": [],
+  "removed_after_import": [
+    {
+      "category": "構圖",
+      "scene": "航海圖室的晨光",
+      "image": "images/構圖/航海圖室的晨光-01.png",
+      "prompt_file": "images/構圖/航海圖室的晨光-01.md",
+      "source_file_id": "file_0000000004b081fabb91bbe3700d689a",
+      "source_message_id": "f3c873a2-273f-4796-9305-5cda15836a32",
+      "source_prompt_message_id": "2e7bd3af-9598-4f87-9d51-04566933c530",
+      "original_sha256": "86858cff0d02fc7f243c983bf844c87dddf8287ce3115507ee1d1be20b49f401",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "a523728b2570e96102f26df785d1d3c23d43084f815ce03f3f203700b49cba6e",
+      "size_bytes": 2611467,
+      "removed_on": "2026-11-05T20:36:55.958327+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
+    },
+    {
+      "category": "構圖",
+      "scene": "潮汐棧道的白浪",
+      "image": "images/構圖/潮汐棧道的白浪-01.png",
+      "prompt_file": "images/構圖/潮汐棧道的白浪-01.md",
+      "source_file_id": "file_00000000f5588211af05231545928465",
+      "source_message_id": "00845db2-8bb0-46a9-a237-7f455dc4e169",
+      "source_prompt_message_id": "90ae4b5f-0fdd-41ff-8286-a99674da969f",
+      "original_sha256": "edce82a994992f4ec26b11bf9d4413671026584195b13159bb12a9522e905200",
+      "width": 942,
+      "height": 1670,
+      "horizontal_mirror": false,
+      "output_sha256": "edce82a994992f4ec26b11bf9d4413671026584195b13159bb12a9522e905200",
+      "size_bytes": 2760613,
+      "removed_on": "2026-11-05T20:37:03.528498+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
+    },
+    {
+      "category": "構圖",
+      "scene": "音符飾品的手作攤",
+      "image": "images/構圖/音符飾品的手作攤-01.png",
+      "prompt_file": "images/構圖/音符飾品的手作攤-01.md",
+      "source_file_id": "file_00000000f4b8820b9e275113b65502ed",
+      "source_message_id": "7e3997c9-6b4e-42d3-845f-1a0e6f4f2772",
+      "source_prompt_message_id": "a2582f1e-3781-4ec5-87fe-81e3d9cfc009",
+      "original_sha256": "ce8c048aaf46e600fce39175871cd6ceec4229ccfa2cdedf8626e23236134800",
+      "width": 941,
+      "height": 1671,
+      "horizontal_mirror": true,
+      "output_sha256": "a748be42ae409e1fad0a1a63448eefdc583b9fb072c1af52e906d1959c8cea1f",
+      "size_bytes": 2659155,
+      "removed_on": "2026-11-05T20:37:09.752505+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
+    }
+  ]
+}

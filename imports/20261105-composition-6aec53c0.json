@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-05",
+  "image_handling": "Randomly selected approximately 50% of new images horizontally mirrored with a lossless PNG transform; other source PNG bytes preserved.",
+  "prompt_handling": "Full original user prompts preserved in matching Markdown files; no share links appended.",
+  "deduplication": "SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, compared against all gallery categories and this batch.",
+  "summary": {
+    "source_images": 1,
+    "added": 1,
+    "added_by_category": {
+      "構圖": 1
+    },
+    "horizontally_mirrored": 1,
+    "skipped_duplicates": 0,
+    "repeated_image_references": 0
+  },
+  "images": [
+    {
+      "category": "構圖",
+      "scene": "櫻花道場的春風",
+      "image": "images/構圖/櫻花道場的春風-01.png",
+      "prompt_file": "images/構圖/櫻花道場的春風-01.md",
+      "source_file_id": "file_0000000015f082118bf252b8625e1deb",
+      "source_message_id": "509cfc5f-37a0-4fed-a416-a7e36152cdd2",
+      "source_prompt_message_id": "ac6fb1cd-7cf2-420f-b617-69157b97e420",
+      "original_sha256": "aa1bfe3dcae3a70ecb95d5e142ed9a0ad5b1e2a43ec192f109b47982c6fcedb6",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "261ceaec8192e33682accf8c225a8c7c83561e917060c413a094b275ea89020b",
+      "size_bytes": 2498386
+    }
+  ],
+  "skipped": [],
+  "repeated_references": []
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-05",
+  "image_handling": "Randomly selected approximately 50% of new images horizontally mirrored with a lossless PNG transform; other source PNG bytes preserved.",
+  "prompt_handling": "Full original user prompts preserved in matching Markdown files; no share links appended.",
+  "deduplication": "SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, compared against all gallery categories and this batch.",
+  "summary": {
+    "source_images": 1,
+    "added": 0,
+    "added_by_category": {},
+    "horizontally_mirrored": 0,
+    "skipped_duplicates": 0,
+    "repeated_image_references": 0,
+    "removed_after_import": 1
+  },
+  "images": [],
+  "skipped": [],
+  "repeated_references": [],
+  "removed_after_import": [
+    {
+      "category": "構圖",
+      "scene": "花燈遊園的廊橋",
+      "image": "images/構圖/花燈遊園的廊橋-01.png",
+      "prompt_file": "images/構圖/花燈遊園的廊橋-01.md",
+      "source_file_id": "file_00000000012481f5a33ffa224d1de450",
+      "source_message_id": "745d1afa-40ba-479c-b882-bfd6caebab9a",
+      "source_prompt_message_id": "18d5b0dc-ea9f-4fb8-9a00-937c28ceb100",
+      "original_sha256": "ddc35fe6499e986bda91c8915ca497d12d935ea4e8987f0aff863a4a9c3d3563",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "3a09ff22a9c12f796e99d8e50bcdb696189a1b3c35efbf4968ca63b856e863aa",
+      "size_bytes": 2631533,
+      "removed_on": "2026-11-05T20:36:46.521362+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
+    }
+  ]
+}

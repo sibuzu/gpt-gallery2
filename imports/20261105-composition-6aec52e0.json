@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-05",
+  "image_handling": "Randomly selected approximately 50% of new images horizontally mirrored with a lossless PNG transform; other source PNG bytes preserved.",
+  "prompt_handling": "Full original user prompts preserved in matching Markdown files; no share links appended.",
+  "deduplication": "SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, compared against all gallery categories and this batch.",
+  "summary": {
+    "source_images": 6,
+    "added": 3,
+    "added_by_category": {
+      "構圖": 3
+    },
+    "horizontally_mirrored": 1,
+    "skipped_duplicates": 0,
+    "repeated_image_references": 0,
+    "removed_after_import": 3
+  },
+  "images": [
+    {
+      "category": "構圖",
+      "scene": "無重力空間，天空。",
+      "image": "images/構圖/無重力天空-08.png",
+      "prompt_file": "images/構圖/無重力天空-08.md",
+      "source_file_id": "file_00000000372081f4869a53e1c0e10fcd",
+      "source_message_id": "af4baf65-b5a1-4d24-9b70-90d822848b5e",
+      "source_prompt_message_id": "b305024a-a71d-472c-9634-a7215c225936",
+      "original_sha256": "8cca04f9a5c6528ca7ac82c2c42c9b395da5b3daf83c573c0a687e24ae973adc",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "8f83103e4daddf2aee0afe519ade1f361e8f68882dee424cebf0545779f1edfe",
+      "size_bytes": 2416684
+    },
+    {
+      "category": "構圖",
+      "scene": "無重力空間，天空。",
+      "image": "images/構圖/無重力天空-09.png",
+      "prompt_file": "images/構圖/無重力天空-09.md",
+      "source_file_id": "file_0000000018d4820bab306e059685cc66",
+      "source_message_id": "8051b547-176d-4a00-b558-292730946e04",
+      "source_prompt_message_id": "01838cb8-b382-44fd-b328-21b006c48435",
+      "original_sha256": "8ae97b75e43614b8aecdf03bd0e2f12ca4b8ec16812e800105254bd053aac9fc",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": false,
+      "output_sha256": "8ae97b75e43614b8aecdf03bd0e2f12ca4b8ec16812e800105254bd053aac9fc",
+      "size_bytes": 2600023
+    },
+    {
+      "category": "構圖",
+      "scene": "藍旗城堡的晨誓",
+      "image": "images/構圖/藍旗城堡的晨誓-01.png",
+      "prompt_file": "images/構圖/藍旗城堡的晨誓-01.md",
+      "source_file_id": "file_00000000c5f08211b5accc9cd6155dfd",
+      "source_message_id": "d303c3a0-94ab-4eb5-a266-5b5cc0bbd43b",
+      "source_prompt_message_id": "ef83999b-7067-4335-820b-23ebc5ca8adc",
+      "original_sha256": "8fa49ece78deef988c8d26f6a40b6f173be43ece3561772f7f040731a65aecc2",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": false,
+      "output_sha256": "8fa49ece78deef988c8d26f6a40b6f173be43ece3561772f7f040731a65aecc2",
+      "size_bytes": 2517114
+    }
+  ],
+  "skipped": [],
+  "repeated_references": [],
+  "removed_after_import": [
+    {
+      "category": "構圖",
+      "scene": "河畔植物咖啡座",
+      "image": "images/構圖/河畔植物咖啡座-01.png",
+      "prompt_file": "images/構圖/河畔植物咖啡座-01.md",
+      "source_file_id": "file_00000000089c8211bd0a7b622f117b09",
+      "source_message_id": "37284217-2d41-4888-adec-a4c833ef6a25",
+      "source_prompt_message_id": "39461a09-787c-4285-aa5e-7e476991e732",
+      "original_sha256": "278997426d8c7f5cc4d637d86232c09c9801860e16c69b5cc0bf5e35eb66f42a",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "6526414245ed8bd9594d86a09960943019a211386b1b0257065e8a2d912bf23e",
+      "size_bytes": 2806964,
+      "removed_on": "2026-11-05T20:37:51.037258+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
+    },
+    {
+      "category": "構圖",
+      "scene": "金紋展廳的晚宴",
+      "image": "images/構圖/金紋展廳的晚宴-02.png",
+      "prompt_file": "images/構圖/金紋展廳的晚宴-02.md",
+      "source_file_id": "file_000000003a588211a298ee8c52bcee12",
+      "source_message_id": "e214b2f5-838c-43ac-8035-9c41402a87d2",
+      "source_prompt_message_id": "b0f8e27c-7e8e-493c-94c9-222646bb9003",
+      "original_sha256": "2ffabc83414977fd56b4b1b8cc666c1e2b6a9abc640f6dc21d96c8afac0a07d1",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": false,
+      "output_sha256": "2ffabc83414977fd56b4b1b8cc666c1e2b6a9abc640f6dc21d96c8afac0a07d1",
+      "size_bytes": 2503198,
+      "removed_on": "2026-11-05T20:38:16.361222+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
+    },
+    {
+      "category": "構圖",
+      "scene": "海邊音樂亭的晨風",
+      "image": "images/構圖/海邊音樂亭的晨風-01.png",
+      "prompt_file": "images/構圖/海邊音樂亭的晨風-01.md",
+      "source_file_id": "file_000000006f108211b0a8eb3500696b26",
+      "source_message_id": "9e688076-2ad5-4539-b89d-bb8c6356e382",
+      "source_prompt_message_id": "526af4b1-5341-44f0-bffe-88b90b1496d2",
+      "original_sha256": "9c89a079fd9eea6bd5e547cf8d59be108a49ad2cf1a27ffcaef27847e8e9c9a9",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "ce86a87b274b5462b36795a2b6ff1040176be49dfe3e473d2a7d1374d3e1e152",
+      "size_bytes": 2437690,
+      "removed_on": "2026-11-05T20:38:28.429828+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
+    }
+  ]
+}

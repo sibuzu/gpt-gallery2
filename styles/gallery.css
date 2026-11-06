@@ -43,6 +43,14 @@
       max-width: 1280px;
     }
 
+    .review-link {
+      color: var(--accent);
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-decoration: none;
+    }
+
     h1 {
       font-family: Georgia, "Songti TC", serif;
       font-size: clamp(30px, 4.4vw, 62px);

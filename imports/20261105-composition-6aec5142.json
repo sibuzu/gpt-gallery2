@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-05",
+  "image_handling": "Randomly selected approximately 50% of new images horizontally mirrored with a lossless PNG transform; other source PNG bytes preserved.",
+  "prompt_handling": "Full original user prompts preserved in matching Markdown files; no share links appended.",
+  "deduplication": "SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, compared against all gallery categories and this batch.",
+  "summary": {
+    "source_images": 6,
+    "added": 5,
+    "added_by_category": {
+      "構圖": 5
+    },
+    "horizontally_mirrored": 2,
+    "skipped_duplicates": 0,
+    "repeated_image_references": 0,
+    "removed_after_import": 1
+  },
+  "images": [
+    {
+      "category": "構圖",
+      "scene": "花燈遊園的廊橋",
+      "image": "images/構圖/花燈遊園的廊橋-02.png",
+      "prompt_file": "images/構圖/花燈遊園的廊橋-02.md",
+      "source_file_id": "file_0000000002f881f58011a7e88cbdde10",
+      "source_message_id": "74a63917-54ff-48fb-ae9d-394d8e9c5d45",
+      "source_prompt_message_id": "76a50613-7ba9-4685-8d68-16d4ffd6129b",
+      "original_sha256": "44cbcc173f0364ba16296b5b82e35ba87c7c5e9bf8a6970cb4c8545e4dbea39c",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": false,
+      "output_sha256": "44cbcc173f0364ba16296b5b82e35ba87c7c5e9bf8a6970cb4c8545e4dbea39c",
+      "size_bytes": 2832517
+    },
+    {
+      "category": "構圖",
+      "scene": "機車驛站的霓虹",
+      "image": "images/構圖/機車驛站的霓虹-01.png",
+      "prompt_file": "images/構圖/機車驛站的霓虹-01.md",
+      "source_file_id": "file_0000000039ac81fa9fad5accf7e2b578",
+      "source_message_id": "7e5c20fe-fc7a-4227-aceb-8f96a670e117",
+      "source_prompt_message_id": "83870c2a-da6e-46cc-b553-f0af0081ef10",
+      "original_sha256": "7dc5a2343e0faf890e4a71c7d6c449229b4cb66e5aa64e262a46883de93619d0",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": false,
+      "output_sha256": "7dc5a2343e0faf890e4a71c7d6c449229b4cb66e5aa64e262a46883de93619d0",
+      "size_bytes": 2840677
+    },
+    {
+      "category": "構圖",
+      "scene": "海島神殿的獻花",
+      "image": "images/構圖/海島神殿的獻花-01.png",
+      "prompt_file": "images/構圖/海島神殿的獻花-01.md",
+      "source_file_id": "file_000000002a3c8211978f76d874725eba",
+      "source_message_id": "9b56e3dd-d044-468c-871b-b85e004fc87c",
+      "source_prompt_message_id": "065e7ba9-40bb-4ec3-a032-0da5022c441a",
+      "original_sha256": "3ee47a180c63acdc33f9b7b8231ce37bcc475d8428f2e33841fbbc5d21380be7",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "910eae654b45b802210d466fb089d34a85b42657e7f2dc989667d8f463790ecb",
+      "size_bytes": 2454383
+    },
+    {
+      "category": "構圖",
+      "scene": "無重力空間，天空。",
+      "image": "images/構圖/無重力天空-07.png",
+      "prompt_file": "images/構圖/無重力天空-07.md",
+      "source_file_id": "file_00000000f8348211a6f36d2fb527c448",
+      "source_message_id": "f8932feb-5beb-4022-bfbe-721cedfc7031",
+      "source_prompt_message_id": "7d217aee-1648-4ad9-99a0-f1120ca87604",
+      "original_sha256": "e7dfc2d19b9669bd06789c372548ee338fd91f364edf3f1d1322ce6c3ecfef95",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "e86d4d3bda921bf9ef04c723fcdae3a25ebc09d5be026d5ce31cb7119aae8f80",
+      "size_bytes": 2160928
+    },
+    {
+      "category": "構圖",
+      "scene": "月相展廳的銀環",
+      "image": "images/構圖/月相展廳的銀環-01.png",
+      "prompt_file": "images/構圖/月相展廳的銀環-01.md",
+      "source_file_id": "file_000000009498821199842793016db33a",
+      "source_message_id": "d17a43a4-82c8-43fe-b6ed-5b58b03281da",
+      "source_prompt_message_id": "79950598-75cb-438a-966b-41697cccb829",
+      "original_sha256": "682a61a01f09ad9f6a8fd8b7c9b3634edb168539d156ee9ba1e525fa82ac0b81",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": false,
+      "output_sha256": "682a61a01f09ad9f6a8fd8b7c9b3634edb168539d156ee9ba1e525fa82ac0b81",
+      "size_bytes": 2596882
+    }
+  ],
+  "skipped": [],
+  "repeated_references": [],
+  "removed_after_import": [
+    {
+      "category": "構圖",
+      "scene": "青磚武館的清晨",
+      "image": "images/構圖/青磚武館的清晨-01.png",
+      "prompt_file": "images/構圖/青磚武館的清晨-01.md",
+      "source_file_id": "file_000000002440820ba85d9ed53c2ef01a",
+      "source_message_id": "15d6f44c-af68-4204-afc8-d2c97abf1a2b",
+      "source_prompt_message_id": "d9e6df56-a76f-4ba7-ac37-ae1ed0233197",
+      "original_sha256": "0674fd5ee6983cac2caf46699bebd252bf6b667337021310f9bc6f5814e8da7c",
+      "width": 941,
+      "height": 1671,
+      "horizontal_mirror": true,
+      "output_sha256": "c29e7c2821332f45f97844c5e0da59f32a8f0c54ce92e7e67207a425cd15822a",
+      "size_bytes": 2658693,
+      "removed_on": "2026-11-05T20:37:35.665006+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
+    }
+  ]
+}

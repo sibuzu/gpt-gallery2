@@ -5,54 +5,57 @@
   "deduplication": "SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, compared against all gallery categories and this batch.",
   "summary": {
     "source_images": 23,
-    "added": 20,
+    "added": 16,
     "added_by_category": {
       "無重力": 8,
-      "自動": 12
+      "自動": 8
     },
-    "horizontally_mirrored": 12,
+    "horizontally_mirrored": 9,
     "skipped_duplicates": 0,
-    "removed_after_import": 3
+    "removed_after_import": 7
   },
   "images": [
     {
       "category": "無重力",
       "scene": "無重力空間，天空。",
-      "image": "images/無重力/無重力-137.png",
-      "prompt_file": "images/無重力/無重力-137.md",
+      "image": "images/無重力/前傾屈膝伸手-09.png",
+      "prompt_file": "images/無重力/前傾屈膝伸手-09.md",
       "source_file_id": "file_00000000520081f889f35f7c7f659411",
       "original_sha256": "071b4a8e54f1320d5b3dd849062fbd7b96b96dfeb171a00f6d6a095a3a650d83",
       "width": 941,
       "height": 1672,
       "horizontal_mirror": false,
       "output_sha256": "071b4a8e54f1320d5b3dd849062fbd7b96b96dfeb171a00f6d6a095a3a650d83",
-      "size_bytes": 2560255
+      "size_bytes": 2560255,
+      "pose": "前傾屈膝伸手"
     },
     {
       "category": "無重力",
       "scene": "無重力空間，天空。",
-      "image": "images/無重力/無重力-138.png",
-      "prompt_file": "images/無重力/無重力-138.md",
+      "image": "images/無重力/俯身併腿展臂-02.png",
+      "prompt_file": "images/無重力/俯身併腿展臂-02.md",
       "source_file_id": "file_00000000866481f4bfb2893cf26dcdcf",
       "original_sha256": "614871b7b9a95d79fcf22fa6dd95059d8582ea2396ea67c03230f4253d0c5312",
       "width": 941,
       "height": 1672,
       "horizontal_mirror": false,
       "output_sha256": "614871b7b9a95d79fcf22fa6dd95059d8582ea2396ea67c03230f4253d0c5312",
-      "size_bytes": 2210761
+      "size_bytes": 2210761,
+      "pose": "俯身併腿展臂"
     },
     {
       "category": "無重力",
       "scene": "無重力空間，天空。",
-      "image": "images/無重力/無重力-139.png",
-      "prompt_file": "images/無重力/無重力-139.md",
+      "image": "images/無重力/屈膝交腿伸手-02.png",
+      "prompt_file": "images/無重力/屈膝交腿伸手-02.md",
       "source_file_id": "file_000000007e30820eade4545847133d24",
       "original_sha256": "955f57e84edb493ef23a197025bc908c84e08c421d01d14a7f34db98540ad648",
       "width": 941,
       "height": 1672,
       "horizontal_mirror": true,
       "output_sha256": "c66ee001cbec2e0ca8b93d3a5769b5f83e484490f04d1a2a5048d10b302313d9",
-      "size_bytes": 2505079
+      "size_bytes": 2505079,
+      "pose": "屈膝交腿伸手"
     },
     {
       "category": "自動",
@@ -107,43 +110,18 @@
       "size_bytes": 2674723
     },
     {
-      "category": "自動",
-      "scene": "海邊音樂亭的晨風",
-      "image": "images/自動/海邊音樂亭的晨風-01.png",
-      "prompt_file": "images/自動/海邊音樂亭的晨風-01.md",
-      "source_file_id": "file_00000000909c821189ad20c3599033d7",
-      "original_sha256": "d1e461b6b4dd95a8a028772b26b1d704fc04db21e259a5e7dd5019e868f92218",
-      "width": 941,
-      "height": 1672,
-      "horizontal_mirror": true,
-      "output_sha256": "912f0d1413b8033dc5950da2317895aac8773fead07d9247f007e789da69dfc7",
-      "size_bytes": 2705079
-    },
-    {
       "category": "無重力",
       "scene": "無重力空間，天空。",
-      "image": "images/無重力/無重力-140.png",
-      "prompt_file": "images/無重力/無重力-140.md",
+      "image": "images/無重力/側身屈膝展臂-01.png",
+      "prompt_file": "images/無重力/側身屈膝展臂-01.md",
       "source_file_id": "file_000000003ec881f4866aa08b2e909cb5",
       "original_sha256": "b5fa565d4c0cdfcb39844446a8baadeb699d68af5700b2ecf1e3cdb9de7a7692",
       "width": 941,
       "height": 1672,
       "horizontal_mirror": true,
       "output_sha256": "b103a7b2f6a6ceab20760bf6f783124c0e3cc5929a92f940983a9c45f7caa859",
-      "size_bytes": 2598399
-    },
-    {
-      "category": "自動",
-      "scene": "廢墟花園的白花",
-      "image": "images/自動/廢墟花園的白花-01.png",
-      "prompt_file": "images/自動/廢墟花園的白花-01.md",
-      "source_file_id": "file_0000000010448210886348cfb81a778a",
-      "original_sha256": "191505339aeca54c8ad3ba34234fe392e9a770c068a3dd3a39305ca2f7ba0c8e",
-      "width": 941,
-      "height": 1671,
-      "horizontal_mirror": true,
-      "output_sha256": "6b19097a81bc586e578f6e268c3f8873ac557bcdfa46b9dc96f6bf2d8a4bf74d",
-      "size_bytes": 2816976
+      "size_bytes": 2598399,
+      "pose": "側身屈膝展臂"
     },
     {
       "category": "自動",
@@ -161,8 +139,8 @@
     {
       "category": "無重力",
       "scene": "無重力空間，天空。",
-      "image": "images/無重力/無重力-141.png",
-      "prompt_file": "images/無重力/無重力-141.md",
+      "image": "images/無重力/屈膝伸手撫肩-02.png",
+      "prompt_file": "images/無重力/屈膝伸手撫肩-02.md",
       "source_file_id": "file_0000000064888211aed36cfe8604c554",
       "original_sha256": "b17441ad0ce16e1fa4c8e1e46eae8a2153b79ab16c312afd6c07e91d2ea82716",
       "width": 941,
@@ -170,7 +148,8 @@
       "horizontal_mirror": true,
       "output_sha256": "e5f234fd69372463a0e381f9da49fb8dfa551067ce42752426a7795a7d49e9d6",
       "size_bytes": 2600956,
-      "renamed_from": "images/無重力/無重力-142.png"
+      "renamed_from": "images/無重力/無重力-142.png",
+      "pose": "屈膝伸手撫肩"
     },
     {
       "category": "自動",
@@ -188,8 +167,8 @@
     {
       "category": "無重力",
       "scene": "無重力空間，天空。",
-      "image": "images/無重力/無重力-142.png",
-      "prompt_file": "images/無重力/無重力-142.md",
+      "image": "images/無重力/前傾雙手併放-08.png",
+      "prompt_file": "images/無重力/前傾雙手併放-08.md",
       "source_file_id": "file_00000000b33881f58131519ecb8d3c7d",
       "original_sha256": "5bceeb21bb257baf4e51e3594cfca30e700ced533a67707fbc3d40f1acfca9b0",
       "width": 941,
@@ -197,13 +176,14 @@
       "horizontal_mirror": true,
       "output_sha256": "f93420d7f5db29c1726d4c8814a358e829913cd4db5f52aa49f4135343f783cd",
       "size_bytes": 2466630,
-      "renamed_from": "images/無重力/無重力-143.png"
+      "renamed_from": "images/無重力/無重力-143.png",
+      "pose": "前傾雙手併放"
     },
     {
       "category": "無重力",
       "scene": "無重力空間，天空。",
-      "image": "images/無重力/無重力-143.png",
-      "prompt_file": "images/無重力/無重力-143.md",
+      "image": "images/無重力/側身前伸後舉-02.png",
+      "prompt_file": "images/無重力/側身前伸後舉-02.md",
       "source_file_id": "file_00000000c61081fa977fbf8afab8a5e5",
       "original_sha256": "207902fa8ae2ce0719328d5c4503c04f15baca2be8696fc18260d892736165ce",
       "width": 941,
@@ -211,20 +191,8 @@
       "horizontal_mirror": false,
       "output_sha256": "207902fa8ae2ce0719328d5c4503c04f15baca2be8696fc18260d892736165ce",
       "size_bytes": 2764086,
-      "renamed_from": "images/無重力/無重力-144.png"
-    },
-    {
-      "category": "自動",
-      "scene": "屋頂跑道的起點",
-      "image": "images/自動/屋頂跑道的起點-01.png",
-      "prompt_file": "images/自動/屋頂跑道的起點-01.md",
-      "source_file_id": "file_000000004bc082119eb8484079f3e0d7",
-      "original_sha256": "75f25879e9cc48d27d42408e55f4f924fb161cd87026961be5ff0335c6a123ab",
-      "width": 942,
-      "height": 1670,
-      "horizontal_mirror": true,
-      "output_sha256": "f0b35495d2c41bc8bb4d2d9316568ffb52b5a9a9328123685c98259c9f79f930",
-      "size_bytes": 2389473
+      "renamed_from": "images/無重力/無重力-144.png",
+      "pose": "側身前伸後舉"
     },
     {
       "category": "自動",
@@ -255,8 +223,8 @@
     {
       "category": "無重力",
       "scene": "無重力空間，天空。",
-      "image": "images/無重力/無重力-144.png",
-      "prompt_file": "images/無重力/無重力-144.md",
+      "image": "images/無重力/後仰單腿後屈展臂-02.png",
+      "prompt_file": "images/無重力/後仰單腿後屈展臂-02.md",
       "source_file_id": "file_00000000c0908211932ac1e782e647bb",
       "original_sha256": "7ce7c93865e8e92b3d9f71052f0416dfa78ab1319fec76940b704292af06be7f",
       "width": 941,
@@ -264,20 +232,8 @@
       "horizontal_mirror": true,
       "output_sha256": "b426f59ca32bb868a496e9da20020b7ee6421b2caf863eb3894719b0656279ff",
       "size_bytes": 2261105,
-      "renamed_from": "images/無重力/無重力-145.png"
-    },
-    {
-      "category": "自動",
-      "scene": "中華街的竹蒸籠",
-      "image": "images/自動/中華街的竹蒸籠-01.png",
-      "prompt_file": "images/自動/中華街的竹蒸籠-01.md",
-      "source_file_id": "file_0000000097208211ae4643aee29a7951",
-      "original_sha256": "1b3a86c3415494d31cfddff47fe5b4f4218fdf776807e7a164c918679622e326",
-      "width": 941,
-      "height": 1672,
-      "horizontal_mirror": false,
-      "output_sha256": "1b3a86c3415494d31cfddff47fe5b4f4218fdf776807e7a164c918679622e326",
-      "size_bytes": 3168740
+      "renamed_from": "images/無重力/無重力-145.png",
+      "pose": "後仰單腿後屈展臂"
     }
   ],
   "skipped": [],
@@ -323,6 +279,66 @@
       "output_sha256": "0e568d2c4d2804a975b54025a373e9cd4e5b38a44cc6513e2e50611634cde3f2",
       "size_bytes": 2472908,
       "reason": "Image and prompt removed from working tree before commit."
+    },
+    {
+      "category": "自動",
+      "scene": "中華街的竹蒸籠",
+      "image": "images/自動/中華街的竹蒸籠-01.png",
+      "prompt_file": "images/自動/中華街的竹蒸籠-01.md",
+      "source_file_id": "file_0000000097208211ae4643aee29a7951",
+      "original_sha256": "1b3a86c3415494d31cfddff47fe5b4f4218fdf776807e7a164c918679622e326",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": false,
+      "output_sha256": "1b3a86c3415494d31cfddff47fe5b4f4218fdf776807e7a164c918679622e326",
+      "size_bytes": 3168740,
+      "removed_on": "2026-11-05T20:35:07.719156+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
+    },
+    {
+      "category": "自動",
+      "scene": "屋頂跑道的起點",
+      "image": "images/自動/屋頂跑道的起點-01.png",
+      "prompt_file": "images/自動/屋頂跑道的起點-01.md",
+      "source_file_id": "file_000000004bc082119eb8484079f3e0d7",
+      "original_sha256": "75f25879e9cc48d27d42408e55f4f924fb161cd87026961be5ff0335c6a123ab",
+      "width": 942,
+      "height": 1670,
+      "horizontal_mirror": true,
+      "output_sha256": "f0b35495d2c41bc8bb4d2d9316568ffb52b5a9a9328123685c98259c9f79f930",
+      "size_bytes": 2389473,
+      "removed_on": "2026-11-05T20:35:13.800423+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
+    },
+    {
+      "category": "自動",
+      "scene": "廢墟花園的白花",
+      "image": "images/自動/廢墟花園的白花-01.png",
+      "prompt_file": "images/自動/廢墟花園的白花-01.md",
+      "source_file_id": "file_0000000010448210886348cfb81a778a",
+      "original_sha256": "191505339aeca54c8ad3ba34234fe392e9a770c068a3dd3a39305ca2f7ba0c8e",
+      "width": 941,
+      "height": 1671,
+      "horizontal_mirror": true,
+      "output_sha256": "6b19097a81bc586e578f6e268c3f8873ac557bcdfa46b9dc96f6bf2d8a4bf74d",
+      "size_bytes": 2816976,
+      "removed_on": "2026-11-05T20:35:20.270870+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
+    },
+    {
+      "category": "自動",
+      "scene": "海邊音樂亭的晨風",
+      "image": "images/自動/海邊音樂亭的晨風-01.png",
+      "prompt_file": "images/自動/海邊音樂亭的晨風-01.md",
+      "source_file_id": "file_00000000909c821189ad20c3599033d7",
+      "original_sha256": "d1e461b6b4dd95a8a028772b26b1d704fc04db21e259a5e7dd5019e868f92218",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "912f0d1413b8033dc5950da2317895aac8773fead07d9247f007e789da69dfc7",
+      "size_bytes": 2705079,
+      "removed_on": "2026-11-05T20:35:29.204984+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
     }
   ]
 }

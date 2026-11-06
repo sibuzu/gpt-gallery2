@@ -10,6 +10,8 @@ from pathlib import Path
 
 from PIL import Image
 
+from review_catalog import update_review_catalog
+
 
 SITE_DIR = Path(__file__).resolve().parent
 CATEGORIES = ("清新", "性感", "動漫", "故事", "故事2", "漫服", "動漫全", "無重力", "自動", "構圖")
@@ -69,6 +71,7 @@ def write_if_changed(path: Path, content: str) -> bool:
 
 def main() -> None:
     images, report = scan_images()
+    review_images = update_review_catalog(SITE_DIR)
     data_path = SITE_DIR / "scripts" / "gallery-data.js"
     marker = "// Runtime gallery2 loader\n"
     _, separator, loader = data_path.read_text(encoding="utf-8").partition(marker)
@@ -92,6 +95,7 @@ def main() -> None:
     for path, content in outputs.items():
         action = "Updated" if write_if_changed(path, content) else "Checked"
         print(f"{action} {path.relative_to(SITE_DIR)}.")
+    print(f"Checked review-catalog.json: {len(review_images)} images, oldest first.")
     print(f"Gallery 2: {len(images)} images; " + ", ".join(
         f"{category}: {report['category_counts'][category]}" for category in CATEGORIES
     ))

@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-05",
+  "image_handling": "Randomly selected approximately 50% of new images horizontally mirrored with a lossless PNG transform; other source PNG bytes preserved.",
+  "prompt_handling": "Full original user prompts preserved in matching Markdown files; no share links appended.",
+  "deduplication": "SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, compared against all gallery categories and this batch.",
+  "summary": {
+    "source_images": 6,
+    "excluded_per_user_request": 1,
+    "added": 4,
+    "added_by_category": {
+      "構圖": 4
+    },
+    "horizontally_mirrored": 2,
+    "skipped_duplicates": 0,
+    "repeated_image_references": 0,
+    "removed_after_import": 1
+  },
+  "images": [
+    {
+      "category": "構圖",
+      "scene": "海洋館的紅色髮夾",
+      "image": "images/構圖/海洋館的紅色髮夾-01.png",
+      "prompt_file": "images/構圖/海洋館的紅色髮夾-01.md",
+      "source_file_id": "file_000000004c0081f5a70638f750db847a",
+      "source_message_id": "dbe3468a-6940-4e60-a7ef-d85428a5b65d",
+      "source_prompt_message_id": "d6778810-663c-4390-a3d5-3e2e096634dd",
+      "original_sha256": "6450c1ce3b6ae3031573aceae8a84a435b486a7a2a9741773a5ed78338defc04",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": false,
+      "output_sha256": "6450c1ce3b6ae3031573aceae8a84a435b486a7a2a9741773a5ed78338defc04",
+      "size_bytes": 2363810
+    },
+    {
+      "category": "構圖",
+      "scene": "海灣露台的琴聲",
+      "image": "images/構圖/海灣露台的琴聲-01.png",
+      "prompt_file": "images/構圖/海灣露台的琴聲-01.md",
+      "source_file_id": "file_00000000a09081fab0aebf8613a7ec0c",
+      "source_message_id": "ecf37161-2df5-46ce-b9d0-587fbe7043d2",
+      "source_prompt_message_id": "75796843-a78e-40a1-a878-2b7c8e9100c5",
+      "original_sha256": "24aa9b27655270547b5532e6c6e8e65ec0e3d7db1120126b3e084e03f5fadd06",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "75b01f708e7e4a2ef65fec0f2c2c74d7b84bb247b5082d25bf2016f6dbd7ec62",
+      "size_bytes": 2008203
+    },
+    {
+      "category": "構圖",
+      "scene": "無重力空間，天空。",
+      "image": "images/構圖/無重力天空-04.png",
+      "prompt_file": "images/構圖/無重力天空-04.md",
+      "source_file_id": "file_00000000020481f4a06d956dd2bb55b0",
+      "source_message_id": "65ab0b29-d8f4-4fcc-b08e-96402382c96b",
+      "source_prompt_message_id": "db144a33-5586-4982-af07-2bc1683a0972",
+      "original_sha256": "fce5228b7dc5cc169c46b714e74755a627d53b3df039ee1a21f8a02229d8dc99",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "c9bacddcf1d7256f9b2dae5905a83fa84b76871bbd96a7ad37e061120ed4ab36",
+      "size_bytes": 2026428
+    },
+    {
+      "category": "構圖",
+      "scene": "無重力空間，天空。",
+      "image": "images/構圖/無重力天空-05.png",
+      "prompt_file": "images/構圖/無重力天空-05.md",
+      "source_file_id": "file_00000000f9b0820b9ab030d21285a7e7",
+      "source_message_id": "159dc545-72d2-45fa-8826-3d7fca1591c5",
+      "source_prompt_message_id": "b24ca353-d3ce-41ca-bdbf-6bf1e4b00467",
+      "original_sha256": "69513d297451ee92dbabbc71017e6b9fb3766b547a727b2ea5c634e5f07cd92f",
+      "width": 941,
+      "height": 1671,
+      "horizontal_mirror": false,
+      "output_sha256": "69513d297451ee92dbabbc71017e6b9fb3766b547a727b2ea5c634e5f07cd92f",
+      "size_bytes": 2157296
+    }
+  ],
+  "excluded": [
+    {
+      "source_file_id": "file_0000000047008230b34fce7f2426588d",
+      "source_message_id": "b7897807-5818-448f-b086-159936002120",
+      "source_prompt_message_id": "8efa5381-d9bb-4554-8fa2-7ff0ffa2cc16",
+      "scene": "荒原瞭望站的早晨",
+      "reason": "excluded_last_image_per_user_request"
+    }
+  ],
+  "skipped": [],
+  "repeated_references": [],
+  "removed_after_import": [
+    {
+      "category": "構圖",
+      "scene": "無重力空間，天空。",
+      "image": "images/構圖/無重力天空-06.png",
+      "prompt_file": "images/構圖/無重力天空-06.md",
+      "source_file_id": "file_000000007b2881fab5fc9ba00ae096d1",
+      "source_message_id": "3cece780-9a77-42f2-86ac-67fd79ae46dd",
+      "source_prompt_message_id": "e9d877c4-cdf2-4c03-aa1d-fb7a743445fe",
+      "original_sha256": "09fc0b35eea9a6b230ce8217377bb318a2bf29835340f22357756faa88288303",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "91e97a25651d8f1639299142864b191523d557c3be072f96acf23b38da061319",
+      "size_bytes": 2017174,
+      "removed_on": "2026-11-05T20:37:22.769431+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
+    }
+  ]
+}

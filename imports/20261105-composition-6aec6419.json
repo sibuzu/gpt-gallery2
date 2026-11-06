@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-05",
+  "image_handling": "Randomly selected approximately 50% of new images horizontally mirrored with a lossless PNG transform; other source PNG bytes preserved.",
+  "prompt_handling": "Full original user prompts preserved in matching Markdown files; no share links appended.",
+  "deduplication": "SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, compared against all gallery categories and this batch.",
+  "summary": {
+    "source_images": 6,
+    "added": 2,
+    "added_by_category": {
+      "構圖": 2
+    },
+    "horizontally_mirrored": 2,
+    "skipped_duplicates": 0,
+    "repeated_image_references": 0,
+    "removed_after_import": 4
+  },
+  "images": [
+    {
+      "category": "構圖",
+      "scene": "拳擊館的休息片刻",
+      "image": "images/構圖/拳擊館的休息片刻-01.png",
+      "prompt_file": "images/構圖/拳擊館的休息片刻-01.md",
+      "source_file_id": "file_00000000e4d48206bf451d711faf13b1",
+      "source_message_id": "08bbfe64-4402-4e5c-89d8-cb04c97842bc",
+      "source_prompt_message_id": "fcaa8424-a588-4a37-aa4a-ebbe5f905694",
+      "original_sha256": "134a2fa8f035052639c78fdb30c0964985d914a844be9a0ebf68035f50da6dd2",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "1940cd1c63bc5763669af9a66ecd6f563ef5f9fd267bec3991cd8a36023e5955",
+      "size_bytes": 2240278
+    },
+    {
+      "category": "構圖",
+      "scene": "花市攤前的緞帶",
+      "image": "images/構圖/花市攤前的緞帶-01.png",
+      "prompt_file": "images/構圖/花市攤前的緞帶-01.md",
+      "source_file_id": "file_0000000083848206b7f12d6fdadab1d5",
+      "source_message_id": "785e0f03-427c-4b17-b041-f9cdbd18e3af",
+      "source_prompt_message_id": "08a97bb2-4dad-44a7-83be-4f291da2b568",
+      "original_sha256": "94aa881027a6051dc5e7e9d50baa10d2389d19369708d0ee62af2e6ab935f6f2",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "07343cefd3448791fc131acb84fc7f6128938d33ba332bab4abe3d1f510259b6",
+      "size_bytes": 2479031
+    }
+  ],
+  "skipped": [],
+  "repeated_references": [],
+  "removed_after_import": [
+    {
+      "category": "構圖",
+      "scene": "卡牌俱樂部的開局",
+      "image": "images/構圖/卡牌俱樂部的開局-01.png",
+      "prompt_file": "images/構圖/卡牌俱樂部的開局-01.md",
+      "source_file_id": "file_00000000370882068f5ab42acf205eb8",
+      "source_message_id": "3bc8a8d7-7084-4058-8b39-0ea0539a2466",
+      "source_prompt_message_id": "329038a1-51f6-4eb9-bfb2-45b015e6ca8b",
+      "original_sha256": "50f71d970c7ee2cd031b1f53050cf20661f53bc3bde0731380e1ab87c68b2373",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": false,
+      "output_sha256": "50f71d970c7ee2cd031b1f53050cf20661f53bc3bde0731380e1ab87c68b2373",
+      "size_bytes": 2685012,
+      "removed_on": "2026-11-05T20:40:29.691180+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
+    },
+    {
+      "category": "構圖",
+      "scene": "白玫瑰茶亭",
+      "image": "images/構圖/白玫瑰茶亭-01.png",
+      "prompt_file": "images/構圖/白玫瑰茶亭-01.md",
+      "source_file_id": "file_00000000a6088206a03be2bcaaf3dcbe",
+      "source_message_id": "599d8760-c7e1-4f61-90ec-9f62e94dce6a",
+      "source_prompt_message_id": "aab41dd0-1cab-4c7b-a1a4-d2de329864c1",
+      "original_sha256": "2aec36056c36eabf7fcc1993de8356e7f13220dea8394af089d09ed975e5c0e8",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": true,
+      "output_sha256": "1f0bff2e1a95d4fd7ca1fb95d9d8c7ad797b5239a07b4b1311b2c3077c5c7987",
+      "size_bytes": 2612216,
+      "removed_on": "2026-11-05T20:40:37.694718+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
+    },
+    {
+      "category": "構圖",
+      "scene": "無重力空間，天空。",
+      "image": "images/構圖/無重力天空-30.png",
+      "prompt_file": "images/構圖/無重力天空-30.md",
+      "source_file_id": "file_000000007b8082068c3a5019adb87d65",
+      "source_message_id": "628bf199-1da7-4c39-bcc6-a1dd0f51efff",
+      "source_prompt_message_id": "e0021de6-4c65-4db1-bde6-884288131e9f",
+      "original_sha256": "13b5bd508f001c256f60e18e7aa93528cd55281f90632beaa1cd937645d07ee1",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": false,
+      "output_sha256": "13b5bd508f001c256f60e18e7aa93528cd55281f90632beaa1cd937645d07ee1",
+      "size_bytes": 2238678,
+      "removed_on": "2026-11-05T20:40:47.742463+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
+    },
+    {
+      "category": "構圖",
+      "scene": "冬夜壁爐的茶香",
+      "image": "images/構圖/冬夜壁爐的茶香-01.png",
+      "prompt_file": "images/構圖/冬夜壁爐的茶香-01.md",
+      "source_file_id": "file_000000002fa482069593b18e18c09026",
+      "source_message_id": "111c3aa2-dfff-4152-ba2e-eba6153f2354",
+      "source_prompt_message_id": "9e4ee567-8007-4797-8109-56ddf89e29ad",
+      "original_sha256": "e93a63be660385195b41131f272aa822e85b7d2b1e9a43d1229df65bf4ea3975",
+      "width": 941,
+      "height": 1672,
+      "horizontal_mirror": false,
+      "output_sha256": "e93a63be660385195b41131f272aa822e85b7d2b1e9a43d1229df65bf4ea3975",
+      "size_bytes": 2571065,
+      "removed_on": "2026-11-05T20:40:49.072515+08:00",
+      "reason": "Permanently deleted with matching prompt from REVIEW at user request."
+    }
+  ]
+}
