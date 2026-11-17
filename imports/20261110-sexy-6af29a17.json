@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-10",
+  "image_handling": "Original source PNG bytes preserved; no mirroring, resizing, or recompression.",
+  "prompt_handling": "Full original user prompts preserved in matching Markdown files; no share links appended.",
+  "deduplication": "Compare full original user prompts against all existing categories and this batch first. No matching prompt means a different image; compare SHA-256 bytes and RGBA pixels including horizontal mirrors only among matching-prompt candidates.",
+  "summary": {
+    "source_batches": {
+      "6af29a17": 3
+    },
+    "source_images": 3,
+    "added": 3,
+    "added_by_category": {
+      "性感": 3
+    },
+    "horizontally_mirrored": 0,
+    "skipped_duplicates": 0,
+    "repeated_image_references": 0,
+    "matching_prompt_image_comparisons": 3
+  },
+  "images": [
+    {
+      "category": "性感",
+      "outfit": "短版低胸背心+超低腰短褲",
+      "image": "images/性感/短版低胸背心+超低腰短褲-03.png",
+      "prompt_file": "images/性感/短版低胸背心+超低腰短褲-03.md",
+      "source_batch": "6af29a17",
+      "source_file_id": "file_00000000029881faba34eff8ac99b156",
+      "source_message_id": "0d64621a-f5d2-4302-9aa3-fc77de1ce7cf",
+      "source_prompt_message_id": "bbb21ce1-cc31-411c-b2ac-9534104dbf34",
+      "original_sha256": "85f948af5c8d72834dfd6a5c6e9afcae5b78be29915cf91917ee18371828d6fe",
+      "output_sha256": "85f948af5c8d72834dfd6a5c6e9afcae5b78be29915cf91917ee18371828d6fe",
+      "width": 1199,
+      "height": 1312,
+      "size_bytes": 2123373,
+      "horizontal_mirror": false,
+      "imported_at": "2026-11-10T12:20:17.471961+08:00",
+      "prompt_sha256": "8cf5ac23e512a43495ae203fadf8c81d74a8f73fe190f9a888ca4bca66826153",
+      "deduplication_result": {
+        "same_prompt_candidates": [],
+        "image_comparison_performed": false,
+        "decision": "different_image_no_matching_prompt"
+      }
+    },
+    {
+      "category": "性感",
+      "outfit": "短版低胸背心+超低腰短褲",
+      "image": "images/性感/短版低胸背心+超低腰短褲-04.png",
+      "prompt_file": "images/性感/短版低胸背心+超低腰短褲-04.md",
+      "source_batch": "6af29a17",
+      "source_file_id": "file_00000000635881f998d6745d654c0ba5",
+      "source_message_id": "7c727d29-8fe8-4596-b410-4b9abeeaca90",
+      "source_prompt_message_id": "bbb21ce1-cc31-411c-b2ac-9534104dbf34",
+      "original_sha256": "9177bfe14b3e31afb7acd1fe8bb1510298e0c408cb2878f5f0bb97eb30fd64d8",
+      "output_sha256": "9177bfe14b3e31afb7acd1fe8bb1510298e0c408cb2878f5f0bb97eb30fd64d8",
+      "width": 1199,
+      "height": 1312,
+      "size_bytes": 2075579,
+      "horizontal_mirror": false,
+      "imported_at": "2026-11-10T12:20:17.587116+08:00",
+      "prompt_sha256": "8cf5ac23e512a43495ae203fadf8c81d74a8f73fe190f9a888ca4bca66826153",
+      "deduplication_result": {
+        "same_prompt_candidates": [
+          "images/性感/短版低胸背心+超低腰短褲-03.png"
+        ],
+        "image_comparison_performed": true,
+        "decision": "different_image_after_matching_prompt_comparison"
+      }
+    },
+    {
+      "category": "性感",
+      "outfit": "短版低胸背心+超低腰短褲",
+      "image": "images/性感/短版低胸背心+超低腰短褲-05.png",
+      "prompt_file": "images/性感/短版低胸背心+超低腰短褲-05.md",
+      "source_batch": "6af29a17",
+      "source_file_id": "file_000000006af48230b117ed199186d229",
+      "source_message_id": "2f2a4946-d8f0-4e04-a3f7-8ff2643803fd",
+      "source_prompt_message_id": "bbb21ce1-cc31-411c-b2ac-9534104dbf34",
+      "original_sha256": "e001aa5fc0a28193959dc0e63600cdd8cd5a636c43848884c9f447a56bc57912",
+      "output_sha256": "e001aa5fc0a28193959dc0e63600cdd8cd5a636c43848884c9f447a56bc57912",
+      "width": 1199,
+      "height": 1312,
+      "size_bytes": 1921443,
+      "horizontal_mirror": false,
+      "imported_at": "2026-11-10T12:20:17.728058+08:00",
+      "prompt_sha256": "8cf5ac23e512a43495ae203fadf8c81d74a8f73fe190f9a888ca4bca66826153",
+      "deduplication_result": {
+        "same_prompt_candidates": [
+          "images/性感/短版低胸背心+超低腰短褲-03.png",
+          "images/性感/短版低胸背心+超低腰短褲-04.png"
+        ],
+        "image_comparison_performed": true,
+        "decision": "different_image_after_matching_prompt_comparison"
+      }
+    }
+  ],
+  "skipped": [],
+  "repeated_references": []
+}

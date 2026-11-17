@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-10",
+  "image_handling": "Original source PNG bytes preserved; no mirroring, resizing, or recompression.",
+  "prompt_handling": "Full original user prompts preserved in matching Markdown files; no share links appended.",
+  "deduplication": "Compare full original user prompts against all existing categories and this batch first. No matching prompt means a different image; compare SHA-256 bytes and RGBA pixels including horizontal mirrors only among matching-prompt candidates.",
+  "summary": {
+    "source_batches": {
+      "6af299af": 2
+    },
+    "source_images": 2,
+    "added": 2,
+    "added_by_category": {
+      "性感": 2
+    },
+    "horizontally_mirrored": 0,
+    "skipped_duplicates": 0,
+    "repeated_image_references": 0
+  },
+  "images": [
+    {
+      "category": "性感",
+      "outfit": "短版低胸背心+超低腰短褲",
+      "image": "images/性感/短版低胸背心+超低腰短褲-01.png",
+      "prompt_file": "images/性感/短版低胸背心+超低腰短褲-01.md",
+      "source_batch": "6af299af",
+      "source_file_id": "file_00000000b9a4820b82faf5037750a52d",
+      "source_message_id": "82845401-c516-4c0d-ae26-e20304fd365c",
+      "source_prompt_message_id": "804f7ad3-0b0a-406d-a69a-a6ba93468c9c",
+      "original_sha256": "317937bd5e8bcbfb179c036ba8b8f1d8ed433c538b16758dceab4267785118d4",
+      "output_sha256": "317937bd5e8bcbfb179c036ba8b8f1d8ed433c538b16758dceab4267785118d4",
+      "width": 1024,
+      "height": 1536,
+      "size_bytes": 2154398,
+      "horizontal_mirror": false,
+      "imported_at": "2026-11-10T12:14:48.728164+08:00",
+      "prompt_sha256": "32816493950a448632ccf782881d7ce83c5ee454c5c8c76f4e1de07f49d6002b",
+      "deduplication_result": {
+        "same_prompt_candidates": [],
+        "image_comparison_performed": false,
+        "decision": "different_image_no_matching_prompt"
+      }
+    },
+    {
+      "category": "性感",
+      "outfit": "短版低胸背心+超低腰短褲",
+      "image": "images/性感/短版低胸背心+超低腰短褲-02.png",
+      "prompt_file": "images/性感/短版低胸背心+超低腰短褲-02.md",
+      "source_batch": "6af299af",
+      "source_file_id": "file_00000000fb188212a1efc923f8d8a976",
+      "source_message_id": "b27bdb79-e445-4d49-a724-603be6b641aa",
+      "source_prompt_message_id": "36132fc2-8c7e-471b-a285-5c22c19baf75",
+      "original_sha256": "943b63383b03e96e935a3c9fb2b4d43795b8d5af70fae0b379c9c22d03045733",
+      "output_sha256": "943b63383b03e96e935a3c9fb2b4d43795b8d5af70fae0b379c9c22d03045733",
+      "width": 1122,
+      "height": 1402,
+      "size_bytes": 2235644,
+      "horizontal_mirror": false,
+      "imported_at": "2026-11-10T12:14:48.790398+08:00",
+      "prompt_sha256": "58368b9859839b567d13666d4281dfd68530575dfbc9c1db7c34450b8d63d3b6",
+      "deduplication_result": {
+        "same_prompt_candidates": [],
+        "image_comparison_performed": false,
+        "decision": "different_image_no_matching_prompt"
+      }
+    }
+  ],
+  "skipped": [],
+  "repeated_references": []
+}

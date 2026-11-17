@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-10",
+  "image_handling": "Original source PNG bytes preserved; no mirroring, resizing, or recompression.",
+  "prompt_handling": "Full original user prompts preserved in matching Markdown files; no share links appended.",
+  "deduplication": "Compare full original user prompts against all existing categories and this batch first. No matching prompt means a different image; compare SHA-256 bytes and RGBA pixels including horizontal mirrors only among matching-prompt candidates.",
+  "summary": {
+    "source_batches": {
+      "6af298ce": 1,
+      "6af29955": 1
+    },
+    "source_images": 2,
+    "added": 2,
+    "added_by_category": {
+      "無重力": 2
+    },
+    "horizontally_mirrored": 0,
+    "skipped_duplicates": 0,
+    "repeated_image_references": 0
+  },
+  "images": [
+    {
+      "category": "無重力",
+      "scene": "無重力空間，夢境。",
+      "pose": "後仰伸手展臂",
+      "image": "images/無重力/後仰伸手展臂-06.png",
+      "prompt_file": "images/無重力/後仰伸手展臂-06.md",
+      "source_batch": "6af298ce",
+      "source_file_id": "file_00000000b7ec81fabc43dd6361eb7c02",
+      "source_message_id": "8b26cc0e-4aec-4054-80c9-179f40de4f96",
+      "source_prompt_message_id": "57272499-b053-4449-928a-562dff9dff42",
+      "original_sha256": "7f97c8cafe5eb94cf25f75d5d03d8611e7b7ebaf62106ba77662cb54ba66382f",
+      "output_sha256": "7f97c8cafe5eb94cf25f75d5d03d8611e7b7ebaf62106ba77662cb54ba66382f",
+      "width": 941,
+      "height": 1672,
+      "size_bytes": 2301660,
+      "horizontal_mirror": false,
+      "imported_at": "2026-11-10T12:14:07.846424+08:00",
+      "prompt_sha256": "354184d66848b5eeafae5a0981a1f2f5b6c4e5f36995be1499dc5d9ab713b993",
+      "deduplication_result": {
+        "same_prompt_candidates": [],
+        "image_comparison_performed": false,
+        "decision": "different_image_no_matching_prompt"
+      }
+    },
+    {
+      "category": "無重力",
+      "scene": "無重力空間，夢境。",
+      "pose": "後仰伸手展臂",
+      "image": "images/無重力/後仰伸手展臂-07.png",
+      "prompt_file": "images/無重力/後仰伸手展臂-07.md",
+      "source_batch": "6af29955",
+      "source_file_id": "file_00000000dc58820b9739d8069ddc6cf2",
+      "source_message_id": "211529cc-c68b-4541-a25b-951d184f8874",
+      "source_prompt_message_id": "03edeb45-83c1-45c3-9fd7-e058f3420b39",
+      "original_sha256": "e3f1bcc7375973f5f412846cc6b179eb469e2fa79ca026810a05e2d30f81d58c",
+      "output_sha256": "e3f1bcc7375973f5f412846cc6b179eb469e2fa79ca026810a05e2d30f81d58c",
+      "width": 941,
+      "height": 1672,
+      "size_bytes": 2457965,
+      "horizontal_mirror": false,
+      "imported_at": "2026-11-10T12:14:07.924399+08:00",
+      "prompt_sha256": "c784bafd3f64427022e34faafcdff6c8d3a07503c20c7eba697e261e0cde7bec",
+      "deduplication_result": {
+        "same_prompt_candidates": [],
+        "image_comparison_performed": false,
+        "decision": "different_image_no_matching_prompt"
+      }
+    }
+  ],
+  "skipped": [],
+  "repeated_references": []
+}

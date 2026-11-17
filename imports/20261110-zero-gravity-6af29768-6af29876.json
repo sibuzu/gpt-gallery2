@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-10",
+  "image_handling": "Original source PNG bytes preserved; no mirroring, resizing, or recompression.",
+  "prompt_handling": "Full original user prompts preserved in matching Markdown files; no share links appended.",
+  "deduplication": "SHA-256 bytes and decoded RGBA pixels, including horizontal mirrors, compared against all 1483 existing gallery images and this batch. Exact comparisons only; no perceptual similarity matching.",
+  "summary": {
+    "source_batches": {
+      "6af29768": 1,
+      "6af29876": 1
+    },
+    "source_images": 2,
+    "added": 2,
+    "added_by_category": {
+      "無重力": 2
+    },
+    "horizontally_mirrored": 0,
+    "skipped_duplicates": 0,
+    "repeated_image_references": 0
+  },
+  "images": [
+    {
+      "category": "無重力",
+      "scene": "無重力空間，夢境。",
+      "pose": "後仰伸手展臂",
+      "image": "images/無重力/後仰伸手展臂-05.png",
+      "prompt_file": "images/無重力/後仰伸手展臂-05.md",
+      "source_batch": "6af29768",
+      "source_file_id": "file_00000000219c81fa9cb80da851703d39",
+      "source_message_id": "45c15f1b-3a18-4fd4-acf9-949655a220f4",
+      "source_prompt_message_id": "c2dc3653-7dc4-4045-95ee-d100c8b3087c",
+      "original_sha256": "b1720f72eda049f31c2fb4b73fc10d7ad2abcf323b9d0bab1f731cbed5a6520c",
+      "output_sha256": "b1720f72eda049f31c2fb4b73fc10d7ad2abcf323b9d0bab1f731cbed5a6520c",
+      "width": 941,
+      "height": 1672,
+      "size_bytes": 2526967,
+      "horizontal_mirror": false,
+      "imported_at": "2026-11-10T12:09:21.963970+08:00",
+      "prompt_sha256": "30f1f3c1b18808ff5f4dd123ef0f4dd9dd64353c75332f5bb0ca041657d03717"
+    },
+    {
+      "category": "無重力",
+      "scene": "無重力空間，夢境。",
+      "pose": "仰頭展臂",
+      "image": "images/無重力/仰頭展臂-02.png",
+      "prompt_file": "images/無重力/仰頭展臂-02.md",
+      "source_batch": "6af29876",
+      "source_file_id": "file_00000000759881f88a22a9df67eeee03",
+      "source_message_id": "2e40c3cc-dda3-4cfd-8028-c65f8f727c3a",
+      "source_prompt_message_id": "42d21038-0af1-4509-9462-bbfd2b10aa9b",
+      "original_sha256": "3d88aeca99471391d66a4648083c1b8c1f3f86cd4bed1c09b764ecdd0f3ce461",
+      "output_sha256": "3d88aeca99471391d66a4648083c1b8c1f3f86cd4bed1c09b764ecdd0f3ce461",
+      "width": 941,
+      "height": 1672,
+      "size_bytes": 2361607,
+      "horizontal_mirror": false,
+      "imported_at": "2026-11-10T12:09:21.967858+08:00",
+      "prompt_sha256": "8ed325709172d9ba4eb2e2addbc875411dcb6cf71c4a8c32ecac89aaa4a62298"
+    }
+  ],
+  "skipped": [],
+  "repeated_references": []
+}
