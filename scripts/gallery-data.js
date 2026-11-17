@@ -232,6 +232,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "世界",
+    "src": "images/世界/世界風景-57.png",
+    "hasDescription": true,
+    "title": "世界風景-57",
+    "width": 1024,
+    "height": 1536
+  },
+  {
     "category": "故事2",
     "src": "images/故事2/083A_玫瑰紙品店的小卡.png",
     "hasDescription": true,
@@ -262,6 +270,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "白玫瑰溫室-01",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "世界",
+    "src": "images/世界/世界風景-59.png",
+    "hasDescription": true,
+    "title": "世界風景-59",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "性感",
@@ -464,6 +480,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "世界",
+    "src": "images/世界/世界風景-39.png",
+    "hasDescription": true,
+    "title": "世界風景-39",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "無重力",
     "src": "images/無重力/後仰單手扶頭-03.png",
     "hasDescription": true,
@@ -612,6 +636,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/性感/掛脖上衣+高腰短裙-03.png",
     "hasDescription": true,
     "title": "掛脖上衣+高腰短裙-03",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "世界",
+    "src": "images/世界/世界風景-53.png",
+    "hasDescription": true,
+    "title": "世界風景-53",
     "width": 941,
     "height": 1672
   },
@@ -840,6 +872,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "世界",
+    "src": "images/世界/世界風景-54.png",
+    "hasDescription": true,
+    "title": "世界風景-54",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "故事",
     "src": "images/故事/021B_藍白牛奶吧的早晨.png",
     "hasDescription": true,
@@ -892,6 +932,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/故事2/069B_劇院開演前.png",
     "hasDescription": true,
     "title": "069B_劇院開演前",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "世界",
+    "src": "images/世界/世界風景-45.png",
+    "hasDescription": true,
+    "title": "世界風景-45",
     "width": 941,
     "height": 1672
   },
@@ -1360,6 +1408,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
+    "category": "世界",
+    "src": "images/世界/世界風景-34.png",
+    "hasDescription": true,
+    "title": "世界風景-34",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "漫服",
     "src": "images/漫服/60C_暁美ほむら-01.png",
     "hasDescription": true,
@@ -1422,6 +1478,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "060A_手織布店的柔光",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "世界",
+    "src": "images/世界/世界風景-62.png",
+    "hasDescription": true,
+    "title": "世界風景-62",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "漫服",
@@ -1920,6 +1984,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "世界",
+    "src": "images/世界/世界風景-36.png",
+    "hasDescription": true,
+    "title": "世界風景-36",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "動漫全",
     "src": "images/動漫全/13B_Tifa-03.png",
     "hasDescription": true,
@@ -2118,6 +2190,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "37A_シャンプー-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "世界",
+    "src": "images/世界/世界風景-37.png",
+    "hasDescription": true,
+    "title": "世界風景-37",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "故事2",
@@ -2438,6 +2518,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "30C_明日香-02",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "世界",
+    "src": "images/世界/世界風景-40.png",
+    "hasDescription": true,
+    "title": "世界風景-40",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "漫服",
@@ -2808,6 +2896,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "世界",
+    "src": "images/世界/世界風景-46.png",
+    "hasDescription": true,
+    "title": "世界風景-46",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "性感",
     "src": "images/性感/短版和服-07.png",
     "hasDescription": true,
@@ -3014,6 +3110,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "屈膝雙手扶頭-01",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "世界",
+    "src": "images/世界/世界風景-38.png",
+    "hasDescription": true,
+    "title": "世界風景-38",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "漫服",
@@ -4544,6 +4648,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
+    "category": "世界",
+    "src": "images/世界/世界風景-48.png",
+    "hasDescription": true,
+    "title": "世界風景-48",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "動漫全",
     "src": "images/動漫全/15B_Yuna-04.png",
     "hasDescription": true,
@@ -4556,6 +4668,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/漫服/44C_ランチ-02.png",
     "hasDescription": true,
     "title": "44C_ランチ-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "世界",
+    "src": "images/世界/世界風景-61.png",
+    "hasDescription": true,
+    "title": "世界風景-61",
     "width": 941,
     "height": 1672
   },
@@ -5014,6 +5134,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "04B_Morrigan-03",
     "width": 942,
     "height": 1669
+  },
+  {
+    "category": "世界",
+    "src": "images/世界/世界風景-51.png",
+    "hasDescription": true,
+    "title": "世界風景-51",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "漫服",
@@ -5496,6 +5624,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "世界",
+    "src": "images/世界/世界風景-52.png",
+    "hasDescription": true,
+    "title": "世界風景-52",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "故事",
     "src": "images/故事/145B_紫藤棚下的午休.png",
     "hasDescription": true,
@@ -5936,6 +6072,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "世界",
+    "src": "images/世界/世界風景-49.png",
+    "hasDescription": true,
+    "title": "世界風景-49",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "故事",
     "src": "images/故事/135B_藍色劇場的入口.png",
     "hasDescription": true,
@@ -5974,6 +6118,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "世界風景-10",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "世界",
+    "src": "images/世界/世界風景-60.png",
+    "hasDescription": true,
+    "title": "世界風景-60",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "動漫",
@@ -6164,6 +6316,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/動漫/54A_日暮かごめ-01.png",
     "hasDescription": true,
     "title": "54A_日暮かごめ-01",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "世界",
+    "src": "images/世界/世界風景-58.png",
+    "hasDescription": true,
+    "title": "世界風景-58",
     "width": 941,
     "height": 1672
   },
@@ -7856,6 +8016,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
+    "category": "世界",
+    "src": "images/世界/世界風景-41.png",
+    "hasDescription": true,
+    "title": "世界風景-41",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "性感",
     "src": "images/性感/露肩上衣+百褶迷你裙-01.png",
     "hasDescription": true,
@@ -7958,6 +8126,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "080B_藍調音樂廳的等待",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "世界",
+    "src": "images/世界/世界風景-43.png",
+    "hasDescription": true,
+    "title": "世界風景-43",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "性感",
@@ -8542,6 +8718,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "046B_濱海藝廊的曲線",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "世界",
+    "src": "images/世界/世界風景-47.png",
+    "hasDescription": true,
+    "title": "世界風景-47",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "性感",
@@ -10048,6 +10232,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "世界",
+    "src": "images/世界/世界風景-35.png",
+    "hasDescription": true,
+    "title": "世界風景-35",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "構圖",
     "src": "images/構圖/街角烘焙教室-01.png",
     "hasDescription": true,
@@ -10518,6 +10710,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "12A_シェルミー-02",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "世界",
+    "src": "images/世界/世界風景-42.png",
+    "hasDescription": true,
+    "title": "世界風景-42",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "性感",
@@ -11420,6 +11620,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/無重力/俯身併腿展臂-02.png",
     "hasDescription": true,
     "title": "俯身併腿展臂-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "世界",
+    "src": "images/世界/世界風景-50.png",
+    "hasDescription": true,
+    "title": "世界風景-50",
     "width": 941,
     "height": 1672
   },

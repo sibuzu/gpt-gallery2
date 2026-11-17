@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-17",
+  "imported_at": "2026-11-17T16:31:05.180879+08:00",
+  "category": "世界",
+  "task_id": "t_0cf9942d22ef47ef956d",
+  "source_share_id": "6afc106a-6ac4-83ee-ac03-dbb6dd45be5d",
+  "source_html_sha256": "1a5c3be1fc88e6861eb6a62db5123393501f87e40e653e8d025688ea91cbd336",
+  "image_handling": "Original PNG bytes, dimensions and quality preserved; no resizing, recompression or horizontal mirroring.",
+  "prompt_handling": "Complete original user text saved verbatim, paired in conversation order to generated images.",
+  "deduplication": "Exact full prompt text across every Gallery2 category and this batch first; only matching prompts trigger SHA-256, decoded RGBA and horizontal mirror comparisons.",
+  "summary": {
+    "source_user_prompts": 2,
+    "source_images": 2,
+    "added": 2,
+    "skipped_duplicates": 0,
+    "same_prompt_image_comparisons": 1
+  },
+  "images": [
+    {
+      "source_file_id": "file_000000004cac81fa8fdf538d54c33e82",
+      "source_message_id": "bc56840f-daa8-489a-bcbe-f1f99a2800e7",
+      "prompt_message_id": "20e5e4fb-f171-49e8-9213-36ae9e2c476e",
+      "declared_width": 941,
+      "declared_height": 1672,
+      "original_sha256": "dffcb30baefd92876ed9ebe1ddc3c9614c3b5439fec9f7efc5ad36aad85f1147",
+      "width": 941,
+      "height": 1672,
+      "size_bytes": 2730639,
+      "image": "images/世界/世界風景-43.png",
+      "prompt_file": "images/世界/世界風景-43.md",
+      "category": "世界",
+      "output_sha256": "dffcb30baefd92876ed9ebe1ddc3c9614c3b5439fec9f7efc5ad36aad85f1147",
+      "horizontal_mirror": false
+    },
+    {
+      "source_file_id": "file_00000000768c82118e8760caa177f80c",
+      "source_message_id": "3f281c14-95d1-47d1-8449-5799c9157434",
+      "prompt_message_id": "fd7acd6b-eda7-4b81-8b5b-cce5a349c702",
+      "declared_width": 941,
+      "declared_height": 1672,
+      "original_sha256": "b0a22da97356445560f6d9aeec35f9011e840e576dde21f4ad473ccd142e1c36",
+      "width": 941,
+      "height": 1672,
+      "size_bytes": 2947856,
+      "image": "images/世界/世界風景-44.png",
+      "prompt_file": "images/世界/世界風景-44.md",
+      "category": "世界",
+      "output_sha256": "b0a22da97356445560f6d9aeec35f9011e840e576dde21f4ad473ccd142e1c36",
+      "horizontal_mirror": false
+    }
+  ],
+  "skipped": [],
+  "unpaired_user_prompts": []
+}

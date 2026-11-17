@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-17",
+  "imported_at": "2026-11-17T16:31:02.020271+08:00",
+  "category": "世界",
+  "task_id": "t_0cf9942d22ef47ef956d",
+  "source_share_id": "6afc1051-0108-83ee-b062-16403aa0006e",
+  "source_html_sha256": "4d47ce0b1924579974a5188979b136cc8e0d129971dba57c923dd6f4ad61f378",
+  "image_handling": "Original PNG bytes, dimensions and quality preserved; no resizing, recompression or horizontal mirroring.",
+  "prompt_handling": "Complete original user text saved verbatim, paired in conversation order to generated images.",
+  "deduplication": "Exact full prompt text across every Gallery2 category and this batch first; only matching prompts trigger SHA-256, decoded RGBA and horizontal mirror comparisons.",
+  "summary": {
+    "source_user_prompts": 1,
+    "source_images": 1,
+    "added": 1,
+    "skipped_duplicates": 0,
+    "same_prompt_image_comparisons": 0
+  },
+  "images": [
+    {
+      "source_file_id": "file_00000000e3788211a7e3c7050f826486",
+      "source_message_id": "e4a728e3-ff9e-4f66-91e8-8fcb49f074ab",
+      "prompt_message_id": "716da36b-339f-4847-9d9b-21fe9d44a377",
+      "declared_width": 941,
+      "declared_height": 1672,
+      "original_sha256": "d48f16156edc9268522305f8a5705b781961969336f63e844f35c4f5badf9c43",
+      "width": 941,
+      "height": 1672,
+      "size_bytes": 3065646,
+      "image": "images/世界/世界風景-42.png",
+      "prompt_file": "images/世界/世界風景-42.md",
+      "category": "世界",
+      "output_sha256": "d48f16156edc9268522305f8a5705b781961969336f63e844f35c4f5badf9c43",
+      "horizontal_mirror": false
+    }
+  ],
+  "skipped": [],
+  "unpaired_user_prompts": []
+}
