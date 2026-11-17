@@ -14,7 +14,7 @@ from review_catalog import update_review_catalog
 
 
 SITE_DIR = Path(__file__).resolve().parent
-CATEGORIES = ("清新", "性感", "動漫", "故事", "故事2", "漫服", "動漫全", "無重力", "自動", "構圖")
+CATEGORIES = ("清新", "性感", "動漫", "故事", "故事2", "漫服", "動漫全", "無重力", "自動", "構圖", "世界")
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".gif"}
 
 

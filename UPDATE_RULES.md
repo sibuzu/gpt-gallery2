@@ -59,6 +59,7 @@
 - REVIEW 頁碼標籤顯示「跳到頁碼（全部 X 張，已刪 Y 張）」；依目前分類顯示現存張數與持續保存的累計刪除數，刪除及重新載入後重排連續頁碼。
 
 - `無重力` 與 `自動` 都必須列入 `build_gallery.py` 的分類與 `scripts/gallery.js` 的分類選項。
+- `世界/` 對應 `images/世界/`，必須列入 `build_gallery.py` 的分類與 `scripts/gallery.js` 的分類選項。
 - `無重力` 每張圖片獨立顯示，不依共同檔名合併成群組。動漫 B/C 維持既有合併展示規則。
 - 匯入、刪除、重新命名或分類變更後，執行 `build_gallery.py` 更新 `scripts/gallery-data.js`、`catalog_report.json` 與 `index.html` 的資源版本。
 - 建置需要 Python 3.11 以上及 Pillow；目前 `/tmp/gpt-gallery-build-env/bin/python` 可用，但它是暫存環境，消失時應建立環境，不依賴它永久存在。
